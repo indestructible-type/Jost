@@ -37,3 +37,7 @@ your font!
 You can then add True-Type hinting following the instruction over at [ttfautohint](https://www.freetype.org/ttfautohint/).
 
 If you want to skip all that jazz and download the compleated font, visit the [website](http://indestructible-type.github.io/Renner.html).
+
+Contact
+-------
+If you have questions or want to help out, send me and email at indestructibletype@gmail.com
