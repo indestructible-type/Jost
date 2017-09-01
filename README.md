@@ -2,7 +2,7 @@
 ========
 ![Renner* Picture](https://indestructible-type.github.io/Renner/0.png)
 Renner* is an original font created by indestructible type*. It is inspired by 
-the designs of Paul Renner. This is version 2.0.
+the designs of Paul Renner. This is version 2.1.
 
 Renner* is designed and maintained by [Owen Earl](https://plus.google.com/103790404905174393616), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io).
 
