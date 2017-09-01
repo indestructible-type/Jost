@@ -22,6 +22,8 @@ Changelog
 ---------
 <b>v2.0</b>
 Rebuilt from the ground up.
+<b>v2.1</b>
+Added oe ligatures to support French, fixed some italics
 
 Building
 --------
