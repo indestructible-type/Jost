@@ -5,7 +5,7 @@ FamilyName: Renner*
 Weight: Book
 Copyright: This typeface is licensed under the SIL open font license.
 UComments: "2016-6-10: Created with FontForge (http://fontforge.org)"
-Version: 002.000
+Version: 002.100
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1487573486
+ModificationTime: 1504299804
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -82,7 +82,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 48 16 3
+WinInfo: 320 16 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -103,7 +103,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 308
+BeginChars: 65536 310
 
 StartChar: H
 Encoding: 72 72 0
@@ -5571,6 +5571,100 @@ LayerCount: 2
 Fore
 Refer: 247 728 S 1 0 0 -1 2 1620 2
 Refer: 13 82 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: OE
+Encoding: 338 338 308
+Width: 985
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+553 700 m 5
+ 553 620 l 5
+ 390 620 l 5
+ 390 700 l 5
+ 553 700 l 5
+553 80 m 5
+ 553 0 l 5
+ 390 0 l 5
+ 390 80 l 5
+ 553 80 l 5
+390 620 m 5
+ 232 620 125 513 125 350 c 4
+ 125 187 232 80 390 80 c 5
+ 390 0 l 5
+ 186 0 40 141 40 350 c 4
+ 40 559 186 700 390 700 c 5
+ 390 620 l 5
+562 0 m 5
+ 562 80 l 5
+ 915 80 l 5
+ 915 0 l 5
+ 562 0 l 5
+562 620 m 5
+ 562 700 l 5
+ 915 700 l 5
+ 915 620 l 5
+ 562 620 l 5
+562 340 m 5
+ 562 420 l 5
+ 895 420 l 5
+ 895 340 l 5
+ 562 340 l 5
+515 700 m 5
+ 600 700 l 5
+ 600 0 l 5
+ 515 0 l 5
+ 515 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: oe
+Encoding: 339 339 309
+Width: 905
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+35 230 m 0
+ 35 369 138 470 273 470 c 0
+ 408 470 491 339 491 230 c 0
+ 491 121 408 -10 273 -10 c 0
+ 138 -10 35 91 35 230 c 0
+116 230 m 0
+ 116 134 183 65 273 65 c 0
+ 363 65 430 134 430 230 c 0
+ 430 326 363 395 273 395 c 0
+ 183 395 116 326 116 230 c 0
+435 230 m 1
+ 475 270 l 1
+ 526 270 l 1
+ 516 230 l 1
+ 435 230 l 1
+506 210 m 1
+ 506 278 l 1
+ 849 278 l 1
+ 869 210 l 1
+ 506 210 l 1
+869 210 m 1
+ 785 250 l 1
+ 785 336 743 400 653 400 c 0
+ 573 400 508 346 508 260 c 1
+ 435 230 l 1
+ 435 359 518 470 653 470 c 0
+ 783 470 870 379 870 234 c 0
+ 870 226 870 218 869 210 c 1
+435 230 m 5
+ 506 230 l 1
+ 506 124 563 65 653 65 c 0
+ 720 65 766 98 797 148 c 1
+ 862 107 l 1
+ 816 37 762 -10 643 -10 c 0
+ 518 -10 435 101 435 230 c 5
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

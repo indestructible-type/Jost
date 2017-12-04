@@ -5,7 +5,7 @@ FamilyName: Renner*
 Weight: Bold
 Copyright: This typeface is licensed under the SIL open font license.
 UComments: "2016-6-10: Created with FontForge (http://fontforge.org)"
-Version: 002.000
+Version: 002.100
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1497018975
+ModificationTime: 1504299296
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -82,7 +82,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 16 3
+WinInfo: 48 16 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -103,7 +103,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 303
+BeginChars: 65536 305
 
 StartChar: H
 Encoding: 72 72 0
@@ -198,26 +198,26 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-167 0 m 1
- 167 125 l 1
- 520 125 l 1
- 520 0 l 1
- 167 0 l 1
-167 575 m 1
- 167 700 l 1
- 520 700 l 1
- 520 575 l 1
- 167 575 l 1
+167 0 m 5
+ 167 125 l 5
+ 520 125 l 5
+ 520 0 l 5
+ 167 0 l 5
+167 575 m 5
+ 167 700 l 5
+ 520 700 l 5
+ 520 575 l 5
+ 167 575 l 5
 167 300 m 5
  167 420 l 5
  500 420 l 5
  500 300 l 5
  167 300 l 5
-65 700 m 1
- 205 700 l 1
- 205 0 l 1
- 65 0 l 1
- 65 700 l 1
+65 700 m 5
+ 205 700 l 5
+ 205 0 l 5
+ 65 0 l 5
+ 65 700 l 5
 EndSplineSet
 EndChar
 
@@ -342,28 +342,28 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-167 0 m 1
- 167 125 l 1
- 330 125 l 1
- 330 0 l 1
- 167 0 l 1
-167 575 m 1
- 167 700 l 1
- 330 700 l 1
- 330 575 l 1
- 167 575 l 1
-65 700 m 1
- 205 700 l 1
- 205 0 l 1
- 65 0 l 1
- 65 700 l 1
-330 125 m 1
+167 0 m 5
+ 167 125 l 5
+ 330 125 l 5
+ 330 0 l 5
+ 167 0 l 5
+167 575 m 5
+ 167 700 l 5
+ 330 700 l 5
+ 330 575 l 5
+ 167 575 l 5
+65 700 m 5
+ 205 700 l 5
+ 205 0 l 5
+ 65 0 l 5
+ 65 700 l 5
+330 125 m 5
  468 125 560 197 560 350 c 4
- 560 503 468 575 330 575 c 1
- 330 700 l 1
- 554 700 700 569 700 350 c 0
- 700 131 554 0 330 0 c 1
- 330 125 l 1
+ 560 503 468 575 330 575 c 5
+ 330 700 l 5
+ 554 700 700 569 700 350 c 4
+ 700 131 554 0 330 0 c 5
+ 330 125 l 5
 EndSplineSet
 EndChar
 
@@ -5258,6 +5258,100 @@ SplineSet
  363 100 402 159 402 230 c 0
 EndSplineSet
 Refer: 62 45 S 1.5 0 0 1 117.5 320 2
+EndChar
+
+StartChar: OE
+Encoding: 338 338 303
+Width: 1035
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+558 700 m 1
+ 558 575 l 1
+ 395 575 l 1
+ 395 700 l 1
+ 558 700 l 1
+558 125 m 1
+ 558 0 l 1
+ 395 0 l 1
+ 395 125 l 1
+ 558 125 l 1
+395 575 m 1
+ 257 575 165 503 165 350 c 0
+ 165 197 257 125 395 125 c 1
+ 395 0 l 1
+ 171 0 25 131 25 350 c 0
+ 25 569 171 700 395 700 c 1
+ 395 575 l 1
+622 0 m 1
+ 622 125 l 1
+ 975 125 l 1
+ 975 0 l 1
+ 622 0 l 1
+622 575 m 1
+ 622 700 l 1
+ 975 700 l 1
+ 975 575 l 1
+ 622 575 l 1
+622 300 m 1
+ 622 420 l 1
+ 955 420 l 1
+ 955 300 l 1
+ 622 300 l 1
+520 700 m 1
+ 660 700 l 1
+ 660 0 l 1
+ 520 0 l 1
+ 520 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: oe
+Encoding: 339 339 304
+Width: 925
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+20 230 m 0
+ 20 389 148 485 288 485 c 0
+ 428 485 516 359 516 230 c 0
+ 516 101 428 -25 288 -25 c 0
+ 148 -25 20 71 20 230 c 0
+156 230 m 0
+ 156 144 208 90 288 90 c 0
+ 368 90 420 144 420 230 c 0
+ 420 316 368 370 288 370 c 0
+ 208 370 156 316 156 230 c 0
+440 230 m 1
+ 480 270 l 1
+ 556 270 l 1
+ 546 230 l 1
+ 440 230 l 1
+536 195 m 1
+ 536 294 l 1
+ 884 294 l 1
+ 903 195 l 1
+ 536 195 l 1
+903 195 m 1
+ 765 250 l 1
+ 765 336 728 385 658 385 c 0
+ 598 385 538 336 538 260 c 1
+ 440 230 l 1
+ 440 339 503 485 658 485 c 0
+ 808 485 905 384 905 239 c 0
+ 905 231 905 214 903 195 c 1
+440 230 m 1
+ 536 230 l 1
+ 536 134 590 85 658 85 c 0
+ 715 85 751 116 771 156 c 1
+ 899 127 l 1
+ 863 52 797 -20 658 -20 c 0
+ 493 -20 440 121 440 230 c 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
