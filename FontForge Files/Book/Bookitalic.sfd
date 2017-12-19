@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1504300099
+ModificationTime: 1512878054
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "less simple a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -82,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 176 16 4
+WinInfo: 65488 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -103,7 +104,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 305
+BeginChars: 65537 306
 
 StartChar: H
 Encoding: 72 72 0
@@ -585,6 +586,7 @@ SplineSet
  464.270507812 355.006835938 404.804408584 395 343 395 c 0
  250.571651562 395 155.515625 311.33203125 155.515625 193.717773438 c 0
 EndSplineSet
+Substitution2: "less simple a" a.alt
 EndChar
 
 StartChar: X
@@ -5346,6 +5348,40 @@ SplineSet
  813 37 754 -10 635 -10 c 0
  521.146484375 -10 471.209960938 66.5927734375 471.209960938 178.173828125 c 4
  471.209960938 194.724609375 472.770507812 212.044921875 476 230 c 5
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 305
+Width: 485
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+141 130 m 4
+ 141 69 203 61 248 61 c 0
+ 298 61 371 94 387 180 c 1
+ 411 130 l 1
+ 361 41 303 -10 208 -10 c 0
+ 143 -10 60 21 60 120 c 0
+ 60 227 165 286 266 286 c 0
+ 344 286 404 259 428 235 c 1
+ 428 192 l 1
+ 380 217 328 225 280 225 c 0
+ 176 225 141 176 141 130 c 4
+412.6328125 330 m 1
+ 492.6328125 330 l 1
+ 434.444335938 0 l 1
+ 354.444335938 0 l 1
+ 412.6328125 330 l 1
+182.51171875 352 m 1
+ 154.267578125 413 l 1
+ 192.67578125 438 257.318359375 470 340.318359375 470 c 0
+ 445.318359375 470 508.326171875 419 492.6328125 330 c 1
+ 412.6328125 330 l 1
+ 420.744140625 376 377.975585938 400 327.975585938 400 c 0
+ 261.975585938 400 207.333007812 368 182.51171875 352 c 1
 EndSplineSet
 EndChar
 EndChars

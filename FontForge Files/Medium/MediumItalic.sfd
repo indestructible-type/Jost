@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1505010052
+ModificationTime: 1512878164
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "less simple a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -82,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 336 16 3
+WinInfo: 65504 16 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -103,7 +104,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 305
+BeginChars: 65537 306
 
 StartChar: H
 Encoding: 72 72 0
@@ -595,6 +596,7 @@ SplineSet
  425 0 l 1
  506 460 l 5
 EndSplineSet
+Substitution2: "less simple a" a.alt
 EndChar
 
 StartChar: X
@@ -5318,6 +5320,40 @@ SplineSet
  476.26953125 358.712890625 585.649414062 480 743.32421875 480 c 0
  864.87109375 480 942.423828125 407.639648438 942.423828125 293.67578125 c 0
  942.423828125 262.252929688 938.12109375 233.588867188 929.32421875 205 c 1
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 305
+Width: 515
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+418 330 m 1
+ 523 330 l 1
+ 464 0 l 1
+ 359 0 l 1
+ 418 330 l 1
+180 338 m 1
+ 155 419 l 1
+ 193 444 264 480 347 480 c 0
+ 462 480 540 429 523 330 c 1
+ 418 330 l 1
+ 425 370 380 383 330 383 c 0
+ 264 383 205 354 180 338 c 1
+160 130 m 0
+ 160 92.9892578125 200 71 245 71 c 0
+ 325 71 376 94 391 180 c 1
+ 398 130 l 1
+ 382 41 294 -20 199 -20 c 0
+ 114 -20 57 29.3564453125 57 110 c 0
+ 57 227 181 291 292 291 c 0
+ 370 291 415 264 435 240 c 1
+ 425 182 l 1
+ 381 207 340 215 292 215 c 0
+ 218 215 160 188 160 130 c 0
 EndSplineSet
 EndChar
 EndChars

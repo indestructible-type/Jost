@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1504298814
+ModificationTime: 1513015547
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "simple a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -82,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 16 16 4
+WinInfo: 65488 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +108,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 305
+BeginChars: 65537 306
 
 StartChar: H
 Encoding: 72 72 0
@@ -602,6 +603,7 @@ SplineSet
  350 177 323 188 275 188 c 4
  241 188 216 173 216 144 c 4
 EndSplineSet
+Substitution2: "simple a" a.alt
 EndChar
 
 StartChar: X
@@ -5351,6 +5353,32 @@ SplineSet
  929 137 l 1
  893 42 797 -20 658 -20 c 0
  473 -20 410 161 410 230 c 5
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 305
+Width: 645
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
 EndSplineSet
 EndChar
 EndChars

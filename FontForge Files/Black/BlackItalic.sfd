@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1504298815
+ModificationTime: 1513015437
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "less simple a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -82,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 208 16 4
+WinInfo: 65488 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +108,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 305
+BeginChars: 65537 306
 
 StartChar: H
 Encoding: 72 72 0
@@ -594,6 +595,7 @@ SplineSet
  442.618826202 290.987908708 408.601583571 310 373 310 c 0
  324.517593178 310 275.442037723 274.678335099 275.442037723 213.021273415 c 0
 EndSplineSet
+Substitution2: "less simple a" a.alt
 EndChar
 
 StartChar: X
@@ -5316,6 +5318,40 @@ SplineSet
  496.245117188 333.669921875 592.024414062 485 759 485 c 4
  927.775390625 485 1001.85546875 407.645507812 1001.85546875 291.140625 c 4
  1001.85546875 252.435546875 997.317382812 229.206054688 987 190 c 5
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 305
+Width: 580
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+404 282 m 1
+ 597 330 l 1
+ 539 0 l 1
+ 354 0 l 1
+ 404 282 l 1
+184 298 m 1
+ 148 434 l 1
+ 216 459 305 485 388 485 c 0
+ 523 485 614 429 597 330 c 1
+ 404 282 l 1
+ 410 317 392 333 342 333 c 0
+ 276 333 208 309 184 298 c 1
+250 134 m 0
+ 250 110 267 101 292 101 c 0
+ 332 101 376 114 388 180 c 1
+ 393 130 l 1
+ 377 41 303 -20 178 -20 c 0
+ 93 -20 52 29.5732421875 52 100 c 0
+ 52 187 149 275 290 275 c 4
+ 358 275 408 247 428 223 c 1
+ 414 145 l 1
+ 390 167 365 178 317 178 c 0
+ 283 178 250 163.427734375 250 134 c 0
 EndSplineSet
 EndChar
 EndChars

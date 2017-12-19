@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1504299804
+ModificationTime: 1513182170
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "simple a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -82,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 320 16 3
+WinInfo: 64 16 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -103,7 +104,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 310
+BeginChars: 65537 311
 
 StartChar: H
 Encoding: 72 72 0
@@ -608,6 +609,7 @@ SplineSet
  156 225 111 196 111 140 c 4
 EndSplineSet
 Validated: 5
+Substitution2: "simple a" a.alt
 EndChar
 
 StartChar: X
@@ -1505,7 +1507,7 @@ EndChar
 
 StartChar: U
 Encoding: 85 85 51
-Width: 608
+Width: 626
 VWidth: 0
 Flags: MW
 LayerCount: 2
@@ -1826,16 +1828,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-110 572 m 1
- 110 660 l 1
- 350 720 l 5
- 310 632 l 1
- 110 572 l 1
-265 680 m 1
- 350 720 l 5
- 350 0 l 5
+110 562 m 5
+ 110 650 l 5
+ 350 710 l 5
+ 310 622 l 5
+ 110 562 l 5
+265 670 m 5
+ 350 710 l 5
+ 350 0 l 1
  265 0 l 1
- 265 680 l 1
+ 265 670 l 5
 EndSplineSet
 EndChar
 
@@ -4266,9 +4268,9 @@ EndChar
 
 StartChar: Ugrave
 Encoding: 217 217 208
-Width: 608
+Width: 626
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 91 96 N 1 0 0 1 58 260 2
@@ -4278,9 +4280,9 @@ EndChar
 
 StartChar: Uacute
 Encoding: 218 218 209
-Width: 608
+Width: 626
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 116 180 N 1 0 0 1 193 260 2
@@ -4290,9 +4292,9 @@ EndChar
 
 StartChar: Ucircumflex
 Encoding: 219 219 210
-Width: 608
+Width: 626
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 128 710 N 1 0 0 1 73 220 2
@@ -4302,9 +4304,9 @@ EndChar
 
 StartChar: Udieresis
 Encoding: 220 220 211
-Width: 608
+Width: 626
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 102 168 N 1 0 0 1 78 165 2
@@ -5625,7 +5627,7 @@ StartChar: oe
 Encoding: 339 339 309
 Width: 905
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5664,6 +5666,32 @@ SplineSet
  862 107 l 1
  816 37 762 -10 643 -10 c 0
  518 -10 435 101 435 230 c 5
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 310
+Width: 570
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+420 460 m 5
+ 500 460 l 5
+ 500 0 l 1
+ 420 0 l 1
+ 420 460 l 5
+35 230 m 0
+ 35 379 138 470 263 470 c 0
+ 378 470 456 379 456 230 c 0
+ 456 81 378 -10 263 -10 c 0
+ 138 -10 35 81 35 230 c 0
+116 230 m 0
+ 116 124 188 65 273 65 c 0
+ 343 65 420 124 420 230 c 0
+ 420 336 343 395 273 395 c 0
+ 188 395 116 336 116 230 c 0
 EndSplineSet
 EndChar
 EndChars

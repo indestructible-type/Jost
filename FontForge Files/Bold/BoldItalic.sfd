@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1504299066
+ModificationTime: 1512974919
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "less simple a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -82,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 320 16 3
+WinInfo: 65504 16 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -103,7 +104,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 305
+BeginChars: 65537 306
 
 StartChar: H
 Encoding: 72 72 0
@@ -590,6 +591,7 @@ SplineSet
  430 0 l 1
  512 460 l 1
 EndSplineSet
+Substitution2: "less simple a" a.alt
 EndChar
 
 StartChar: X
@@ -5330,6 +5332,40 @@ SplineSet
  476.618164062 331.9453125 560.458984375 485 734 485 c 0
  856.567382812 485 951.490234375 406.111328125 951.490234375 287.680664062 c 0
  951.490234375 250.717773438 948.666992188 229.734375 937 195 c 1
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 305
+Width: 535
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+412 302 m 1
+ 552 330 l 1
+ 494 0 l 1
+ 359 0 l 1
+ 412 302 l 1
+173 318 m 1
+ 151 424 l 1
+ 189 449 270 485 353 485 c 0
+ 488 485 569 429 552 330 c 1
+ 412 302 l 1
+ 420 347 383 363 333 363 c 0
+ 267 363 198 334 173 318 c 1
+195 134 m 0
+ 195 100 218 91 263 91 c 0
+ 323 91 379 114 391 180 c 1
+ 398 130 l 1
+ 382 41 308 -20 213 -20 c 0
+ 108 -20 57 35 57 115 c 0
+ 57 212.00390625 144 280 265 280 c 0
+ 363 280 413 257 433 233 c 1
+ 421 165 l 1
+ 397 187 352 198 304 198 c 0
+ 250 198 195 173.05078125 195 134 c 0
 EndSplineSet
 EndChar
 EndChars
