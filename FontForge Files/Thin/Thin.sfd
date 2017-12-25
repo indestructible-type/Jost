@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1465610489
-ModificationTime: 1513703641
+ModificationTime: 1513886592
 PfmFamily: 33
 TTFWeight: 200
 TTFWidth: 5
@@ -83,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 80 16 3
+WinInfo: 48 16 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -864,16 +864,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-85 675 m 4
- 85 691 96 703 113 703 c 4
- 130 703 141 691 141 675 c 4
- 141 659 130 647 113 647 c 4
- 96 647 85 659 85 675 c 4
-98 460 m 1
- 128 460 l 1
- 128 0 l 1
- 98 0 l 1
- 98 460 l 1
+85 675 m 0
+ 85 691 96 703 113 703 c 0
+ 130 703 141 691 141 675 c 0
+ 141 659 130 647 113 647 c 0
+ 96 647 85 659 85 675 c 0
+98 460 m 5
+ 128 460 l 5
+ 128 0 l 5
+ 98 0 l 5
+ 98 460 l 5
 EndSplineSet
 EndChar
 
@@ -1251,7 +1251,7 @@ StartChar: s
 Encoding: 115 115 43
 Width: 382
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -4357,9 +4357,9 @@ EndChar
 
 StartChar: igrave
 Encoding: 236 236 226
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 91 96 N 1 0 0 1 -125 20 2
@@ -4368,17 +4368,17 @@ EndChar
 
 StartChar: dotlessi
 Encoding: 305 305 227
-Width: 260
+Width: 226
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-105 460 m 5
- 145 460 l 1
- 145 0 l 1
- 105 0 l 5
- 105 460 l 5
+98 460 m 5
+ 128 460 l 5
+ 128 0 l 5
+ 98 0 l 5
+ 98 460 l 5
 EndSplineSet
 EndChar
 
@@ -4410,9 +4410,9 @@ EndChar
 
 StartChar: iacute
 Encoding: 237 237 229
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 116 180 N 1 0 0 1 10 20 2
@@ -4421,9 +4421,9 @@ EndChar
 
 StartChar: icircumflex
 Encoding: 238 238 230
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 128 710 N 1 0 0 1 -110 -20 2
@@ -4432,9 +4432,9 @@ EndChar
 
 StartChar: idieresis
 Encoding: 239 239 231
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 102 168 N 1 0 0 1 -105 -75 2
@@ -5036,9 +5036,9 @@ EndChar
 
 StartChar: itilde
 Encoding: 297 297 284
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 130 732 N 1 0 0 1 -135 -58 2
@@ -5058,9 +5058,9 @@ EndChar
 
 StartChar: imacron
 Encoding: 299 299 286
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 111 175 N 1 0 0 1 -125 -70 2
@@ -5080,9 +5080,9 @@ EndChar
 
 StartChar: ibreve
 Encoding: 301 301 288
-Width: 260
+Width: 226
 VWidth: 0
-Flags: HM
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 247 728 N 1 0 0 1 -143 -180 2

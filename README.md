@@ -24,6 +24,8 @@ Changelog
 Rebuilt from the ground up.<br>
 <b>v2.1</b>
 Added oe ligatures to support French, fixed some italics
+<b>v2.2 December 2017</b>
+Added alternative a, fixed some kerning, fixed overshoot in bolder weights, added thin version!
 
 Building
 --------

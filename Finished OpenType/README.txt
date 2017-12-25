@@ -1,6 +1,6 @@
 Thank you for downloading Renner* by indestructible type* (https://indestructible-type.github.io)!
 
-This is verson 2.1
+This is verson 2.2
 
 To download a newer version of this font, please go to this secret link:
 https://indestructible-type.github.io/Paul424242.html
