@@ -1,0 +1,11154 @@
+SplineFontDB: 3.0
+FontName: Renner-it-Black
+FullName: Renner* Black
+FamilyName: Renner* Black
+Weight: Black
+Copyright: This typeface is licensed under the SIL open font license.
+UComments: "2016-6-10: Created with FontForge (http://fontforge.org)"
+Version: 003.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+PreferredKerning: 4
+XUID: [1021 31 -699969567 16188444]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1465610489
+ModificationTime: 1528481729
+PfmFamily: 33
+TTFWeight: 900
+TTFWidth: 5
+LineGap: 100
+VLineGap: 0
+OS2TypoAscent: 825
+OS2TypoAOffset: 0
+OS2TypoDescent: -225
+OS2TypoDOffset: 0
+OS2TypoLinegap: 100
+OS2WinAscent: 900
+OS2WinAOffset: 0
+OS2WinDescent: 300
+OS2WinDOffset: 0
+HheadAscent: 1030
+HheadAOffset: 0
+HheadDescent: -350
+HheadDOffset: 0
+OS2CapHeight: 700
+OS2XHeight: 460
+OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "alt a" { "alt a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Tabular Numbers lookup" { "Tabular Numbers lookup"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 16 14 "kernin like nobodys business"
+ 15 slash seven V W
+ 175 quotedbl quotesingle asterisk grave dieresis ordfeminine macron degree acute ordmasculine circumflex breve dotaccent ring tilde quoteleft quoteright quotedblleft quotedblright
+ 17 nine question F P
+ 107 A L backslash Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Lacute uni013B Lslash
+ 26 three eight B C germandbls
+ 5 K X Z
+ 125 at D G O Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Dcroat Gcircumflex Gbreve Gdotaccent uni0122 Omacron Obreve
+ 158 a h m n s agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis ntilde amacron abreve aogonek hcircumflex nacute uni0146 ncaron
+ 116 b e o p ograve oacute ocircumflex otilde odieresis oslash emacron ebreve edotaccent eogonek ecaron omacron obreve oe
+ 126 c u dotlessi a.alt agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt amacron.alt abreve.alt aogonek.alt
+ 33 k x z uni0137 kgreenlandic zcaron
+ 29 r v w y racute uni0157 rcaron
+ 20 T Y Yacute Ydieresis
+ 15 J j jcircumflex
+ 3 q g
+ 115 quotedbl quotesingle asterisk grave ordfeminine macron ordmasculine quoteleft quoteright quotedblleft quotedblright
+ 20 comma period slash A
+ 159 at C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent uni0122 Omacron Obreve
+ 13 V W backslash
+ 9 seven X Z
+ 13 Y Ydieresis T
+ 1 a
+ 344 c e g o q ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron dcaron emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent omacron obreve oe a.alt agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt amacron.alt abreve.alt aogonek.alt
+ 67 m n p r ntilde dotlessi nacute uni0146 ncaron racute uni0157 rcaron
+ 1 u
+ 22 v w y yacute ydieresis
+ 12 x z multiply
+ 15 j jcircumflex J
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -150 {} -15 {} 30 {} 0 {} 40 {} -100 {} -80 {} -70 {} -70 {} 0 {} -50 {} 0 {} 0 {} 0 {} -150 {} -30 {} 0 {} 0 {} 0 {} -100 {} -50 {} -50 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} -30 {} -30 {} -30 {} -30 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} -90 {} 30 {} -30 {} -150 {} 0 {} -70 {} 0 {} 0 {} 0 {} -20 {} -50 {} 50 {} 0 {} 0 {} 0 {} -15 {} 0 {} -15 {} -15 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 30 {} 0 {} 30 {} 0 {} -30 {} 0 {} -30 {} -50 {} 15 {} 0 {} 0 {} 0 {} -30 {} 0 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} -80 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} -30 {} -50 {} 0 {} -80 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -15 {} -15 {} 0 {} 0 {} -30 {} 0 {} 0 {} -50 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} -15 {} 0 {} -15 {} 0 {} -15 {} 0 {} -10 {} 15 {} 30 {} 0 {} 0 {} 0 {} -60 {} 15 {} -30 {} -80 {} -30 {} 0 {} -15 {} 0 {} 0 {} 30 {} 30 {} 0 {} 0 {} 0 {} -100 {} 0 {} 30 {} 30 {} 30 {} -100 {} -100 {} -80 {} -80 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {} 0 {} -30 {} 0 {} 0 {} -50 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {}
+LangName: 1033 "" "" "Black" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016, indestructible-type.github.io,+AAoA-with Reserved Font Name Renner*.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Renner*"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 48 16 4
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 -220 m 0
+ 2000 -220 l 1024
+  Named: "decenders"
+-1000 780 m 0
+ 2000 780 l 1024
+  Named: "Acender"
+-1000 460 m 0
+ 2000 460 l 1024
+  Named: "X Hight"
+-1000 -10 m 0
+ 2000 -10 l 1024
+  Named: "Overlap"
+-1000 700 m 0
+ 2000 700 l 1024
+  Named: "Capital Hight"
+EndSplineSet
+TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 65546 372
+
+StartChar: H
+Encoding: 72 72 0
+GlifName: H_
+Width: 830
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+117 265 m 1
+ 117 460 l 5
+ 677 460 l 5
+ 677 265 l 1
+ 117 265 l 1
+540 700 m 1
+ 760 700 l 1
+ 760 0 l 1
+ 540 0 l 1
+ 540 700 l 1
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: O
+Encoding: 79 79 1
+GlifName: O_
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 4
+ 263 247 322 178 420 178 c 4
+ 518 178 577 247 577 350 c 4
+ 577 453 523 522 420 522 c 4
+ 322 522 263 453 263 350 c 4
+30 350 m 4
+ 30 574 201 720 420 720 c 4
+ 644 720 810 574 810 350 c 4
+ 810 126 649 -30 420 -30 c 4
+ 191 -30 30 126 30 350 c 4
+EndSplineSet
+EndChar
+
+StartChar: I
+Encoding: 73 73 2
+GlifName: I_
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 3
+GlifName: C_
+Width: 710
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+272 350 m 4
+ 272 242 353 187 451 187 c 4
+ 550 187 606 231 650 273 c 5
+ 650 47 l 5
+ 595 9 537 -20 435 -20 c 4
+ 191 -20 30 126 30 350 c 4
+ 30 574 191 720 435 720 c 4
+ 537 720 595 691 650 653 c 5
+ 650 427 l 5
+ 606 469 550 513 451 513 c 4
+ 353 513 272 458 272 350 c 4
+EndSplineSet
+EndChar
+
+StartChar: E
+Encoding: 69 69 4
+GlifName: E_
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 5
+GlifName: space
+Width: 300
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+EndChar
+
+StartChar: F
+Encoding: 70 70 6
+GlifName: F_
+Width: 585
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 515 m 5
+ 222 700 l 1
+ 535 700 l 1
+ 535 515 l 5
+ 222 515 l 5
+222 245 m 1
+ 222 415 l 1
+ 525 415 l 1
+ 525 245 l 1
+ 222 245 l 1
+70 700 m 1
+ 280 700 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: G
+Encoding: 71 71 7
+GlifName: G_
+Width: 838
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+430 240 m 1
+ 430 400 l 1
+ 802 400 l 1
+ 692 240 l 1
+ 430 240 l 1
+802 400 m 1
+ 822 161 684 -30 430 -30 c 4
+ 196 -30 30 121 30 350 c 0
+ 30 579 206 720 440 720 c 0
+ 599 720 701 641 771 544 c 1
+ 566 452 l 1
+ 542 496 507 535 440 535 c 0
+ 342 535 260 473 260 350 c 0
+ 260 227 332 155 440 155 c 4
+ 588 155 612 267 612 400 c 1
+ 802 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 8
+GlifName: T_
+Width: 620
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+0 505 m 1
+ 0 700 l 1
+ 620 700 l 1
+ 620 505 l 1
+ 420 505 l 1
+ 420 0 l 1
+ 200 0 l 1
+ 200 505 l 1
+ 0 505 l 1
+EndSplineSet
+EndChar
+
+StartChar: L
+Encoding: 76 76 9
+GlifName: L_
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 185 l 1
+ 575 185 l 1
+ 575 0 l 1
+ 222 0 l 1
+70 700 m 5
+ 290 700 l 1
+ 290 0 l 5
+ 70 0 l 1
+ 70 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 10
+GlifName: D_
+Width: 765
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 510 m 5
+ 222 700 l 5
+ 345 700 l 6
+ 589 700 735 569 735 350 c 5
+ 505 350 l 5
+ 505 493 413 510 335 510 c 6
+ 222 510 l 5
+345 0 m 6
+ 222 0 l 5
+ 222 190 l 5
+ 335 190 l 6
+ 413 190 505 207 505 350 c 5
+ 735 350 l 5
+ 735 131 589 0 345 0 c 6
+70 700 m 5
+ 299 700 l 5
+ 299 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: Q
+Encoding: 81 81 11
+GlifName: Q_
+Width: 908
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 227 347 158 445 158 c 0
+ 543 158 607 217 607 320 c 0
+ 607 423 548 522 425 522 c 0
+ 327 522 263 453 263 350 c 0
+30 350 m 0
+ 30 574 206 720 425 720 c 0
+ 649 720 810 574 810 350 c 0
+ 810 126 654 -30 425 -30 c 0
+ 196 -30 30 126 30 350 c 0
+343 300 m 5
+ 558 300 l 5
+ 918 -20 l 1
+ 693 -20 l 1
+ 343 300 l 5
+EndSplineSet
+EndChar
+
+StartChar: A
+Encoding: 65 65 12
+GlifName: A_
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 13
+GlifName: R_
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+275 300 m 5
+ 500 300 l 5
+ 700 0 l 5
+ 445 0 l 5
+ 275 300 l 5
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+212 515 m 1
+ 212 700 l 1
+ 365 700 l 2
+ 570 700 658 599 658 460 c 0
+ 658 321 570 220 365 220 c 2
+ 212 220 l 1
+ 212 385 l 1
+ 345 385 l 2
+ 400 385 428 409 428 450 c 0
+ 428 491 400 515 345 515 c 2
+ 212 515 l 1
+EndSplineSet
+EndChar
+
+StartChar: V
+Encoding: 86 86 14
+GlifName: V_
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+390 358 m 1
+ 525 700 l 1
+ 785 700 l 1
+ 390 -50 l 5
+ -5 700 l 1
+ 255 700 l 1
+ 390 358 l 1
+EndSplineSet
+EndChar
+
+StartChar: M
+Encoding: 77 77 15
+GlifName: M_
+Width: 940
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+615 475 m 1
+ 780 735 l 1
+ 910 0 l 1
+ 675 0 l 1
+ 615 475 l 1
+160 735 m 1
+ 325 475 l 5
+ 265 0 l 1
+ 30 0 l 1
+ 160 735 l 1
+780 735 m 1
+ 780 470 l 1
+ 470 65 l 1
+ 160 470 l 1
+ 160 735 l 1
+ 470 357 l 1
+ 780 735 l 1
+EndSplineSet
+EndChar
+
+StartChar: W
+Encoding: 87 87 16
+GlifName: W_
+Width: 1110
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+405 200 m 1
+ 320 -45 l 5
+ 0 700 l 1
+ 265 700 l 1
+ 405 200 l 1
+790 -45 m 5
+ 705 200 l 1
+ 845 700 l 1
+ 1110 700 l 1
+ 790 -45 l 5
+320 -45 m 5
+ 305 235 l 1
+ 555 735 l 1
+ 805 235 l 1
+ 790 -45 l 5
+ 555 303 l 1
+ 320 -45 l 5
+EndSplineSet
+EndChar
+
+StartChar: N
+Encoding: 78 78 17
+GlifName: N_
+Width: 805
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 475 m 1
+ 70 735 l 1
+ 730 225 l 1
+ 735 -35 l 1
+ 75 475 l 1
+525 700 m 5
+ 735 700 l 1
+ 735 -35 l 1
+ 525 195 l 5
+ 525 700 l 5
+70 735 m 1
+ 280 505 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 735 l 1
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 18
+GlifName: a
+Width: 580
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 4
+ 216 115 238 106 263 106 c 4
+ 303 106 345 124 345 190 c 5
+ 361 130 l 5
+ 361 41 288 -10 193 -10 c 4
+ 88 -10 20 41 20 130 c 4
+ 20 217 100 275 221 275 c 4
+ 279 275 354 257 378 233 c 5
+ 378 147 l 5
+ 350 169 323 180 275 180 c 4
+ 241 180 216 163 216 139 c 4
+121 298 m 5
+ 62 424 l 5
+ 126 449 210 475 293 475 c 4
+ 428 475 530 419 530 320 c 6
+ 530 0 l 5
+ 345 0 l 5
+ 345 272 l 6
+ 345 307 323 333 273 333 c 4
+ 207 333 143 309 121 298 c 5
+EndSplineSet
+Substitution2: "alt a" a.alt
+EndChar
+
+StartChar: X
+Encoding: 88 88 19
+GlifName: X_
+Width: 765
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+475 700 m 5
+ 750 700 l 1
+ 523 354 l 1
+ 765 0 l 1
+ 490 0 l 1
+ 384 196 l 1
+ 275 0 l 1
+ 0 0 l 1
+ 248 354 l 1
+ 25 700 l 1
+ 300 700 l 1
+ 386 531 l 1
+ 475 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: K
+Encoding: 75 75 20
+GlifName: K_
+Width: 781
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 1
+ 300 700 l 1
+ 300 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+515 700 m 1
+ 771 700 l 1
+ 498 372 l 1
+ 786 0 l 1
+ 520 0 l 1
+ 237 365 l 1
+ 515 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 21
+GlifName: Y_
+Width: 720
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+248 360 m 5
+ 473 360 l 5
+ 473 0 l 5
+ 248 0 l 5
+ 248 360 l 5
+470 700 m 5
+ 725 700 l 5
+ 360 84 l 5
+ -5 700 l 5
+ 250 700 l 5
+ 360 474 l 5
+ 470 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 22
+GlifName: B_
+Width: 728
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+232 400 m 1
+ 395 400 l 6
+ 530 400 688 341 688 192 c 4
+ 688 53 580 0 395 0 c 6
+ 232 0 l 1
+ 232 165 l 1
+ 365 165 l 2
+ 415 165 458 171 458 227 c 0
+ 458 273 415 280 365 280 c 2
+ 232 280 l 1
+ 232 400 l 1
+232 335 m 1
+ 232 425 l 1
+ 345 425 l 2
+ 395 425 418 447 418 483 c 0
+ 418 519 395 535 345 535 c 2
+ 232 535 l 1
+ 232 700 l 1
+ 375 700 l 6
+ 530 700 648 639 648 520 c 4
+ 648 401 530 335 375 335 c 6
+ 232 335 l 1
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: Z
+Encoding: 90 90 23
+GlifName: Z_
+Width: 665
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 505 m 1
+ 70 700 l 1
+ 655 700 l 1
+ 347 185 l 5
+ 610 185 l 1
+ 610 0 l 1
+ 5 0 l 1
+ 306 505 l 1
+ 70 505 l 1
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 24
+GlifName: o
+Width: 616
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 4
+ 30 379 148 471 308 471 c 4
+ 468 471 586 379 586 230 c 4
+ 586 81 468 -10 308 -10 c 4
+ 148 -10 30 81 30 230 c 4
+231 230 m 4
+ 231 174 268 145 308 145 c 4
+ 348 145 385 174 385 230 c 4
+ 385 286 348 316 308 316 c 4
+ 268 316 231 286 231 230 c 4
+EndSplineSet
+EndChar
+
+StartChar: J
+Encoding: 74 74 25
+GlifName: J_
+Width: 385
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-75 -39 m 1
+ -51 -54 -19 -70 7 -70 c 0
+ 37 -70 70 -51 70 5 c 2
+ 70 700 l 1
+ 315 700 l 5
+ 315 -50 l 6
+ 315 -199 181 -250 37 -250 c 0
+ -56 -250 -141 -220 -196 -190 c 1
+ -75 -39 l 1
+EndSplineSet
+EndChar
+
+StartChar: t
+Encoding: 116 116 26
+GlifName: t
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 460 m 1
+ 360 460 l 5
+ 360 305 l 5
+ 5 305 l 1
+ 5 460 l 1
+90 620 m 1
+ 275 620 l 1
+ 275 0 l 1
+ 90 0 l 1
+ 90 620 l 1
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 27
+GlifName: d
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 780 m 1
+ 595 780 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 780 l 1
+30 230 m 4
+ 30 389 138 470 243 470 c 4
+ 358 470 446 379 446 230 c 4
+ 446 81 358 -10 243 -10 c 4
+ 138 -10 30 71 30 230 c 4
+236 230 m 4
+ 236 179 273 140 318 140 c 4
+ 358 140 400 174 400 230 c 4
+ 400 286 358 320 318 320 c 4
+ 273 320 236 281 236 230 c 4
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 28
+GlifName: l
+Width: 295
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 245 780 l 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 29
+GlifName: i
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+35 622 m 4
+ 35 681 83 720 143 720 c 4
+ 203 720 251 681 251 622 c 4
+ 251 563 203 524 143 524 c 4
+ 83 524 35 563 35 622 c 4
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 30
+GlifName: r
+Width: 453
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+240 460 m 1
+ 240 0 l 1
+ 50 0 l 1
+ 50 460 l 1
+ 240 460 l 1
+369 262 m 1
+ 357 278 338 290 312 290 c 4
+ 277 290 240 261 240 195 c 1
+ 204 280 l 1
+ 204 389 282 472 367 472 c 0
+ 400 472 436 452 448 430 c 1
+ 369 262 l 1
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 31
+GlifName: c
+Width: 503
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+231 230 m 0
+ 231 169 278 138 333 138 c 0
+ 377 138 422 154 453 197 c 1
+ 453 21 l 1
+ 421 3 386 -10 313 -10 c 0
+ 148 -10 30 81 30 230 c 0
+ 30 379 148 470 313 470 c 0
+ 386 470 421 455 453 441 c 1
+ 453 264 l 1
+ 422 307 367 322 333 322 c 0
+ 278 322 231 281 231 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: b
+Encoding: 98 98 32
+GlifName: b
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 780 m 1
+ 245 0 l 1
+ 50 0 l 1
+ 50 780 l 1
+ 245 780 l 1
+615 230 m 4
+ 615 71 507 -10 402 -10 c 4
+ 287 -10 199 81 199 230 c 4
+ 199 379 287 470 402 470 c 4
+ 507 470 615 389 615 230 c 4
+409 230 m 4
+ 409 281 372 320 327 320 c 4
+ 287 320 245 286 245 230 c 4
+ 245 174 287 140 327 140 c 4
+ 372 140 409 179 409 230 c 4
+EndSplineSet
+EndChar
+
+StartChar: p
+Encoding: 112 112 33
+GlifName: p
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 -220 m 1
+ 50 -220 l 1
+ 50 460 l 1
+ 245 460 l 1
+ 245 -220 l 1
+615 230 m 0
+ 615 61 507 -20 402 -20 c 4
+ 277 -20 209 81 209 230 c 0
+ 209 379 277 480 402 480 c 4
+ 507 480 615 399 615 230 c 0
+409 230 m 0
+ 409 281 372 310 327 310 c 0
+ 287 310 245 286 245 230 c 0
+ 245 174 287 150 327 150 c 0
+ 372 150 409 179 409 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 34
+GlifName: q
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -220 m 1
+ 400 460 l 1
+ 595 460 l 1
+ 595 -220 l 1
+ 400 -220 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 4
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 35
+GlifName: h
+Width: 595
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 780 m 1
+ 245 0 l 1
+ 50 0 l 1
+ 50 780 l 1
+ 245 780 l 1
+350 280 m 2
+ 350 321 342 346 302 346 c 0
+ 267 346 245 326 245 280 c 1
+ 219 280 l 1
+ 219 389 262 481 387 481 c 0
+ 512 481 545 419 545 310 c 2
+ 545 0 l 1
+ 350 0 l 1
+ 350 280 l 2
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 36
+GlifName: n
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 460 m 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 460 l 5
+ 245 460 l 5
+350 280 m 6
+ 350 321 342 346 302 346 c 4
+ 267 346 245 326 245 280 c 5
+ 219 270 l 5
+ 219 379 262 471 387 471 c 4
+ 512 471 555 409 555 300 c 6
+ 555 0 l 5
+ 350 0 l 5
+ 350 280 l 6
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 37
+GlifName: m
+Width: 845
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+320 280 m 2
+ 320 321 309 346 279 346 c 0
+ 254 346 235 326 235 280 c 1
+ 209 270 l 1
+ 209 379 257 471 372 471 c 0
+ 487 471 515 419 515 310 c 2
+ 515 0 l 1
+ 320 0 l 1
+ 320 280 l 2
+235 460 m 1
+ 235 0 l 1
+ 50 0 l 1
+ 50 460 l 1
+ 235 460 l 1
+795 300 m 6
+ 795 0 l 5
+ 600 0 l 5
+ 600 280 l 6
+ 600 321 589 346 559 346 c 0
+ 534 346 515 326 515 280 c 1
+ 459 270 l 1
+ 459 379 537 471 652 471 c 0
+ 767 471 795 409 795 300 c 6
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 38
+GlifName: k
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 235 780 l 5
+ 235 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+401 460 m 5
+ 630 460 l 5
+ 435 270 l 5
+ 650 0 l 5
+ 425 0 l 5
+ 206 270 l 5
+ 401 460 l 5
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 39
+GlifName: u
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 5
+ 360 460 l 5
+ 555 460 l 5
+ 555 0 l 5
+ 360 0 l 5
+255 180 m 6
+ 255 139 263 114 303 114 c 4
+ 338 114 360 134 360 180 c 5
+ 386 190 l 5
+ 386 81 343 -11 218 -11 c 4
+ 93 -11 50 51 50 160 c 6
+ 50 460 l 5
+ 255 460 l 5
+ 255 180 l 6
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 40
+GlifName: e
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 41
+GlifName: g
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 -35 m 1
+ 227 -35 l 1
+ 235 -86 266 -95 306 -95 c 0
+ 366 -95 400 -56 400 10 c 2
+ 400 460 l 1
+ 585 460 l 1
+ 585 10 l 2
+ 585 -179 471 -245 316 -245 c 0
+ 121 -245 58 -159 40 -35 c 1
+30 240 m 0
+ 30 399 138 470 243 470 c 0
+ 358 470 446 389 446 240 c 0
+ 446 91 358 10 243 10 c 0
+ 138 10 30 81 30 240 c 0
+236 240 m 0
+ 236 189 273 160 318 160 c 0
+ 358 160 400 184 400 240 c 0
+ 400 296 358 320 318 320 c 0
+ 273 320 236 291 236 240 c 0
+EndSplineSet
+EndChar
+
+StartChar: f
+Encoding: 102 102 42
+GlifName: f
+Width: 379
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 460 m 1
+ 370 460 l 1
+ 370 305 l 1
+ 5 305 l 1
+ 5 460 l 1
+348 605 m 1
+ 335 620 322 630 303 630 c 0
+ 273 630 255 611 255 575 c 2
+ 255 0 l 1
+ 70 0 l 1
+ 70 630 l 2
+ 70 729 134 800 268 800 c 0
+ 351 800 394 763 419 743 c 1
+ 348 605 l 1
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 43
+GlifName: s
+Width: 488
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 183 m 1
+ 180 121 233 117 250 117 c 4
+ 263 117 275 118 275 131 c 4
+ 275 156 195 159 141 186 c 0
+ 82 216 34 247 34 329 c 0
+ 34 425 124 470 238 470 c 0
+ 321 470 386 446 454 415 c 1
+ 406 282 l 1
+ 361 320 291 339 254 339 c 0
+ 227 339 219 335 219 324 c 0
+ 219 302 279 293 341 270 c 0
+ 406 246 468 217 468 130 c 0
+ 468 21 404 -25 285 -25 c 0
+ 180 -25 99 1 15 46 c 1
+ 78 183 l 1
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 44
+GlifName: y
+Width: 570
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+585 460 m 1
+ 285 -220 l 1
+ 95 -220 l 1
+ 198 20 l 1
+ -15 460 l 1
+ 195 460 l 1
+ 345 85 l 1
+ 240 85 l 5
+ 390 460 l 5
+ 585 460 l 1
+EndSplineSet
+EndChar
+
+StartChar: w
+Encoding: 119 119 45
+GlifName: w
+Width: 810
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+625 460 m 1
+ 825 460 l 1
+ 565 -25 l 1
+ 525 225 l 1
+ 625 460 l 1
+375 255 m 5
+ 405 495 l 1
+ 575 205 l 1
+ 565 -25 l 1
+ 375 255 l 5
+405 495 m 1
+ 435 255 l 5
+ 245 -25 l 1
+ 235 205 l 1
+ 405 495 l 1
+-15 460 m 1
+ 185 460 l 1
+ 285 225 l 1
+ 245 -25 l 1
+ -15 460 l 1
+EndSplineSet
+EndChar
+
+StartChar: v
+Encoding: 118 118 46
+GlifName: v
+Width: 580
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-5 460 m 1
+ 200 460 l 1
+ 290 247 l 1
+ 380 460 l 1
+ 585 460 l 1
+ 290 -65 l 1
+ -5 460 l 1
+EndSplineSet
+EndChar
+
+StartChar: x
+Encoding: 120 120 47
+GlifName: x
+Width: 600
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+375 460 m 1
+ 590 460 l 1
+ 402 236 l 5
+ 600 0 l 1
+ 385 0 l 1
+ 304 109 l 1
+ 225 0 l 1
+ 0 0 l 1
+ 202 236 l 1
+ 10 460 l 1
+ 235 460 l 1
+ 304 363 l 1
+ 375 460 l 1
+EndSplineSet
+EndChar
+
+StartChar: z
+Encoding: 122 122 48
+GlifName: z
+Width: 560
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+230 285 m 5
+ 65 285 l 5
+ 65 460 l 5
+ 545 460 l 5
+ 349 175 l 5
+ 505 175 l 5
+ 505 0 l 5
+ 15 0 l 5
+ 230 285 l 5
+EndSplineSet
+EndChar
+
+StartChar: j
+Encoding: 106 106 49
+GlifName: j
+Width: 285
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+35 622 m 0
+ 35 681 83 720 143 720 c 0
+ 203 720 251 681 251 622 c 0
+ 251 563 203 524 143 524 c 0
+ 83 524 35 563 35 622 c 0
+-43 -55 m 5
+ -30 -70 -17 -80 2 -80 c 4
+ 32 -80 50 -61 50 -25 c 6
+ 50 460 l 5
+ 235 460 l 5
+ 235 -80 l 6
+ 235 -179 171 -250 37 -250 c 4
+ -46 -250 -89 -213 -114 -193 c 5
+ -43 -55 l 5
+EndSplineSet
+EndChar
+
+StartChar: P
+Encoding: 80 80 50
+GlifName: P_
+Width: 668
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 290 700 l 5
+ 290 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+212 525 m 5
+ 212 700 l 5
+ 345 700 l 6
+ 550 700 638 609 638 460 c 4
+ 638 311 550 220 345 220 c 6
+ 212 220 l 5
+ 212 395 l 5
+ 345 395 l 6
+ 400 395 428 419 428 460 c 4
+ 428 501 400 525 345 525 c 6
+ 212 525 l 5
+EndSplineSet
+EndChar
+
+StartChar: U
+Encoding: 85 85 51
+GlifName: U_
+Width: 746
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 700 m 1
+ 285 700 l 1
+ 285 250 l 2
+ 285 194 313 155 373 155 c 4
+ 433 155 461 194 461 250 c 2
+ 461 700 l 1
+ 681 700 l 1
+ 681 230 l 2
+ 681 31 538 -40 373 -40 c 0
+ 208 -40 65 31 65 230 c 2
+ 65 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: S
+Encoding: 83 83 52
+GlifName: S_
+Width: 672
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+178 266 m 1
+ 230 190 273 158 340 158 c 0
+ 380 158 404 169 404 199 c 0
+ 404 239 352 247 272 280 c 0
+ 204 308 74 363 74 510 c 0
+ 74 636 183 720 347 720 c 0
+ 520 720 599 635 627 564 c 1
+ 464 474 l 1
+ 434 522 398 539 358 539 c 0
+ 322 539 298 525 298 504 c 0
+ 298 468 376 452 458 423 c 0
+ 570 384 637 317 637 200 c 0
+ 637 43 515 -30 336 -30 c 0
+ 201 -30 74 43 30 158 c 1
+ 178 266 l 1
+EndSplineSet
+EndChar
+
+StartChar: at
+Encoding: 64 64 53
+GlifName: at
+Width: 770
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+346 320 m 4
+ 346 284 356 265 369 265 c 4
+ 394 265 417 314 417 360 c 4
+ 417 401 409 415 394 415 c 4
+ 364 415 346 366 346 320 c 4
+200 310 m 0
+ 200 449 273 530 348 530 c 0
+ 413 530 471 459 471 370 c 0
+ 471 231 403 150 328 150 c 0
+ 243 150 200 211 200 310 c 0
+10 320 m 0
+ 10 549 181 730 415 730 c 0
+ 629 730 760 559 760 390 c 0
+ 760 211 666 140 561 140 c 0
+ 490 140 426 194 436 260 c 1
+ 419 310 l 1
+ 435 520 l 1
+ 576 520 l 1
+ 559 319 l 2
+ 558 312 557 300 557 292 c 0
+ 557 268 563 256 576 256 c 0
+ 596 256 625 274 625 390 c 0
+ 625 513 553 610 415 610 c 0
+ 247 610 145 493 145 320 c 0
+ 145 177 217 85 385 85 c 0
+ 455 85 506 103 560 125 c 1
+ 598 15 l 1
+ 538 -17 459 -35 365 -35 c 0
+ 131 -35 10 121 10 320 c 0
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 46 46 54
+GlifName: period
+Width: 336
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 85 m 4
+ 50 148 98 200 168 200 c 4
+ 238 200 286 148 286 85 c 4
+ 286 22 238 -30 168 -30 c 4
+ 98 -30 50 22 50 85 c 4
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 44 44 55
+GlifName: comma
+Width: 333
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+103 110 m 5
+ 298 76 l 1
+ 163 -174 l 1
+ 15 -149 l 1
+ 103 110 l 5
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 56
+GlifName: colon
+Width: 336
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 85 m 0
+ 50 148 98 200 168 200 c 0
+ 238 200 286 148 286 85 c 0
+ 286 22 238 -30 168 -30 c 0
+ 98 -30 50 22 50 85 c 0
+50 455 m 0
+ 50 518 98 570 168 570 c 4
+ 238 570 286 518 286 455 c 0
+ 286 392 238 340 168 340 c 0
+ 98 340 50 392 50 455 c 0
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 57
+GlifName: semicolon
+Width: 431
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+115 445 m 0
+ 115 508 163 560 233 560 c 0
+ 303 560 351 508 351 445 c 0
+ 351 382 303 330 233 330 c 4
+ 163 330 115 382 115 445 c 0
+138 110 m 1
+ 333 76 l 1
+ 198 -174 l 1
+ 50 -149 l 1
+ 138 110 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 58
+GlifName: quotedbl
+Width: 550
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 700 m 5
+ 290 700 l 5
+ 175 370 l 5
+ 50 370 l 5
+ 90 700 l 5
+320 700 m 5
+ 520 700 l 5
+ 405 370 l 5
+ 280 370 l 5
+ 320 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 59
+GlifName: exclam
+Width: 370
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 700 m 5
+ 305 700 l 5
+ 265 250 l 5
+ 105 250 l 5
+ 65 700 l 5
+67 75 m 4
+ 67 138 115 180 185 180 c 4
+ 255 180 303 138 303 75 c 4
+ 303 12 255 -30 185 -30 c 4
+ 115 -30 67 12 67 75 c 4
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 60
+GlifName: quotesingle
+Width: 320
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 700 m 5
+ 290 700 l 5
+ 175 370 l 5
+ 50 370 l 5
+ 90 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 61
+GlifName: numbersign
+Width: 705
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 395 m 1
+ 75 550 l 1
+ 670 550 l 1
+ 670 395 l 1
+ 506 395 l 0
+ 468 405 l 0
+ 256 405 l 0
+ 222 395 l 0
+ 75 395 l 1
+35 155 m 1
+ 35 310 l 1
+ 182 310 l 0
+ 224 300 l 4
+ 472 300 l 4
+ 508 310 l 0
+ 630 310 l 1
+ 630 155 l 1
+ 35 155 l 1
+485 700 m 1
+ 650 700 l 1
+ 480 0 l 1
+ 315 0 l 1
+ 369 222 l 0
+ 386 252 l 0
+ 435 452 l 0
+ 434 492 l 0
+ 485 700 l 1
+225 700 m 1
+ 390 700 l 1
+ 339 492 l 0
+ 319 450 l 0
+ 272 256 l 0
+ 275 226 l 0
+ 220 0 l 1
+ 55 0 l 1
+ 225 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 62
+GlifName: hyphen
+Width: 230
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 155 m 1
+ 5 320 l 1
+ 225 320 l 5
+ 225 155 l 5
+ 5 155 l 1
+EndSplineSet
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 63
+GlifName: dollar
+Width: 647
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+264 818 m 1
+ 418 818 l 1
+ 408 618 l 5
+ 274 618 l 1
+ 264 818 l 1
+274 70 m 1
+ 407 70 l 1
+ 417 -112 l 1
+ 264 -112 l 1
+ 274 70 l 1
+454 474 m 1
+ 424 532 383 559 346 559 c 0
+ 306 559 289 535 289 514 c 0
+ 289 465 363 455 448 424 c 0
+ 556 385 627 317 627 200 c 0
+ 627 61 504 -10 325 -10 c 0
+ 190 -10 64 73 20 158 c 1
+ 168 266 l 1
+ 220 190 263 158 330 158 c 0
+ 376 158 394 171 394 201 c 0
+ 394 236 344 248 261 281 c 0
+ 192 308 64 369 64 510 c 0
+ 64 616 174 710 338 710 c 0
+ 501 710 566 642 617 564 c 1
+ 454 474 l 1
+EndSplineSet
+EndChar
+
+StartChar: bar
+Encoding: 124 124 64
+GlifName: bar
+Width: 400
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 785 m 1
+ 300 785 l 1
+ 300 -215 l 1
+ 100 -215 l 1
+ 100 785 l 1
+EndSplineSet
+EndChar
+
+StartChar: zero
+Encoding: 48 48 65
+GlifName: zero
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+250 350 m 0
+ 250 237 292 170 350 170 c 4
+ 408 170 450 237 450 350 c 0
+ 450 463 408 530 350 530 c 0
+ 292 530 250 463 250 350 c 0
+40 350 m 0
+ 40 589 166 715 350 715 c 4
+ 544 715 660 589 660 350 c 0
+ 660 111 544 -15 350 -15 c 4
+ 166 -15 40 111 40 350 c 0
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF10
+EndChar
+
+StartChar: one
+Encoding: 49 49 66
+GlifName: one
+Width: 545
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+60 459 m 5
+ 60 642 l 5
+ 455 715 l 5
+ 455 0 l 5
+ 245 0 l 5
+ 245 500 l 5
+ 60 459 l 5
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF11
+EndChar
+
+StartChar: two
+Encoding: 50 50 67
+GlifName: two
+Width: 709
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+20 0 m 1
+ 321 305 l 2
+ 383 372 421 410 421 465 c 4
+ 421 500 400 531 349 531 c 0
+ 299 531 265 486 265 430 c 1
+ 50 430 l 1
+ 50 579 152 716 357 716 c 0
+ 542 716 649 600 649 481 c 0
+ 649 404 607 346 543 297 c 2
+ 417 200 l 1
+ 674 200 l 1
+ 674 0 l 1
+ 20 0 l 1
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF12
+EndChar
+
+StartChar: four
+Encoding: 52 52 68
+GlifName: four
+Width: 768
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+10 115 m 1
+ 190 265 l 1
+ 503 265 l 4
+ 520 300 l 4
+ 718 300 l 1
+ 718 115 l 1
+ 10 115 l 1
+230 195 m 1
+ 10 115 l 1
+ 428 700 l 25
+ 608 700 l 1
+ 608 0 l 1
+ 378 0 l 1
+ 378 151 l 0
+ 408 162 l 0
+ 408 421 l 1
+ 230 195 l 1
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF14
+EndChar
+
+StartChar: slash
+Encoding: 47 47 69
+GlifName: slash
+Width: 665
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+465 700 m 1
+ 650 700 l 1
+ 210 -150 l 5
+ 15 -150 l 1
+ 465 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 70
+GlifName: backslash
+Width: 565
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+15 700 m 1
+ 200 700 l 1
+ 550 0 l 1
+ 365 0 l 5
+ 15 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: eight
+Encoding: 56 56 71
+GlifName: eight
+Width: 676
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 531 m 4
+ 75 660 198 720 338 720 c 4
+ 478 720 601 660 601 531 c 4
+ 601 392 453 335 338 335 c 4
+ 223 335 75 392 75 531 c 4
+281 511 m 4
+ 281 475 303 450 338 450 c 4
+ 373 450 395 475 395 511 c 4
+ 395 547 373 570 338 570 c 4
+ 303 570 281 547 281 511 c 4
+50 190 m 4
+ 50 349 223 400 338 400 c 4
+ 453 400 626 349 626 190 c 4
+ 626 51 483 -20 338 -20 c 4
+ 193 -20 50 51 50 190 c 4
+271 225 m 4
+ 271 179 298 155 338 155 c 4
+ 378 155 405 179 405 225 c 4
+ 405 261 378 290 338 290 c 4
+ 298 290 271 261 271 225 c 4
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF18
+EndChar
+
+StartChar: nine
+Encoding: 57 57 72
+GlifName: nine
+Width: 726
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+457 445 m 0
+ 457 501 416 535 363 535 c 0
+ 310 535 269 501 269 445 c 0
+ 269 389 310 353 363 353 c 0
+ 416 353 457 389 457 445 c 0
+391 5 m 1
+ 112 5 l 1
+ 343 236 l 1
+ 395 263 l 1
+ 351 225 325 217 272 217 c 4
+ 173 217 50 296 50 445 c 4
+ 50 634 193 720 363 720 c 0
+ 533 720 676 634 676 445 c 0
+ 676 358 629 288 572 220 c 2
+ 391 5 l 1
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF19
+EndChar
+
+StartChar: three
+Encoding: 51 51 73
+GlifName: three
+Width: 666
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+288 335 m 1
+ 288 424 l 1
+ 358 424 410 460 410 501 c 0
+ 410 527 390 545 347 545 c 4
+ 302 545 271 517 271 476 c 1
+ 70 476 l 1
+ 70 610 178 715 348 715 c 0
+ 528 715 626 630 626 516 c 0
+ 626 382 473 335 288 335 c 1
+338 -20 m 0
+ 148 -20 40 111 40 245 c 1
+ 256 245 l 1
+ 256 174 303 150 348 150 c 0
+ 393 150 430 164 430 215 c 0
+ 430 256 398 295 288 295 c 1
+ 288 399 l 1
+ 503 399 646 339 646 195 c 0
+ 646 71 538 -20 338 -20 c 0
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF13
+EndChar
+
+StartChar: five
+Encoding: 53 53 74
+GlifName: five
+Width: 694
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+654 220 m 4
+ 654 51 484 -15 349 -15 c 4
+ 220 -15 126 12 50 42 c 5
+ 112 236 l 5
+ 183 196 252 185 289 185 c 4
+ 364 185 411 199 411 250 c 4
+ 411 301 344 310 289 310 c 4
+ 242 310 152 304 81 277 c 5
+ 240 373 l 5
+ 296 433 360 445 439 445 c 4
+ 544 445 654 369 654 220 c 4
+341 510 m 5
+ 280 357 l 5
+ 81 277 l 5
+ 182 700 l 5
+ 632 700 l 5
+ 632 510 l 5
+ 341 510 l 5
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF15
+EndChar
+
+StartChar: six
+Encoding: 54 54 75
+GlifName: six
+Width: 726
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+269 255 m 4
+ 269 199 310 165 363 165 c 4
+ 416 165 457 199 457 255 c 4
+ 457 311 416 347 363 347 c 4
+ 310 347 269 311 269 255 c 4
+335 695 m 5
+ 614 695 l 5
+ 383 464 l 5
+ 331 437 l 5
+ 375 475 401 483 454 483 c 4
+ 553 483 676 404 676 255 c 4
+ 676 66 533 -20 363 -20 c 4
+ 193 -20 50 66 50 255 c 4
+ 50 342 97 412 154 480 c 6
+ 335 695 l 5
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF16
+EndChar
+
+StartChar: seven
+Encoding: 55 55 76
+GlifName: seven
+Width: 650
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+30 495 m 1
+ 30 700 l 1
+ 650 700 l 1
+ 310 0 l 1
+ 71 0 l 5
+ 329 495 l 5
+ 30 495 l 1
+EndSplineSet
+Substitution2: "Tabular Numbers lookup" uniFF17
+EndChar
+
+StartChar: plus
+Encoding: 43 43 77
+GlifName: plus
+Width: 710
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 185 m 1
+ 65 370 l 1
+ 645 370 l 5
+ 645 185 l 5
+ 65 185 l 1
+255 565 m 1
+ 455 565 l 5
+ 455 -10 l 5
+ 255 -10 l 1
+ 255 565 l 1
+EndSplineSet
+EndChar
+
+StartChar: equal
+Encoding: 61 61 78
+GlifName: equal
+Width: 633
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 50 m 1
+ 50 215 l 1
+ 583 215 l 5
+ 583 50 l 5
+ 50 50 l 1
+50 290 m 1
+ 50 455 l 1
+ 583 455 l 5
+ 583 290 l 5
+ 50 290 l 1
+EndSplineSet
+EndChar
+
+StartChar: percent
+Encoding: 37 37 79
+GlifName: percent
+Width: 1021
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+15 525 m 4
+ 15 635 108 725 223 725 c 4
+ 338 725 431 635 431 525 c 4
+ 431 415 338 325 223 325 c 4
+ 108 325 15 415 15 525 c 4
+172 525 m 4
+ 172 498 195 476 223 476 c 4
+ 251 476 274 498 274 525 c 4
+ 274 552 251 574 223 574 c 4
+ 195 574 172 552 172 525 c 4
+590 176 m 4
+ 590 286 683 376 798 376 c 4
+ 913 376 1006 286 1006 176 c 4
+ 1006 66 913 -24 798 -24 c 4
+ 683 -24 590 66 590 176 c 4
+747 176 m 4
+ 747 149 770 127 798 127 c 4
+ 826 127 849 149 849 176 c 4
+ 849 203 826 225 798 225 c 4
+ 770 225 747 203 747 176 c 4
+703 700 m 5
+ 908 700 l 5
+ 318 0 l 5
+ 113 0 l 5
+ 703 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 80
+GlifName: ampersand
+Width: 799
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 190 m 1
+ 243 209 l 1
+ 243 178 265 145 325 145 c 0
+ 432 145 540 236 611 356 c 1
+ 736 255 l 1
+ 660 135 504 -15 295 -15 c 4
+ 149 -15 40 61 40 190 c 1
+132 536 m 1
+ 132 620 219 721 374 721 c 0
+ 520 721 596 628 596 544 c 1
+ 425 522 l 1
+ 425 542 404 570 372 570 c 0
+ 332 570 316 541 316 521 c 1
+ 132 536 l 1
+223 364 m 2
+ 172 427 132 469 132 536 c 1
+ 316 521 l 1
+ 316 485 357 456 414 385 c 2
+ 784 0 l 1
+ 564 0 l 1
+ 223 364 l 2
+596 544 m 1
+ 596 437 532 413 409 328 c 0
+ 339 280 243 279 243 209 c 1
+ 40 190 l 1
+ 40 357 242 392 314 422 c 0
+ 389 454 425 491 425 522 c 1
+ 596 544 l 1
+EndSplineSet
+EndChar
+
+StartChar: question
+Encoding: 63 63 81
+GlifName: question
+Width: 669
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+202 70 m 4
+ 202 123 250 170 320 170 c 0
+ 390 170 438 123 438 70 c 4
+ 438 17 390 -30 320 -30 c 0
+ 250 -30 202 17 202 70 c 4
+220 400 m 1
+ 410 400 l 1
+ 400 220 l 1
+ 240 220 l 1
+ 220 400 l 1
+423 500 m 0
+ 423 541 391 565 331 565 c 0
+ 274 565 206 536 165 476 c 1
+ 40 587 l 1
+ 126 677 222 725 341 725 c 0
+ 476 725 619 649 619 500 c 0
+ 619 331 421 270 306 270 c 1
+ 256 400 l 1
+ 376 400 423 464 423 500 c 0
+EndSplineSet
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 82
+GlifName: parenleft
+Width: 360
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+180 780 m 1
+ 355 780 l 5
+ 285 630 240 460 240 290 c 4
+ 240 120 285 -50 355 -200 c 5
+ 180 -200 l 1
+ 100 -50 55 120 55 290 c 0
+ 55 460 100 630 180 780 c 1
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 83
+GlifName: parenright
+Width: 360
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+180 -200 m 1
+ 5 -200 l 5
+ 75 -50 120 120 120 290 c 4
+ 120 460 75 630 5 780 c 5
+ 180 780 l 1
+ 260 630 305 460 305 290 c 0
+ 305 120 260 -50 180 -200 c 1
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 84
+GlifName: asterisk
+Width: 592
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+515 606 m 1
+ 571 435 l 1
+ 310 397 l 1
+ 282 483 l 1
+ 515 606 l 1
+522 283 m 1
+ 376 177 l 1
+ 260 414 l 1
+ 332 466 l 1
+ 522 283 l 1
+216 177 m 1
+ 70 283 l 1
+ 260 466 l 1
+ 332 414 l 1
+ 216 177 l 1
+21 435 m 1
+ 77 606 l 1
+ 310 483 l 1
+ 282 397 l 1
+ 21 435 l 1
+206 700 m 1
+ 386 700 l 1
+ 341 440 l 1
+ 251 440 l 1
+ 206 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: less
+Encoding: 60 60 85
+GlifName: less
+Width: 640
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+331 271 m 5
+ 575 180 l 5
+ 575 -10 l 1
+ 65 200 l 1
+ 65 335 l 5
+ 575 545 l 5
+ 575 355 l 5
+ 331 271 l 5
+EndSplineSet
+EndChar
+
+StartChar: greater
+Encoding: 62 62 86
+GlifName: greater
+Width: 640
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+309 264 m 1
+ 65 355 l 1
+ 65 545 l 5
+ 575 335 l 5
+ 575 200 l 1
+ 65 -10 l 1
+ 65 180 l 1
+ 309 264 l 1
+EndSplineSet
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 87
+GlifName: bracketleft
+Width: 400
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+279 615 m 5
+ 279 -55 l 5
+ 380 -55 l 5
+ 380 -220 l 1
+ 85 -220 l 1
+ 85 780 l 1
+ 380 780 l 1
+ 380 615 l 5
+ 279 615 l 5
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 88
+GlifName: bracketright
+Width: 400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+121 -55 m 5
+ 121 615 l 5
+ 20 615 l 5
+ 20 780 l 1
+ 315 780 l 1
+ 315 -220 l 1
+ 20 -220 l 1
+ 20 -55 l 5
+ 121 -55 l 5
+EndSplineSet
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 89
+GlifName: asciicircum
+Width: 510
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+255 556 m 1
+ 195 440 l 1
+ 25 440 l 1
+ 195 710 l 1
+ 315 710 l 1
+ 485 440 l 1
+ 315 440 l 1
+ 255 556 l 1
+EndSplineSet
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 90
+GlifName: underscore
+Width: 550
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+0 -166 m 1
+ 0 -45 l 1
+ 550 -45 l 5
+ 550 -166 l 5
+ 0 -166 l 1
+EndSplineSet
+EndChar
+
+StartChar: grave
+Encoding: 96 96 91
+GlifName: grave
+Width: 375
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 650 m 5
+ 180 710 l 5
+ 330 550 l 5
+ 220 500 l 5
+ 40 650 l 5
+EndSplineSet
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 92
+GlifName: braceleft
+Width: 451
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+318 580 m 6
+ 318 490 l 6
+ 318 401 314 280 155 280 c 5
+ 155 300 l 5
+ 314 300 318 179 318 90 c 6
+ 318 0 l 6
+ 318 -26 336 -50 366 -50 c 6
+ 401 -50 l 5
+ 401 -200 l 5
+ 291 -200 l 6
+ 187 -200 98 -159 98 -60 c 6
+ 98 110 l 6
+ 98 186 80 210 30 220 c 5
+ 30 360 l 5
+ 80 370 98 394 98 470 c 6
+ 98 640 l 6
+ 98 739 187 780 291 780 c 6
+ 401 780 l 5
+ 401 630 l 5
+ 366 630 l 6
+ 336 630 318 606 318 580 c 6
+EndSplineSet
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 93
+GlifName: braceright
+Width: 451
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+133 0 m 2
+ 133 90 l 2
+ 133 179 137 300 296 300 c 1
+ 296 280 l 1
+ 137 280 133 401 133 490 c 2
+ 133 580 l 2
+ 133 606 115 630 85 630 c 2
+ 50 630 l 1
+ 50 780 l 1
+ 160 780 l 2
+ 264 780 353 739 353 640 c 2
+ 353 470 l 2
+ 353 394 371 370 421 360 c 1
+ 421 220 l 1
+ 371 210 353 186 353 110 c 2
+ 353 -60 l 2
+ 353 -159 264 -200 160 -200 c 2
+ 50 -200 l 1
+ 50 -50 l 1
+ 85 -50 l 2
+ 115 -50 133 -26 133 0 c 2
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 94
+GlifName: asciitilde
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+165 156 m 1
+ 18 161 l 1
+ 16 168 15 176 15 185 c 0
+ 15 226 23 261 51 295 c 0
+ 79 329 112 357 194 357 c 0
+ 243 357 268 340 320 308 c 0
+ 352 288 372 272 390 272 c 0
+ 408 272 417 290 417 306 c 0
+ 417 319 413 333 409 343 c 1
+ 556 338 l 1
+ 558 330 560 320 560 310 c 0
+ 560 270 554 231 527 198 c 0
+ 500 165 470 142 404 142 c 0
+ 360 142 327 161 274 193 c 0
+ 242 213 218 228 193 228 c 0
+ 163 228 158 202 158 188 c 0
+ 158 171 162 164 165 156 c 1
+EndSplineSet
+EndChar
+
+StartChar: exclamdown
+Encoding: 161 161 95
+GlifName: exclamdown
+Width: 370
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+305 -220 m 1
+ 65 -220 l 1
+ 105 230 l 1
+ 265 230 l 1
+ 305 -220 l 1
+303 405 m 0
+ 303 342 255 300 185 300 c 0
+ 115 300 67 342 67 405 c 0
+ 67 468 115 510 185 510 c 0
+ 255 510 303 468 303 405 c 0
+EndSplineSet
+EndChar
+
+StartChar: cent
+Encoding: 162 162 96
+GlifName: cent
+Width: 580
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+210 38 m 1
+ 349 38 l 1
+ 364 -112 l 1
+ 195 -112 l 1
+ 210 38 l 1
+231 230 m 0
+ 231 164 284 138 334 138 c 0
+ 388 138 423 164 454 199 c 1
+ 454 19 l 1
+ 422 1 377 -10 314 -10 c 4
+ 149 -10 31 81 31 230 c 0
+ 31 379 149 470 314 470 c 4
+ 377 470 422 458 454 441 c 1
+ 454 261 l 1
+ 423 296 388 322 334 322 c 0
+ 284 322 231 286 231 230 c 0
+195 578 m 1
+ 364 578 l 1
+ 349 428 l 1
+ 210 428 l 1
+ 195 578 l 1
+EndSplineSet
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 97
+GlifName: sterling
+Width: 630
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+67 370 m 1
+ 457 370 l 1
+ 457 255 l 1
+ 67 255 l 1
+ 67 370 l 1
+425 459 m 1
+ 421 502 407 546 341 546 c 0
+ 301 546 268 526 268 480 c 0
+ 268 414 358 386 358 274 c 0
+ 358 168 206 70 132 50 c 1
+ 214 175 l 1
+ 552 175 l 1
+ 552 0 l 1
+ 44 0 l 1
+ 142 102 172 201 172 309 c 0
+ 172 403 66 417 66 523 c 0
+ 66 642 192 710 331 710 c 4
+ 494 710 596 613 601 523 c 1
+ 425 459 l 1
+EndSplineSet
+EndChar
+
+StartChar: currency
+Encoding: 164 164 98
+GlifName: currency
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+15 503 m 1
+ 85 573 l 1
+ 188 469 l 1
+ 119 400 l 1
+ 15 503 l 1
+85 27 m 1
+ 15 97 l 1
+ 119 200 l 1
+ 188 131 l 1
+ 85 27 l 1
+457 400 m 1
+ 387 469 l 1
+ 491 573 l 1
+ 560 503 l 1
+ 457 400 l 1
+387 131 m 1
+ 457 200 l 1
+ 560 97 l 1
+ 491 27 l 1
+ 387 131 l 1
+50 300 m 0
+ 50 439 153 540 288 540 c 0
+ 423 540 526 439 526 300 c 0
+ 526 161 423 60 288 60 c 0
+ 153 60 50 161 50 300 c 0
+221 300 m 0
+ 221 259 248 235 288 235 c 0
+ 328 235 355 259 355 300 c 0
+ 355 341 328 365 288 365 c 0
+ 248 365 221 341 221 300 c 0
+EndSplineSet
+EndChar
+
+StartChar: yen
+Encoding: 165 165 99
+GlifName: yen
+Width: 723
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+248 360 m 5
+ 474 360 l 5
+ 474 0 l 5
+ 248 0 l 5
+ 248 360 l 5
+471 700 m 5
+ 725 700 l 5
+ 360 84 l 5
+ -5 700 l 5
+ 250 700 l 5
+ 360 474 l 5
+ 471 700 l 5
+45 100 m 5
+ 45 215 l 5
+ 675 215 l 5
+ 675 100 l 5
+ 45 100 l 5
+45 250 m 5
+ 45 365 l 5
+ 675 365 l 5
+ 675 250 l 5
+ 45 250 l 5
+EndSplineSet
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 100
+GlifName: brokenbar
+Width: 400
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 695 m 1
+ 300 695 l 1
+ 300 415 l 5
+ 100 415 l 5
+ 100 695 l 1
+300 285 m 1
+ 300 5 l 1
+ 100 5 l 1
+ 100 285 l 1
+ 300 285 l 1
+EndSplineSet
+EndChar
+
+StartChar: section
+Encoding: 167 167 101
+GlifName: section
+Width: 679
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+455 531 m 1
+ 423 557 373 577 346 577 c 0
+ 316 577 306 567 306 557 c 0
+ 306 537 344 539 400 527 c 0
+ 483 509 542 460 542 383 c 0
+ 542 277 417 222 303 222 c 1
+ 303 268 l 1
+ 333 278 372 292 372 333 c 0
+ 372 389 292 404 240 424 c 0
+ 185 445 123 485 123 572 c 0
+ 123 681 232 732 331 732 c 0
+ 416 732 497 700 531 665 c 1
+ 455 531 l 1
+147 181 m 1
+ 219 135 289 125 316 125 c 0
+ 346 125 356 135 356 145 c 0
+ 356 165 318 170 262 182 c 4
+ 179 200 100 242 100 319 c 0
+ 100 425 235 480 349 480 c 1
+ 349 434 l 1
+ 319 424 280 410 280 369 c 0
+ 280 313 371 307 422 286 c 0
+ 487 259 549 217 549 130 c 0
+ 549 21 430 -30 331 -30 c 0
+ 206 -30 135 2 71 47 c 1
+ 147 181 l 1
+EndSplineSet
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 102
+GlifName: dieresis
+Width: 536
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+285 615 m 4
+ 285 678 333 730 403 730 c 4
+ 473 730 521 678 521 615 c 4
+ 521 552 473 500 403 500 c 4
+ 333 500 285 552 285 615 c 4
+15 615 m 0
+ 15 678 63 730 133 730 c 0
+ 203 730 251 678 251 615 c 0
+ 251 552 203 500 133 500 c 0
+ 63 500 15 552 15 615 c 0
+EndSplineSet
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 103
+GlifName: copyright
+Width: 800
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+319 350 m 4
+ 319 285 368 252 427 252 c 4
+ 486 252 520 279 546 304 c 5
+ 546 168 l 5
+ 513 145 478 128 417 128 c 4
+ 271 128 174 216 174 350 c 4
+ 174 484 271 572 417 572 c 4
+ 478 572 513 555 546 532 c 5
+ 546 396 l 5
+ 520 421 486 448 427 448 c 4
+ 368 448 319 415 319 350 c 4
+95 350 m 0
+ 95 172 227 40 400 40 c 0
+ 573 40 705 172 705 350 c 0
+ 705 528 573 660 400 660 c 0
+ 227 660 95 528 95 350 c 0
+40 350 m 0
+ 40 559 196 710 400 710 c 0
+ 604 710 760 559 760 350 c 0
+ 760 141 604 -10 400 -10 c 0
+ 196 -10 40 141 40 350 c 0
+EndSplineSet
+EndChar
+
+StartChar: registered
+Encoding: 174 174 104
+GlifName: registered
+Width: 800
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+394 310 m 5
+ 509 310 l 5
+ 609 150 l 5
+ 456 150 l 5
+ 394 310 l 5
+241 570 m 5
+ 373 570 l 5
+ 373 150 l 5
+ 241 150 l 5
+ 241 570 l 5
+326 459 m 5
+ 326 570 l 5
+ 418 570 l 6
+ 541 570 594 509 594 436 c 4
+ 594 353 541 292 418 292 c 6
+ 326 292 l 5
+ 326 391 l 5
+ 406 391 l 6
+ 439 391 456 401 456 426 c 4
+ 456 451 439 460 406 460 c 6
+ 326 459 l 5
+95 350 m 4
+ 95 172 227 40 400 40 c 4
+ 573 40 705 172 705 350 c 4
+ 705 528 573 660 400 660 c 4
+ 227 660 95 528 95 350 c 4
+40 350 m 4
+ 40 559 196 710 400 710 c 4
+ 604 710 760 559 760 350 c 4
+ 760 141 604 -10 400 -10 c 4
+ 196 -10 40 141 40 350 c 4
+EndSplineSet
+EndChar
+
+StartChar: ordfeminine
+Encoding: 170 170 105
+GlifName: ordfeminine
+Width: 290
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+114 529 m 0
+ 114 517 125 513 137 513 c 0
+ 157 513 178 522 178 555 c 1
+ 186 525 l 1
+ 186 481 150 455 102 455 c 0
+ 50 455 16 481 16 525 c 0
+ 16 569 56 597 116 597 c 0
+ 145 597 182 589 194 577 c 1
+ 194 533 l 1
+ 180 544 167 550 143 550 c 0
+ 126 550 114 541 114 529 c 0
+66 612 m 5
+ 36 680 l 1
+ 68 692 110 705 152 705 c 0
+ 220 705 270 678 270 628 c 2
+ 270 460 l 1
+ 178 460 l 1
+ 178 596 l 2
+ 178 614 167 630 142 630 c 4
+ 109 630 77 618 66 612 c 5
+EndSplineSet
+EndChar
+
+StartChar: ordmasculine
+Encoding: 186 186 106
+GlifName: ordmasculine
+Width: 278
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+18 580 m 4
+ 18 654 76 700 156 700 c 4
+ 236 700 296 654 296 580 c 4
+ 296 506 236 460 156 460 c 4
+ 76 460 18 506 18 580 c 4
+118 580 m 4
+ 118 552 136 538 156 538 c 4
+ 176 538 195 552 195 580 c 4
+ 195 608 176 623 156 623 c 4
+ 136 623 118 608 118 580 c 4
+EndSplineSet
+EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 107
+GlifName: guillemotleft
+Width: 560
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+140 235 m 5
+ 20 255 l 5
+ 190 520 l 5
+ 310 445 l 5
+ 140 235 l 5
+20 255 m 5
+ 140 285 l 5
+ 310 65 l 5
+ 190 -10 l 5
+ 20 255 l 5
+370 235 m 5
+ 250 255 l 5
+ 420 520 l 5
+ 540 445 l 5
+ 370 235 l 5
+250 255 m 5
+ 370 285 l 5
+ 540 65 l 5
+ 420 -10 l 5
+ 250 255 l 5
+EndSplineSet
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 108
+GlifName: guillemotright
+Width: 560
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+420 275 m 5
+ 540 255 l 5
+ 370 -10 l 5
+ 250 65 l 5
+ 420 275 l 5
+540 255 m 5
+ 420 225 l 5
+ 250 445 l 5
+ 370 520 l 5
+ 540 255 l 5
+190 275 m 5
+ 310 255 l 5
+ 140 -10 l 5
+ 20 65 l 5
+ 190 275 l 5
+310 255 m 5
+ 190 225 l 5
+ 20 445 l 5
+ 140 520 l 5
+ 310 255 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 109
+GlifName: uni00A_D_
+Width: 210
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 200 m 5
+ 5 275 l 5
+ 205 275 l 5
+ 205 200 l 5
+ 5 200 l 5
+EndSplineSet
+EndChar
+
+StartChar: logicalnot
+Encoding: 172 172 110
+GlifName: logicalnot
+Width: 669
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 255 m 1
+ 65 420 l 1
+ 604 420 l 5
+ 604 255 l 5
+ 65 255 l 1
+479 375 m 5
+ 604 375 l 5
+ 604 175 l 5
+ 479 175 l 5
+ 479 375 l 5
+EndSplineSet
+EndChar
+
+StartChar: macron
+Encoding: 175 175 111
+GlifName: macron
+Width: 545
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+80 555 m 1
+ 80 720 l 1
+ 465 720 l 1
+ 465 555 l 1
+ 80 555 l 1
+EndSplineSet
+EndChar
+
+StartChar: degree
+Encoding: 176 176 112
+GlifName: degree
+Width: 308
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+15 595 m 4
+ 15 669 73 720 153 720 c 4
+ 233 720 293 669 293 595 c 4
+ 293 521 233 470 153 470 c 4
+ 73 470 15 521 15 595 c 4
+110 595 m 4
+ 110 567 128 551 153 551 c 4
+ 178 551 197 567 197 595 c 4
+ 197 623 178 640 153 640 c 4
+ 128 640 110 623 110 595 c 4
+EndSplineSet
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 113
+GlifName: plusminus
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 10 m 5
+ 65 170 l 5
+ 580 170 l 5
+ 580 10 l 5
+ 65 10 l 5
+65 325 m 5
+ 65 495 l 5
+ 580 495 l 5
+ 580 325 l 5
+ 65 325 l 5
+225 620 m 5
+ 420 620 l 5
+ 420 200 l 5
+ 225 200 l 5
+ 225 620 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni00B2
+Encoding: 178 178 114
+GlifName: uni00B_2
+Width: 446
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+25 282 m 1
+ 206 465 l 2
+ 243 505 266 528 266 561 c 4
+ 266 582 253 601 222 601 c 0
+ 192 601 172 574 172 540 c 1
+ 43 540 l 1
+ 43 629 104 712 227 712 c 0
+ 338 712 402 642 402 571 c 0
+ 402 525 377 489 339 460 c 2
+ 263 402 l 1
+ 417 402 l 1
+ 417 282 l 1
+ 25 282 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni00B3
+Encoding: 179 179 115
+GlifName: uni00B_3
+Width: 397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+162 481 m 1
+ 162 534 l 1
+ 204 534 235 556 235 581 c 0
+ 235 597 223 607 197 607 c 4
+ 170 607 152 591 152 566 c 1
+ 31 566 l 1
+ 31 646 96 709 198 709 c 0
+ 306 709 365 658 365 590 c 0
+ 365 510 273 481 162 481 c 1
+192 268 m 0
+ 78 268 13 347 13 427 c 1
+ 143 427 l 1
+ 143 384 171 370 198 370 c 0
+ 225 370 247 378 247 409 c 0
+ 247 434 228 457 162 457 c 1
+ 162 519 l 1
+ 291 519 377 483 377 397 c 0
+ 377 323 312 268 192 268 c 0
+EndSplineSet
+EndChar
+
+StartChar: acute
+Encoding: 180 180 116
+GlifName: acute
+Width: 375
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+330 650 m 5
+ 150 500 l 5
+ 40 550 l 5
+ 190 710 l 5
+ 330 650 l 5
+EndSplineSet
+EndChar
+
+StartChar: mu
+Encoding: 181 181 117
+GlifName: mu
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 1
+ 360 460 l 1
+ 555 460 l 1
+ 555 0 l 1
+ 360 0 l 1
+255 180 m 2
+ 255 139 263 114 303 114 c 0
+ 338 114 360 134 360 180 c 1
+ 386 190 l 1
+ 386 81 343 -11 218 -11 c 0
+ 93 -11 50 51 50 160 c 2
+ 50 460 l 1
+ 255 460 l 1
+ 255 180 l 2
+50 460 m 1
+ 235 460 l 5
+ 235 -320 l 5
+ 50 -320 l 1
+ 50 460 l 1
+EndSplineSet
+EndChar
+
+StartChar: paragraph
+Encoding: 182 182 118
+GlifName: paragraph
+Width: 728
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+288 590 m 1
+ 288 700 l 1
+ 538 700 l 5
+ 538 590 l 5
+ 288 590 l 1
+498 700 m 5
+ 668 700 l 5
+ 668 -220 l 5
+ 498 -220 l 5
+ 498 700 l 5
+288 700 m 1
+ 458 700 l 1
+ 458 -220 l 1
+ 288 -220 l 1
+ 288 700 l 1
+288 270 m 1
+ 163 270 60 346 60 485 c 0
+ 60 624 163 700 288 700 c 1
+ 288 270 l 1
+EndSplineSet
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 119
+GlifName: periodcentered
+Width: 336
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 285 m 0
+ 50 348 98 400 168 400 c 4
+ 238 400 286 348 286 285 c 0
+ 286 222 238 170 168 170 c 0
+ 98 170 50 222 50 285 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni00B9
+Encoding: 185 185 120
+GlifName: uni00B_9
+Width: 490
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+122 549 m 5
+ 122 659 l 5
+ 359 703 l 5
+ 359 274 l 5
+ 233 274 l 5
+ 233 574 l 5
+ 122 549 l 5
+EndSplineSet
+EndChar
+
+StartChar: cedilla
+Encoding: 184 184 121
+GlifName: cedilla
+Width: 420
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+176 78 m 5
+ 316 72 l 5
+ 186 -94 l 5
+ 87 -133 l 5
+ 176 78 l 5
+372 -162 m 5
+ 251 -148 l 5
+ 251 -120 213 -118 184 -118 c 4
+ 174 -118 130 -119 87 -133 c 5
+ 166 -86 l 5
+ 194 -56 226 -50 269 -50 c 4
+ 313 -50 372 -86 372 -162 c 5
+372 -162 m 5
+ 372 -241 294 -280 226 -280 c 4
+ 159 -280 107 -271 49 -240 c 5
+ 102 -154 l 5
+ 131 -174 178 -180 194 -180 c 4
+ 228 -180 251 -172 251 -148 c 5
+ 372 -162 l 5
+EndSplineSet
+EndChar
+
+StartChar: questiondown
+Encoding: 191 191 122
+GlifName: questiondown
+Width: 669
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+467 630 m 4
+ 467 577 419 530 349 530 c 0
+ 279 530 231 577 231 630 c 4
+ 231 683 279 730 349 730 c 0
+ 419 730 467 683 467 630 c 4
+449 300 m 1
+ 259 300 l 1
+ 269 480 l 1
+ 429 480 l 1
+ 449 300 l 1
+246 200 m 0
+ 246 159 278 135 338 135 c 0
+ 395 135 463 164 504 224 c 1
+ 629 113 l 1
+ 543 23 447 -25 328 -25 c 0
+ 193 -25 50 51 50 200 c 0
+ 50 369 248 430 363 430 c 1
+ 413 300 l 1
+ 293 300 246 236 246 200 c 0
+EndSplineSet
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 123
+GlifName: multiply
+Width: 596
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+151 -8 m 1
+ 35 108 l 1
+ 186 255 l 1
+ 35 402 l 1
+ 151 518 l 1
+ 298 367 l 1
+ 445 518 l 1
+ 561 402 l 1
+ 410 255 l 1
+ 561 108 l 1
+ 445 -8 l 1
+ 298 143 l 1
+ 151 -8 l 1
+EndSplineSet
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 124
+GlifName: O_slash
+Width: 790
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 242 322 178 420 178 c 0
+ 518 178 577 242 577 350 c 0
+ 577 458 518 522 420 522 c 0
+ 322 522 263 458 263 350 c 0
+30 350 m 4
+ 30 574 196 720 420 720 c 4
+ 644 720 810 574 810 350 c 4
+ 810 126 644 -30 420 -30 c 4
+ 196 -30 30 126 30 350 c 4
+703 760 m 1
+ 782 700 l 1
+ 133 -60 l 1
+ 55 0 l 1
+ 703 760 l 1
+EndSplineSet
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 125
+GlifName: T_horn
+Width: 650
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+335 120 m 5
+ 335 285 l 5
+ 404 285 438 299 438 355 c 4
+ 438 411 404 425 335 425 c 5
+ 335 590 l 5
+ 540 590 628 504 628 355 c 4
+ 628 206 540 120 335 120 c 5
+202 120 m 5
+ 202 285 l 5
+ 335 285 l 5
+ 335 120 l 5
+ 202 120 l 5
+202 425 m 5
+ 202 590 l 5
+ 335 590 l 5
+ 335 425 l 5
+ 202 425 l 5
+80 700 m 1
+ 265 700 l 1
+ 265 0 l 1
+ 80 0 l 1
+ 80 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: divide
+Encoding: 247 247 126
+GlifName: divide
+Width: 650
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 615 m 4
+ 207 678 255 730 325 730 c 4
+ 395 730 443 678 443 615 c 4
+ 443 552 395 500 325 500 c 4
+ 255 500 207 552 207 615 c 4
+207 115 m 4
+ 207 178 255 230 325 230 c 4
+ 395 230 443 178 443 115 c 4
+ 443 52 395 0 325 0 c 4
+ 255 0 207 52 207 115 c 4
+5 280 m 5
+ 5 450 l 5
+ 645 450 l 5
+ 645 280 l 5
+ 5 280 l 5
+EndSplineSet
+EndChar
+
+StartChar: oslash
+Encoding: 248 248 127
+GlifName: oslash
+Width: 546
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 0
+ 30 389 153 470 308 470 c 0
+ 463 470 586 389 586 230 c 0
+ 586 71 463 -10 308 -10 c 0
+ 153 -10 30 71 30 230 c 0
+211 230 m 0
+ 211 164 258 135 308 135 c 0
+ 358 135 405 164 405 230 c 4
+ 405 286 358 325 308 325 c 0
+ 258 325 211 286 211 230 c 0
+465 510 m 1
+ 530 470 l 1
+ 140 -54 l 1
+ 75 -14 l 1
+ 465 510 l 1
+EndSplineSet
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 128
+GlifName: circumflex
+Width: 480
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+240 620 m 5
+ 160 540 l 5
+ 20 630 l 5
+ 240 770 l 5
+ 460 630 l 5
+ 320 540 l 5
+ 240 620 l 5
+EndSplineSet
+EndChar
+
+StartChar: ogonek
+Encoding: 731 731 129
+GlifName: ogonek
+Width: 260
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+194 -100 m 1
+ 227 -180 l 1
+ 212 -200 182 -220 119 -220 c 0
+ 65 -220 6 -189 6 -120 c 1
+ 116 -90 l 1
+ 116 -108 124 -120 144 -120 c 0
+ 160 -120 180 -113 194 -100 c 1
+116 -90 m 1
+ 6 -120 l 1
+ 6 -51 78 -11 148 25 c 1
+ 189 0 l 1
+ 137 -32 116 -63 116 -90 c 1
+EndSplineSet
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 130
+GlifName: tilde
+Width: 530
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+60 645 m 1
+ 70 694 114 747 189 747 c 0
+ 256 747 275 692 333 692 c 0
+ 362 692 384 716 404 748 c 1
+ 490 655 l 1
+ 474 618 409 562 339 562 c 0
+ 284 562 240 619 188 619 c 4
+ 152 619 143 583 143 568 c 1
+ 60 645 l 1
+EndSplineSet
+EndChar
+
+StartChar: ring
+Encoding: 730 730 131
+GlifName: ring
+Width: 358
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 760 m 0
+ 40 834 98 885 178 885 c 0
+ 258 885 318 834 318 760 c 0
+ 318 686 258 635 178 635 c 0
+ 98 635 40 686 40 760 c 0
+135 760 m 0
+ 135 732 153 716 178 716 c 0
+ 203 716 222 732 222 760 c 0
+ 222 788 203 805 178 805 c 0
+ 153 805 135 788 135 760 c 0
+EndSplineSet
+EndChar
+
+StartChar: dotaccent
+Encoding: 729 729 132
+GlifName: dotaccent
+Width: 300
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+32 830 m 0
+ 32 893 80 945 150 945 c 0
+ 220 945 268 893 268 830 c 0
+ 268 767 220 715 150 715 c 0
+ 80 715 32 767 32 830 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 133
+GlifName: uni2010
+Width: 230
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 155 m 1
+ 5 320 l 1
+ 225 320 l 5
+ 225 155 l 5
+ 5 155 l 1
+EndSplineSet
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 134
+GlifName: endash
+Width: 810
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 155 m 1
+ 70 320 l 1
+ 730 320 l 5
+ 730 155 l 5
+ 70 155 l 1
+EndSplineSet
+EndChar
+
+StartChar: figuredash
+Encoding: 8210 8210 135
+GlifName: figuredash
+Width: 650
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 155 m 1
+ 70 320 l 1
+ 565 320 l 5
+ 565 155 l 5
+ 70 155 l 1
+EndSplineSet
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 136
+GlifName: emdash
+Width: 970
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 155 m 1
+ 70 320 l 1
+ 895 320 l 5
+ 895 155 l 5
+ 70 155 l 1
+EndSplineSet
+EndChar
+
+StartChar: minus
+Encoding: 8722 8722 137
+GlifName: minus
+Width: 595
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 155 m 1
+ 50 320 l 1
+ 545 320 l 5
+ 545 155 l 5
+ 50 155 l 1
+EndSplineSet
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 138
+GlifName: quoteright
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 295 700 l 1
+ 190 430 l 5
+ 50 430 l 5
+ 100 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 139
+GlifName: quoteleft
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+265 430 m 1
+ 70 430 l 1
+ 175 700 l 5
+ 315 700 l 5
+ 265 430 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 8218 8218 140
+GlifName: quotesinglbase
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+110 80 m 1
+ 305 80 l 1
+ 200 -190 l 5
+ 60 -190 l 5
+ 110 80 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 141
+GlifName: quotedblleft
+Width: 615
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+265 430 m 1
+ 70 430 l 1
+ 175 700 l 5
+ 315 700 l 5
+ 265 430 l 1
+515 430 m 1
+ 320 430 l 1
+ 425 700 l 5
+ 565 700 l 5
+ 515 430 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 142
+GlifName: quotedblright
+Width: 615
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 295 700 l 1
+ 190 430 l 5
+ 50 430 l 5
+ 100 700 l 1
+350 700 m 1
+ 545 700 l 1
+ 440 430 l 5
+ 300 430 l 5
+ 350 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: perthousand
+Encoding: 8240 8240 143
+GlifName: perthousand
+Width: 1521
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1090 176 m 4
+ 1090 286 1183 376 1298 376 c 4
+ 1413 376 1506 286 1506 176 c 4
+ 1506 66 1413 -24 1298 -24 c 4
+ 1183 -24 1090 66 1090 176 c 4
+1247 176 m 4
+ 1247 149 1270 127 1298 127 c 4
+ 1326 127 1349 149 1349 176 c 4
+ 1349 203 1326 225 1298 225 c 4
+ 1270 225 1247 203 1247 176 c 4
+15 525 m 4
+ 15 635 108 725 223 725 c 4
+ 338 725 431 635 431 525 c 4
+ 431 415 338 325 223 325 c 4
+ 108 325 15 415 15 525 c 4
+172 525 m 4
+ 172 498 195 476 223 476 c 4
+ 251 476 274 498 274 525 c 4
+ 274 552 251 574 223 574 c 4
+ 195 574 172 552 172 525 c 4
+590 176 m 4
+ 590 286 683 376 798 376 c 4
+ 913 376 1006 286 1006 176 c 4
+ 1006 66 913 -24 798 -24 c 4
+ 683 -24 590 66 590 176 c 4
+747 176 m 4
+ 747 149 770 127 798 127 c 4
+ 826 127 849 149 849 176 c 4
+ 849 203 826 225 798 225 c 4
+ 770 225 747 203 747 176 c 4
+703 700 m 5
+ 908 700 l 5
+ 318 0 l 5
+ 113 0 l 5
+ 703 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 144
+GlifName: guilsinglleft
+Width: 350
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+140 235 m 5
+ 20 255 l 5
+ 190 520 l 5
+ 310 445 l 5
+ 140 235 l 5
+20 255 m 5
+ 140 285 l 5
+ 310 65 l 5
+ 190 -10 l 5
+ 20 255 l 5
+EndSplineSet
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 145
+GlifName: guilsinglright
+Width: 350
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+210 275 m 5
+ 330 255 l 5
+ 160 -10 l 5
+ 40 65 l 5
+ 210 275 l 5
+330 255 m 5
+ 210 225 l 5
+ 40 445 l 5
+ 160 520 l 5
+ 330 255 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2031
+Encoding: 8241 8241 146
+GlifName: uni2031
+Width: 2021
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1590 176 m 4
+ 1590 286 1683 376 1798 376 c 4
+ 1913 376 2006 286 2006 176 c 4
+ 2006 66 1913 -24 1798 -24 c 4
+ 1683 -24 1590 66 1590 176 c 4
+1747 176 m 4
+ 1747 149 1770 127 1798 127 c 4
+ 1826 127 1849 149 1849 176 c 4
+ 1849 203 1826 225 1798 225 c 4
+ 1770 225 1747 203 1747 176 c 4
+1090 176 m 0
+ 1090 286 1183 376 1298 376 c 0
+ 1413 376 1506 286 1506 176 c 0
+ 1506 66 1413 -24 1298 -24 c 0
+ 1183 -24 1090 66 1090 176 c 0
+1247 176 m 0
+ 1247 149 1270 127 1298 127 c 0
+ 1326 127 1349 149 1349 176 c 0
+ 1349 203 1326 225 1298 225 c 0
+ 1270 225 1247 203 1247 176 c 0
+15 525 m 0
+ 15 635 108 725 223 725 c 0
+ 338 725 431 635 431 525 c 0
+ 431 415 338 325 223 325 c 0
+ 108 325 15 415 15 525 c 0
+172 525 m 0
+ 172 498 195 476 223 476 c 0
+ 251 476 274 498 274 525 c 0
+ 274 552 251 574 223 574 c 0
+ 195 574 172 552 172 525 c 0
+590 176 m 0
+ 590 286 683 376 798 376 c 0
+ 913 376 1006 286 1006 176 c 0
+ 1006 66 913 -24 798 -24 c 0
+ 683 -24 590 66 590 176 c 0
+747 176 m 0
+ 747 149 770 127 798 127 c 0
+ 826 127 849 149 849 176 c 0
+ 849 203 826 225 798 225 c 0
+ 770 225 747 203 747 176 c 0
+703 700 m 1
+ 908 700 l 1
+ 318 0 l 1
+ 113 0 l 1
+ 703 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni203D
+Encoding: 8253 8253 147
+GlifName: uni203D_
+Width: 669
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+445 470 m 0
+ 445 536 394 565 319 565 c 0
+ 262 565 196 546 165 476 c 1
+ 40 587 l 1
+ 86 657 210 723 339 723 c 0
+ 474 723 619 649 619 500 c 0
+ 619 331 421 270 306 270 c 1
+ 306 350 l 1
+ 366 350 445 394 445 470 c 0
+225 500 m 1
+ 397 500 l 1
+ 365 220 l 1
+ 257 220 l 1
+ 225 500 l 1
+200 75 m 4
+ 200 135 250 180 320 180 c 0
+ 390 180 440 135 440 75 c 4
+ 440 15 390 -30 320 -30 c 0
+ 250 -30 200 15 200 75 c 4
+EndSplineSet
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 148
+GlifName: E_uro
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+77 366 m 5
+ 77 472 l 5
+ 563 472 l 5
+ 563 366 l 5
+ 77 366 l 5
+55 228 m 5
+ 55 334 l 5
+ 547 334 l 5
+ 547 228 l 5
+ 55 228 l 5
+305 350 m 4
+ 305 207 362 150 440 150 c 4
+ 497 150 549 172 590 212 c 5
+ 590 16 l 5
+ 545 -10 494 -25 440 -25 c 4
+ 236 -25 120 141 120 350 c 4
+ 120 559 236 726 440 726 c 4
+ 494 726 545 711 590 685 c 5
+ 590 488 l 5
+ 549 528 497 550 440 550 c 4
+ 362 550 305 493 305 350 c 4
+EndSplineSet
+EndChar
+
+StartChar: fraction
+Encoding: 8260 8260 149
+GlifName: fraction
+Width: 745
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+580 700 m 1
+ 735 700 l 5
+ 215 0 l 5
+ 60 0 l 1
+ 580 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: onequarter
+Encoding: 188 188 150
+GlifName: onequarter
+Width: 864
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+638 700 m 1
+ 753 700 l 5
+ 233 0 l 5
+ 118 0 l 1
+ 638 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+412 69 m 1
+ 520 159 l 1
+ 708 159 l 4
+ 718 180 l 4
+ 837 180 l 1
+ 837 69 l 1
+ 412 69 l 1
+544 117 m 1
+ 412 69 l 1
+ 663 420 l 25
+ 771 420 l 1
+ 771 0 l 1
+ 633 0 l 1
+ 633 91 l 0
+ 651 97 l 0
+ 651 253 l 1
+ 544 117 l 1
+EndSplineSet
+EndChar
+
+StartChar: onehalf
+Encoding: 189 189 151
+GlifName: onehalf
+Width: 939
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+638 700 m 1
+ 753 700 l 5
+ 233 0 l 5
+ 118 0 l 1
+ 638 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+513 2 m 1
+ 694 185 l 2
+ 731 225 754 248 754 281 c 4
+ 754 302 741 321 710 321 c 0
+ 680 321 660 294 660 260 c 1
+ 531 260 l 1
+ 531 349 592 432 715 432 c 0
+ 826 432 890 362 890 291 c 0
+ 890 245 865 209 827 180 c 2
+ 751 122 l 1
+ 905 122 l 1
+ 905 2 l 1
+ 513 2 l 1
+EndSplineSet
+EndChar
+
+StartChar: threequarters
+Encoding: 190 190 152
+GlifName: threequarters
+Width: 915
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+700 700 m 1
+ 815 700 l 5
+ 295 0 l 5
+ 180 0 l 1
+ 700 700 l 1
+172 481 m 1
+ 172 534 l 1
+ 214 534 245 556 245 581 c 0
+ 245 597 233 607 207 607 c 4
+ 180 607 162 591 162 566 c 1
+ 41 566 l 1
+ 41 646 106 709 208 709 c 0
+ 316 709 375 658 375 590 c 0
+ 375 510 283 481 172 481 c 1
+202 268 m 0
+ 88 268 23 347 23 427 c 1
+ 153 427 l 1
+ 153 384 181 370 208 370 c 0
+ 235 370 257 378 257 409 c 0
+ 257 434 238 457 172 457 c 1
+ 172 519 l 1
+ 301 519 387 483 387 397 c 0
+ 387 323 322 268 202 268 c 0
+464 69 m 1
+ 572 159 l 1
+ 760 159 l 4
+ 770 180 l 4
+ 889 180 l 1
+ 889 69 l 1
+ 464 69 l 1
+596 117 m 1
+ 464 69 l 1
+ 715 420 l 25
+ 823 420 l 1
+ 823 0 l 1
+ 685 0 l 1
+ 685 91 l 0
+ 703 97 l 0
+ 703 253 l 1
+ 596 117 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2150
+Encoding: 8528 8528 153
+GlifName: uni2150
+Width: 1002
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+628 700 m 1
+ 783 700 l 5
+ 263 0 l 5
+ 108 0 l 1
+ 628 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+613 297 m 1
+ 613 420 l 1
+ 985 420 l 1
+ 781 0 l 1
+ 638 0 l 1
+ 792 297 l 1
+ 613 297 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2151
+Encoding: 8529 8529 154
+GlifName: uni2151
+Width: 944
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+618 700 m 1
+ 773 700 l 5
+ 253 0 l 5
+ 98 0 l 1
+ 618 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+787 269 m 0
+ 787 303 763 323 731 323 c 0
+ 699 323 674 303 674 269 c 0
+ 674 235 699 214 731 214 c 0
+ 763 214 787 235 787 269 c 0
+748 5 m 1
+ 580 5 l 1
+ 719 144 l 1
+ 750 160 l 1
+ 724 137 708 132 676 132 c 0
+ 617 132 543 180 543 269 c 0
+ 543 382 629 434 731 434 c 0
+ 833 434 919 382 919 269 c 0
+ 919 217 890 175 856 134 c 2
+ 748 5 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2152
+Encoding: 8530 8530 155
+GlifName: uni2152
+Width: 1290
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+618 700 m 1
+ 773 700 l 5
+ 253 0 l 5
+ 98 0 l 1
+ 618 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+588 276 m 5
+ 588 386 l 5
+ 825 430 l 5
+ 825 1 l 5
+ 699 1 l 5
+ 699 301 l 5
+ 588 276 l 5
+1009 210 m 0
+ 1009 142 1034 102 1069 102 c 4
+ 1104 102 1129 142 1129 210 c 0
+ 1129 278 1104 318 1069 318 c 0
+ 1034 318 1009 278 1009 210 c 0
+883 210 m 0
+ 883 353 959 429 1069 429 c 4
+ 1185 429 1255 353 1255 210 c 0
+ 1255 67 1185 -9 1069 -9 c 4
+ 959 -9 883 67 883 210 c 0
+EndSplineSet
+EndChar
+
+StartChar: onethird
+Encoding: 8531 8531 156
+GlifName: onethird
+Width: 945
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+617 700 m 1
+ 772 700 l 5
+ 252 0 l 5
+ 97 0 l 1
+ 617 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+707 201 m 1
+ 707 254 l 1
+ 749 254 780 276 780 301 c 0
+ 780 317 768 327 742 327 c 0
+ 715 327 697 311 697 286 c 1
+ 576 286 l 1
+ 576 366 641 429 743 429 c 0
+ 851 429 910 378 910 310 c 0
+ 910 230 818 201 707 201 c 1
+737 -12 m 0
+ 623 -12 558 67 558 147 c 1
+ 688 147 l 1
+ 688 104 716 90 743 90 c 0
+ 770 90 792 98 792 129 c 0
+ 792 154 773 177 707 177 c 1
+ 707 239 l 1
+ 836 239 922 203 922 117 c 0
+ 922 43 857 -12 737 -12 c 0
+EndSplineSet
+EndChar
+
+StartChar: twothirds
+Encoding: 8532 8532 157
+GlifName: twothirds
+Width: 1082
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+775 700 m 1
+ 930 700 l 5
+ 410 0 l 5
+ 255 0 l 1
+ 775 700 l 1
+30 282 m 1
+ 211 465 l 2
+ 248 505 271 528 271 561 c 4
+ 271 582 258 601 227 601 c 0
+ 197 601 177 574 177 540 c 1
+ 48 540 l 1
+ 48 629 109 712 232 712 c 0
+ 343 712 407 642 407 571 c 0
+ 407 525 382 489 344 460 c 2
+ 268 402 l 1
+ 422 402 l 1
+ 422 282 l 1
+ 30 282 l 1
+844 201 m 1
+ 844 254 l 1
+ 886 254 917 276 917 301 c 0
+ 917 317 905 327 879 327 c 0
+ 852 327 834 311 834 286 c 1
+ 713 286 l 1
+ 713 366 778 429 880 429 c 0
+ 988 429 1047 378 1047 310 c 0
+ 1047 230 955 201 844 201 c 1
+874 -12 m 0
+ 760 -12 695 67 695 147 c 1
+ 825 147 l 1
+ 825 104 853 90 880 90 c 0
+ 907 90 929 98 929 129 c 0
+ 929 154 910 177 844 177 c 1
+ 844 239 l 1
+ 973 239 1059 203 1059 117 c 0
+ 1059 43 994 -12 874 -12 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2155
+Encoding: 8533 8533 158
+GlifName: uni2155
+Width: 934
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+618 700 m 1
+ 773 700 l 5
+ 253 0 l 5
+ 98 0 l 1
+ 618 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+915 130 m 0
+ 915 29 813 -11 732 -11 c 0
+ 655 -11 599 5 553 23 c 1
+ 590 140 l 1
+ 633 116 674 109 696 109 c 0
+ 741 109 770 117 770 148 c 0
+ 770 179 729 184 696 184 c 0
+ 668 184 615 180 572 164 c 1
+ 667 222 l 1
+ 701 258 739 265 786 265 c 0
+ 849 265 915 219 915 130 c 0
+728 304 m 1
+ 691 212 l 1
+ 572 164 l 1
+ 632 418 l 1
+ 902 418 l 1
+ 902 304 l 1
+ 728 304 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2156
+Encoding: 8534 8534 159
+GlifName: uni2156
+Width: 1086
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+775 700 m 1
+ 930 700 l 5
+ 410 0 l 5
+ 255 0 l 1
+ 775 700 l 1
+30 282 m 1
+ 211 465 l 2
+ 248 505 271 528 271 561 c 4
+ 271 582 258 601 227 601 c 0
+ 197 601 177 574 177 540 c 1
+ 48 540 l 1
+ 48 629 109 712 232 712 c 0
+ 343 712 407 642 407 571 c 0
+ 407 525 382 489 344 460 c 2
+ 268 402 l 1
+ 422 402 l 1
+ 422 282 l 1
+ 30 282 l 1
+1052 130 m 0
+ 1052 29 950 -11 869 -11 c 0
+ 792 -11 736 5 690 23 c 1
+ 727 140 l 1
+ 770 116 811 109 833 109 c 0
+ 878 109 907 117 907 148 c 0
+ 907 179 866 184 833 184 c 0
+ 805 184 752 180 709 164 c 1
+ 804 222 l 1
+ 838 258 876 265 923 265 c 0
+ 986 265 1052 219 1052 130 c 0
+865 304 m 1
+ 828 212 l 1
+ 709 164 l 1
+ 769 418 l 1
+ 1039 418 l 1
+ 1039 304 l 1
+ 865 304 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2157
+Encoding: 8535 8535 160
+GlifName: uni2157
+Width: 991
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+685 700 m 1
+ 840 700 l 5
+ 320 0 l 5
+ 165 0 l 1
+ 685 700 l 1
+167 481 m 1
+ 167 534 l 1
+ 209 534 240 556 240 581 c 0
+ 240 597 228 607 202 607 c 4
+ 175 607 157 591 157 566 c 1
+ 36 566 l 1
+ 36 646 101 709 203 709 c 0
+ 311 709 370 658 370 590 c 0
+ 370 510 278 481 167 481 c 1
+197 268 m 0
+ 83 268 18 347 18 427 c 1
+ 148 427 l 1
+ 148 384 176 370 203 370 c 0
+ 230 370 252 378 252 409 c 0
+ 252 434 233 457 167 457 c 1
+ 167 519 l 1
+ 296 519 382 483 382 397 c 0
+ 382 323 317 268 197 268 c 0
+952 130 m 0
+ 952 29 850 -11 769 -11 c 0
+ 692 -11 636 5 590 23 c 1
+ 627 140 l 1
+ 670 116 711 109 733 109 c 0
+ 778 109 807 117 807 148 c 0
+ 807 179 766 184 733 184 c 0
+ 705 184 652 180 609 164 c 1
+ 704 222 l 1
+ 738 258 776 265 823 265 c 0
+ 886 265 952 219 952 130 c 0
+765 304 m 1
+ 728 212 l 1
+ 609 164 l 1
+ 669 418 l 1
+ 939 418 l 1
+ 939 304 l 1
+ 765 304 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2158
+Encoding: 8536 8536 161
+GlifName: uni2158
+Width: 1106
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+760 699 m 1
+ 915 699 l 5
+ 395 -1 l 5
+ 240 -1 l 1
+ 760 699 l 1
+17 349 m 1
+ 125 439 l 1
+ 313 439 l 0
+ 323 460 l 0
+ 442 460 l 1
+ 442 349 l 1
+ 17 349 l 1
+149 397 m 1
+ 17 349 l 1
+ 268 700 l 25
+ 376 700 l 1
+ 376 280 l 1
+ 238 280 l 1
+ 238 371 l 0
+ 256 377 l 0
+ 256 533 l 1
+ 149 397 l 1
+1077 129 m 0
+ 1077 28 975 -12 894 -12 c 0
+ 817 -12 761 4 715 22 c 1
+ 752 139 l 1
+ 795 115 836 108 858 108 c 0
+ 903 108 932 116 932 147 c 0
+ 932 178 891 183 858 183 c 0
+ 830 183 777 179 734 163 c 1
+ 829 221 l 1
+ 863 257 901 264 948 264 c 0
+ 1011 264 1077 218 1077 129 c 0
+890 303 m 1
+ 853 211 l 1
+ 734 163 l 1
+ 794 417 l 1
+ 1064 417 l 1
+ 1064 303 l 1
+ 890 303 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2159
+Encoding: 8537 8537 162
+GlifName: uni2159
+Width: 954
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+648 700 m 1
+ 803 700 l 5
+ 283 0 l 5
+ 128 0 l 1
+ 648 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+679 151 m 4
+ 679 117 704 97 736 97 c 4
+ 768 97 792 117 792 151 c 4
+ 792 185 768 206 736 206 c 4
+ 704 206 679 185 679 151 c 4
+719 415 m 5
+ 886 415 l 5
+ 748 276 l 5
+ 717 260 l 5
+ 743 283 758 288 790 288 c 4
+ 849 288 924 240 924 151 c 4
+ 924 38 838 -14 736 -14 c 4
+ 634 -14 548 38 548 151 c 4
+ 548 203 576 245 610 286 c 6
+ 719 415 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni215A
+Encoding: 8538 8538 163
+GlifName: uni215A_
+Width: 976
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+700 700 m 1
+ 855 700 l 5
+ 335 0 l 5
+ 180 0 l 1
+ 700 700 l 1
+392 410 m 0
+ 392 309 290 269 209 269 c 0
+ 132 269 76 285 30 303 c 1
+ 67 420 l 1
+ 110 396 151 389 173 389 c 0
+ 218 389 247 397 247 428 c 0
+ 247 459 206 464 173 464 c 0
+ 145 464 92 460 49 444 c 1
+ 144 502 l 1
+ 178 538 216 545 263 545 c 0
+ 326 545 392 499 392 410 c 0
+205 584 m 1
+ 168 492 l 1
+ 49 444 l 1
+ 109 698 l 1
+ 379 698 l 1
+ 379 584 l 1
+ 205 584 l 1
+701 151 m 4
+ 701 117 726 97 758 97 c 4
+ 790 97 814 117 814 151 c 4
+ 814 185 790 206 758 206 c 4
+ 726 206 701 185 701 151 c 4
+741 415 m 5
+ 908 415 l 5
+ 770 276 l 5
+ 739 260 l 5
+ 765 283 780 288 812 288 c 4
+ 871 288 946 240 946 151 c 4
+ 946 38 860 -14 758 -14 c 4
+ 656 -14 570 38 570 151 c 4
+ 570 203 598 245 632 286 c 6
+ 741 415 l 5
+EndSplineSet
+EndChar
+
+StartChar: oneeighth
+Encoding: 8539 8539 164
+GlifName: oneeighth
+Width: 970
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+648 700 m 1
+ 803 700 l 5
+ 283 0 l 5
+ 128 0 l 1
+ 648 700 l 1
+20 549 m 5
+ 20 659 l 5
+ 257 703 l 5
+ 257 274 l 5
+ 131 274 l 5
+ 131 574 l 5
+ 20 549 l 5
+608 319 m 0
+ 608 396 682 432 766 432 c 0
+ 850 432 924 396 924 319 c 0
+ 924 236 835 201 766 201 c 0
+ 697 201 608 236 608 319 c 0
+732 307 m 0
+ 732 285 745 270 766 270 c 0
+ 787 270 800 285 800 307 c 0
+ 800 329 787 342 766 342 c 0
+ 745 342 732 329 732 307 c 0
+593 114 m 0
+ 593 209 697 240 766 240 c 0
+ 835 240 939 209 939 114 c 0
+ 939 31 853 -12 766 -12 c 0
+ 679 -12 593 31 593 114 c 0
+726 135 m 0
+ 726 107 742 93 766 93 c 0
+ 790 93 806 107 806 135 c 0
+ 806 157 790 174 766 174 c 0
+ 742 174 726 157 726 135 c 0
+EndSplineSet
+EndChar
+
+StartChar: threeeighths
+Encoding: 8540 8540 165
+GlifName: threeeighths
+Width: 1017
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+695 700 m 1
+ 850 700 l 5
+ 330 0 l 5
+ 175 0 l 1
+ 695 700 l 1
+167 481 m 1
+ 167 534 l 1
+ 209 534 240 556 240 581 c 0
+ 240 597 228 607 202 607 c 4
+ 175 607 157 591 157 566 c 1
+ 36 566 l 1
+ 36 646 101 709 203 709 c 0
+ 311 709 370 658 370 590 c 0
+ 370 510 278 481 167 481 c 1
+197 268 m 0
+ 83 268 18 347 18 427 c 1
+ 148 427 l 1
+ 148 384 176 370 203 370 c 0
+ 230 370 252 378 252 409 c 0
+ 252 434 233 457 167 457 c 1
+ 167 519 l 1
+ 296 519 382 483 382 397 c 0
+ 382 323 317 268 197 268 c 0
+655 319 m 0
+ 655 396 729 432 813 432 c 0
+ 897 432 971 396 971 319 c 0
+ 971 236 882 201 813 201 c 0
+ 744 201 655 236 655 319 c 0
+779 307 m 0
+ 779 285 792 270 813 270 c 0
+ 834 270 847 285 847 307 c 0
+ 847 329 834 342 813 342 c 0
+ 792 342 779 329 779 307 c 0
+640 114 m 0
+ 640 209 744 240 813 240 c 0
+ 882 240 986 209 986 114 c 0
+ 986 31 900 -12 813 -12 c 0
+ 726 -12 640 31 640 114 c 0
+773 135 m 0
+ 773 107 789 93 813 93 c 0
+ 837 93 853 107 853 135 c 0
+ 853 157 837 174 813 174 c 0
+ 789 174 773 157 773 135 c 0
+EndSplineSet
+EndChar
+
+StartChar: fiveeighths
+Encoding: 8541 8541 166
+GlifName: fiveeighths
+Width: 1022
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+700 700 m 1
+ 855 700 l 5
+ 335 0 l 5
+ 180 0 l 1
+ 700 700 l 1
+382 410 m 0
+ 382 309 280 269 199 269 c 0
+ 122 269 66 285 20 303 c 1
+ 57 420 l 1
+ 100 396 141 389 163 389 c 0
+ 208 389 237 397 237 428 c 0
+ 237 459 196 464 163 464 c 0
+ 135 464 82 460 39 444 c 1
+ 134 502 l 1
+ 168 538 206 545 253 545 c 0
+ 316 545 382 499 382 410 c 0
+195 584 m 1
+ 158 492 l 1
+ 39 444 l 1
+ 99 698 l 1
+ 369 698 l 1
+ 369 584 l 1
+ 195 584 l 1
+660 319 m 0
+ 660 396 734 432 818 432 c 0
+ 902 432 976 396 976 319 c 0
+ 976 236 887 201 818 201 c 0
+ 749 201 660 236 660 319 c 0
+784 307 m 0
+ 784 285 797 270 818 270 c 0
+ 839 270 852 285 852 307 c 0
+ 852 329 839 342 818 342 c 0
+ 797 342 784 329 784 307 c 0
+645 114 m 0
+ 645 209 749 240 818 240 c 0
+ 887 240 991 209 991 114 c 0
+ 991 31 905 -12 818 -12 c 0
+ 731 -12 645 31 645 114 c 0
+778 135 m 0
+ 778 107 794 93 818 93 c 0
+ 842 93 858 107 858 135 c 0
+ 858 157 842 174 818 174 c 0
+ 794 174 778 157 778 135 c 0
+EndSplineSet
+EndChar
+
+StartChar: seveneighths
+Encoding: 8542 8542 167
+GlifName: seveneighths
+Width: 912
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+580 700 m 1
+ 735 700 l 5
+ 215 0 l 5
+ 60 0 l 1
+ 580 700 l 1
+19 577 m 1
+ 19 700 l 1
+ 391 700 l 1
+ 187 280 l 1
+ 44 280 l 1
+ 198 577 l 1
+ 19 577 l 1
+550 319 m 0
+ 550 396 624 432 708 432 c 0
+ 792 432 866 396 866 319 c 0
+ 866 236 777 201 708 201 c 0
+ 639 201 550 236 550 319 c 0
+674 307 m 0
+ 674 285 687 270 708 270 c 0
+ 729 270 742 285 742 307 c 0
+ 742 329 729 342 708 342 c 0
+ 687 342 674 329 674 307 c 0
+535 114 m 0
+ 535 209 639 240 708 240 c 0
+ 777 240 881 209 881 114 c 0
+ 881 31 795 -12 708 -12 c 0
+ 621 -12 535 31 535 114 c 0
+668 135 m 0
+ 668 107 684 93 708 93 c 0
+ 732 93 748 107 748 135 c 0
+ 748 157 732 174 708 174 c 0
+ 684 174 668 157 668 135 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2074
+Encoding: 8308 8308 168
+GlifName: uni2074
+Width: 451
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+7 349 m 1
+ 115 439 l 1
+ 303 439 l 0
+ 313 460 l 0
+ 432 460 l 1
+ 432 349 l 1
+ 7 349 l 1
+139 397 m 1
+ 7 349 l 1
+ 258 700 l 25
+ 366 700 l 1
+ 366 280 l 1
+ 228 280 l 1
+ 228 371 l 0
+ 246 377 l 0
+ 246 533 l 1
+ 139 397 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2075
+Encoding: 8309 8309 169
+GlifName: uni2075
+Width: 406
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+382 410 m 0
+ 382 309 280 269 199 269 c 0
+ 122 269 66 285 20 303 c 1
+ 57 420 l 1
+ 100 396 141 389 163 389 c 0
+ 208 389 237 397 237 428 c 0
+ 237 459 196 464 163 464 c 0
+ 135 464 82 460 39 444 c 1
+ 134 502 l 1
+ 168 538 206 545 253 545 c 0
+ 316 545 382 499 382 410 c 0
+195 584 m 1
+ 158 492 l 1
+ 39 444 l 1
+ 99 698 l 1
+ 369 698 l 1
+ 369 584 l 1
+ 195 584 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2076
+Encoding: 8310 8310 170
+GlifName: uni2076
+Width: 406
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+145 431 m 0
+ 145 397 170 377 202 377 c 0
+ 234 377 258 397 258 431 c 0
+ 258 465 234 486 202 486 c 0
+ 170 486 145 465 145 431 c 0
+185 695 m 1
+ 352 695 l 1
+ 214 556 l 1
+ 183 540 l 1
+ 209 563 224 568 256 568 c 0
+ 315 568 390 520 390 431 c 0
+ 390 318 304 266 202 266 c 0
+ 100 266 14 318 14 431 c 0
+ 14 483 42 525 76 566 c 2
+ 185 695 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2077
+Encoding: 8311 8311 171
+GlifName: uni2077
+Width: 394
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+19 577 m 1
+ 19 700 l 1
+ 391 700 l 1
+ 187 280 l 1
+ 44 280 l 1
+ 198 577 l 1
+ 19 577 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2078
+Encoding: 8312 8312 172
+GlifName: uni2078
+Width: 386
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+33 599 m 0
+ 33 676 107 712 191 712 c 0
+ 275 712 349 676 349 599 c 0
+ 349 516 260 481 191 481 c 0
+ 122 481 33 516 33 599 c 0
+157 587 m 0
+ 157 565 170 550 191 550 c 0
+ 212 550 225 565 225 587 c 0
+ 225 609 212 622 191 622 c 0
+ 170 622 157 609 157 587 c 0
+18 394 m 0
+ 18 489 122 520 191 520 c 0
+ 260 520 364 489 364 394 c 0
+ 364 311 278 268 191 268 c 0
+ 104 268 18 311 18 394 c 0
+151 415 m 0
+ 151 387 167 373 191 373 c 0
+ 215 373 231 387 231 415 c 0
+ 231 437 215 454 191 454 c 0
+ 167 454 151 437 151 415 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2079
+Encoding: 8313 8313 173
+GlifName: uni2079
+Width: 401
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+256 549 m 0
+ 256 583 232 603 200 603 c 0
+ 168 603 143 583 143 549 c 0
+ 143 515 168 494 200 494 c 0
+ 232 494 256 515 256 549 c 0
+217 285 m 1
+ 49 285 l 1
+ 188 424 l 1
+ 219 440 l 1
+ 193 417 177 412 145 412 c 0
+ 86 412 12 460 12 549 c 0
+ 12 662 98 714 200 714 c 0
+ 302 714 388 662 388 549 c 0
+ 388 497 359 455 325 414 c 2
+ 217 285 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2070
+Encoding: 8304 8304 174
+GlifName: uni2070
+Width: 402
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+141 490 m 0
+ 141 422 166 382 201 382 c 0
+ 236 382 261 422 261 490 c 0
+ 261 558 236 598 201 598 c 0
+ 166 598 141 558 141 490 c 0
+15 490 m 0
+ 15 633 91 709 201 709 c 0
+ 317 709 387 633 387 490 c 0
+ 387 347 317 271 201 271 c 0
+ 91 271 15 347 15 490 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2080
+Encoding: 8320 8320 175
+GlifName: uni2080
+Width: 402
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+141 210 m 0
+ 141 142 166 102 201 102 c 4
+ 236 102 261 142 261 210 c 0
+ 261 278 236 318 201 318 c 0
+ 166 318 141 278 141 210 c 0
+15 210 m 0
+ 15 353 91 429 201 429 c 4
+ 317 429 387 353 387 210 c 0
+ 387 67 317 -9 201 -9 c 4
+ 91 -9 15 67 15 210 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2084
+Encoding: 8324 8324 176
+GlifName: uni2084
+Width: 459
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 69 m 5
+ 113 159 l 5
+ 301 159 l 4
+ 311 180 l 4
+ 430 180 l 5
+ 430 69 l 5
+ 5 69 l 5
+137 117 m 5
+ 5 69 l 5
+ 256 420 l 29
+ 364 420 l 5
+ 364 0 l 5
+ 226 0 l 5
+ 226 91 l 4
+ 244 97 l 4
+ 244 253 l 5
+ 137 117 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2085
+Encoding: 8325 8325 177
+GlifName: uni2085
+Width: 420
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+387 130 m 0
+ 387 29 285 -11 204 -11 c 0
+ 127 -11 71 5 25 23 c 1
+ 62 140 l 1
+ 105 116 146 109 168 109 c 0
+ 213 109 242 117 242 148 c 0
+ 242 179 201 184 168 184 c 0
+ 140 184 87 180 44 164 c 1
+ 139 222 l 1
+ 173 258 211 265 258 265 c 0
+ 321 265 387 219 387 130 c 0
+200 304 m 1
+ 163 212 l 1
+ 44 164 l 1
+ 104 418 l 1
+ 374 418 l 1
+ 374 304 l 1
+ 200 304 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2086
+Encoding: 8326 8326 178
+GlifName: uni2086
+Width: 424
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+151 151 m 4
+ 151 117 176 97 208 97 c 4
+ 240 97 264 117 264 151 c 4
+ 264 185 240 206 208 206 c 4
+ 176 206 151 185 151 151 c 4
+191 415 m 5
+ 358 415 l 5
+ 220 276 l 5
+ 189 260 l 5
+ 215 283 230 288 262 288 c 4
+ 321 288 396 240 396 151 c 4
+ 396 38 310 -14 208 -14 c 4
+ 106 -14 20 38 20 151 c 4
+ 20 203 48 245 82 286 c 6
+ 191 415 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2087
+Encoding: 8327 8327 179
+GlifName: uni2087
+Width: 402
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+25 297 m 1
+ 25 420 l 1
+ 397 420 l 1
+ 193 0 l 1
+ 50 0 l 1
+ 204 297 l 1
+ 25 297 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2088
+Encoding: 8328 8328 180
+GlifName: uni2088
+Width: 396
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 319 m 0
+ 40 396 114 432 198 432 c 0
+ 282 432 356 396 356 319 c 0
+ 356 236 267 201 198 201 c 0
+ 129 201 40 236 40 319 c 0
+164 307 m 0
+ 164 285 177 270 198 270 c 0
+ 219 270 232 285 232 307 c 0
+ 232 329 219 342 198 342 c 0
+ 177 342 164 329 164 307 c 0
+25 114 m 0
+ 25 209 129 240 198 240 c 0
+ 267 240 371 209 371 114 c 0
+ 371 31 285 -12 198 -12 c 0
+ 111 -12 25 31 25 114 c 0
+158 135 m 0
+ 158 107 174 93 198 93 c 0
+ 222 93 238 107 238 135 c 0
+ 238 157 222 174 198 174 c 0
+ 174 174 158 157 158 135 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2089
+Encoding: 8329 8329 181
+GlifName: uni2089
+Width: 430
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+269 269 m 0
+ 269 303 245 323 213 323 c 0
+ 181 323 156 303 156 269 c 0
+ 156 235 181 214 213 214 c 0
+ 245 214 269 235 269 269 c 0
+230 5 m 1
+ 62 5 l 1
+ 201 144 l 1
+ 232 160 l 1
+ 206 137 190 132 158 132 c 0
+ 99 132 25 180 25 269 c 0
+ 25 382 111 434 213 434 c 0
+ 315 434 401 382 401 269 c 0
+ 401 217 372 175 338 134 c 2
+ 230 5 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2081
+Encoding: 8321 8321 182
+GlifName: uni2081
+Width: 389
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 276 m 5
+ 90 386 l 5
+ 327 430 l 5
+ 327 1 l 5
+ 201 1 l 5
+ 201 301 l 5
+ 90 276 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2082
+Encoding: 8322 8322 183
+GlifName: uni2082
+Width: 450
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+30 2 m 1
+ 211 185 l 2
+ 248 225 271 248 271 281 c 0
+ 271 302 258 321 227 321 c 0
+ 197 321 177 294 177 260 c 1
+ 48 260 l 1
+ 48 349 109 432 232 432 c 0
+ 343 432 407 362 407 291 c 0
+ 407 245 382 209 344 180 c 2
+ 268 122 l 1
+ 422 122 l 1
+ 422 2 l 1
+ 30 2 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2083
+Encoding: 8323 8323 184
+GlifName: uni2083
+Width: 408
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+169 201 m 1
+ 169 254 l 1
+ 211 254 242 276 242 301 c 0
+ 242 317 230 327 204 327 c 0
+ 177 327 159 311 159 286 c 1
+ 38 286 l 1
+ 38 366 103 429 205 429 c 0
+ 313 429 372 378 372 310 c 0
+ 372 230 280 201 169 201 c 1
+199 -12 m 0
+ 85 -12 20 67 20 147 c 1
+ 150 147 l 1
+ 150 104 178 90 205 90 c 0
+ 232 90 254 98 254 129 c 0
+ 254 154 235 177 169 177 c 1
+ 169 239 l 1
+ 298 239 384 203 384 117 c 0
+ 384 43 319 -12 199 -12 c 0
+EndSplineSet
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 185
+GlifName: A_grave
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+210 960 m 5
+ 350 1020 l 5
+ 500 860 l 5
+ 390 810 l 5
+ 210 960 l 5
+EndSplineSet
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 186
+GlifName: A_acute
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+565 960 m 5
+ 385 810 l 5
+ 275 860 l 5
+ 425 1020 l 5
+ 565 960 l 5
+EndSplineSet
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 187
+GlifName: A_circumflex
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+390 890 m 5
+ 310 810 l 5
+ 170 900 l 5
+ 390 1040 l 5
+ 610 900 l 5
+ 470 810 l 5
+ 390 890 l 5
+EndSplineSet
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 188
+GlifName: A_tilde
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+175 893 m 1
+ 185 942 229 995 304 995 c 0
+ 371 995 390 940 448 940 c 0
+ 477 940 499 964 519 996 c 1
+ 605 903 l 1
+ 589 866 524 810 454 810 c 0
+ 399 810 355 867 303 867 c 4
+ 267 867 258 831 258 816 c 1
+ 175 893 l 1
+EndSplineSet
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 189
+GlifName: A_dieresis
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 1
+ 577 248 l 1
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+457 815 m 4
+ 457 878 505 930 575 930 c 4
+ 645 930 693 878 693 815 c 4
+ 693 752 645 700 575 700 c 4
+ 505 700 457 752 457 815 c 4
+87 815 m 4
+ 87 878 135 930 205 930 c 4
+ 275 930 323 878 323 815 c 4
+ 323 752 275 700 205 700 c 4
+ 135 700 87 752 87 815 c 4
+EndSplineSet
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 190
+GlifName: A_ring
+Width: 780
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+251 802 m 0
+ 251 876 309 927 389 927 c 0
+ 469 927 529 876 529 802 c 0
+ 529 728 469 677 389 677 c 0
+ 309 677 251 728 251 802 c 0
+346 802 m 0
+ 346 774 364 758 389 758 c 0
+ 414 758 433 774 433 802 c 0
+ 433 830 414 847 389 847 c 0
+ 364 847 346 830 346 802 c 0
+EndSplineSet
+EndChar
+
+StartChar: AE
+Encoding: 198 198 191
+GlifName: A_E_
+Width: 1160
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+302 115 m 1
+ 312 315 l 1
+ 612 315 l 1
+ 612 115 l 1
+ 302 115 l 1
+440 700 m 1
+ 659 660 l 1
+ 305 0 l 5
+ 20 0 l 1
+ 440 700 l 1
+687 0 m 1
+ 687 175 l 1
+ 1090 175 l 1
+ 1090 0 l 1
+ 687 0 l 1
+695 525 m 1
+ 440 700 l 1
+ 1090 700 l 1
+ 1090 525 l 1
+ 695 525 l 1
+687 275 m 1
+ 687 445 l 1
+ 1070 445 l 1
+ 1070 275 l 1
+ 687 275 l 1
+585 700 m 1
+ 825 700 l 1
+ 825 0 l 1
+ 585 0 l 1
+ 585 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 192
+GlifName: C_cedilla
+Width: 710
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+272 350 m 0
+ 272 242 353 187 451 187 c 0
+ 550 187 606 231 650 273 c 1
+ 650 47 l 1
+ 595 9 537 -20 435 -20 c 0
+ 191 -20 30 126 30 350 c 0
+ 30 574 191 720 435 720 c 0
+ 537 720 595 691 650 653 c 1
+ 650 427 l 1
+ 606 469 550 513 451 513 c 0
+ 353 513 272 458 272 350 c 0
+345 62 m 5
+ 485 56 l 5
+ 355 -110 l 5
+ 256 -149 l 5
+ 345 62 l 5
+541 -178 m 5
+ 420 -164 l 5
+ 420 -136 382 -134 353 -134 c 4
+ 343 -134 299 -135 256 -149 c 5
+ 335 -102 l 5
+ 363 -72 395 -66 438 -66 c 4
+ 482 -66 541 -102 541 -178 c 5
+541 -178 m 5
+ 541 -257 463 -296 395 -296 c 4
+ 328 -296 276 -287 218 -256 c 5
+ 271 -170 l 5
+ 300 -190 347 -196 363 -196 c 4
+ 397 -196 420 -188 420 -164 c 5
+ 541 -178 l 5
+EndSplineSet
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 193
+GlifName: E_grave
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 175 l 1
+ 575 175 l 1
+ 575 0 l 1
+ 222 0 l 1
+222 525 m 1
+ 222 700 l 1
+ 575 700 l 1
+ 575 525 l 1
+ 222 525 l 1
+222 275 m 5
+ 222 445 l 1
+ 555 445 l 1
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 1
+ 280 700 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+142 940 m 5
+ 282 1000 l 5
+ 432 840 l 5
+ 322 790 l 5
+ 142 940 l 5
+EndSplineSet
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 194
+GlifName: E_acute
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 175 l 1
+ 575 175 l 1
+ 575 0 l 1
+ 222 0 l 1
+222 525 m 1
+ 222 700 l 1
+ 575 700 l 1
+ 575 525 l 1
+ 222 525 l 1
+222 275 m 5
+ 222 445 l 1
+ 555 445 l 1
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 1
+ 280 700 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+498 940 m 5
+ 318 790 l 5
+ 208 840 l 5
+ 358 1000 l 5
+ 498 940 l 5
+EndSplineSet
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 195
+GlifName: E_circumflex
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 175 l 1
+ 575 175 l 1
+ 575 0 l 1
+ 222 0 l 1
+222 525 m 1
+ 222 700 l 1
+ 575 700 l 1
+ 575 525 l 1
+ 222 525 l 1
+222 275 m 5
+ 222 445 l 1
+ 555 445 l 1
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 1
+ 280 700 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+322 895 m 5
+ 212 800 l 5
+ 162 840 l 5
+ 322 980 l 5
+ 482 840 l 5
+ 432 800 l 5
+ 322 895 l 5
+EndSplineSet
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 196
+GlifName: E_dieresis
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+340 895 m 4
+ 340 958 388 1010 458 1010 c 4
+ 528 1010 576 958 576 895 c 4
+ 576 832 528 780 458 780 c 4
+ 388 780 340 832 340 895 c 4
+70 895 m 0
+ 70 958 118 1010 188 1010 c 0
+ 258 1010 306 958 306 895 c 0
+ 306 832 258 780 188 780 c 0
+ 118 780 70 832 70 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 197
+GlifName: I_grave
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+-8 940 m 5
+ 132 1000 l 5
+ 282 840 l 5
+ 172 790 l 5
+ -8 940 l 5
+EndSplineSet
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 198
+GlifName: I_acute
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+348 940 m 5
+ 168 790 l 5
+ 58 840 l 5
+ 208 1000 l 5
+ 348 940 l 5
+EndSplineSet
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 199
+GlifName: I_circumflex
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+172 895 m 5
+ 62 800 l 5
+ 12 840 l 5
+ 172 980 l 5
+ 332 840 l 5
+ 282 800 l 5
+ 172 895 l 5
+EndSplineSet
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 200
+GlifName: I_dieresis
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+200 895 m 4
+ 200 958 248 1010 318 1010 c 4
+ 388 1010 436 958 436 895 c 4
+ 436 832 388 780 318 780 c 4
+ 248 780 200 832 200 895 c 4
+-70 895 m 0
+ -70 958 -22 1010 48 1010 c 0
+ 118 1010 166 958 166 895 c 0
+ 166 832 118 780 48 780 c 0
+ -22 780 -70 832 -70 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 201
+GlifName: N_tilde
+Width: 805
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 475 m 1
+ 70 735 l 1
+ 730 225 l 1
+ 735 -35 l 1
+ 75 475 l 1
+525 700 m 5
+ 735 700 l 1
+ 735 -35 l 1
+ 525 195 l 5
+ 525 700 l 5
+70 735 m 1
+ 280 505 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 735 l 1
+225 868 m 1
+ 235 917 284 950 329 950 c 4
+ 394 950 399 903 453 903 c 0
+ 472 903 489 919 509 951 c 1
+ 555 908 l 1
+ 539 871 499 835 449 835 c 0
+ 394 835 373 882 328 882 c 4
+ 287 882 278 846 278 831 c 1
+ 225 868 l 1
+EndSplineSet
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 202
+GlifName: E_th
+Width: 765
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 510 m 1
+ 222 700 l 1
+ 345 700 l 2
+ 589 700 735 569 735 350 c 1
+ 505 350 l 1
+ 505 493 413 510 335 510 c 2
+ 222 510 l 1
+345 0 m 2
+ 222 0 l 1
+ 222 190 l 1
+ 335 190 l 2
+ 413 190 505 207 505 350 c 1
+ 735 350 l 1
+ 735 131 589 0 345 0 c 2
+70 700 m 1
+ 299 700 l 1
+ 299 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+6 298 m 1
+ 6 413 l 1
+ 386 413 l 5
+ 386 298 l 5
+ 6 298 l 1
+EndSplineSet
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 203
+GlifName: O_grave
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 247 322 178 420 178 c 0
+ 518 178 577 247 577 350 c 0
+ 577 453 523 522 420 522 c 0
+ 322 522 263 453 263 350 c 0
+30 350 m 0
+ 30 574 201 720 420 720 c 0
+ 644 720 810 574 810 350 c 0
+ 810 126 649 -30 420 -30 c 0
+ 191 -30 30 126 30 350 c 0
+255 940 m 5
+ 395 1000 l 5
+ 545 840 l 5
+ 435 790 l 5
+ 255 940 l 5
+EndSplineSet
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 204
+GlifName: O_acute
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 247 322 178 420 178 c 0
+ 518 178 577 247 577 350 c 0
+ 577 453 523 522 420 522 c 0
+ 322 522 263 453 263 350 c 0
+30 350 m 0
+ 30 574 201 720 420 720 c 0
+ 644 720 810 574 810 350 c 0
+ 810 126 649 -30 420 -30 c 0
+ 191 -30 30 126 30 350 c 0
+610 940 m 5
+ 430 790 l 5
+ 320 840 l 5
+ 470 1000 l 5
+ 610 940 l 5
+EndSplineSet
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 205
+GlifName: O_circumflex
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 247 322 178 420 178 c 0
+ 518 178 577 247 577 350 c 0
+ 577 453 523 522 420 522 c 0
+ 322 522 263 453 263 350 c 0
+30 350 m 0
+ 30 574 201 720 420 720 c 0
+ 644 720 810 574 810 350 c 0
+ 810 126 649 -30 420 -30 c 0
+ 191 -30 30 126 30 350 c 0
+435 895 m 5
+ 325 800 l 5
+ 275 840 l 5
+ 435 980 l 5
+ 595 840 l 5
+ 545 800 l 5
+ 435 895 l 5
+EndSplineSet
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 206
+GlifName: O_tilde
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 247 322 178 420 178 c 0
+ 518 178 577 247 577 350 c 0
+ 577 453 523 522 420 522 c 0
+ 322 522 263 453 263 350 c 0
+30 350 m 0
+ 30 574 201 720 420 720 c 0
+ 644 720 810 574 810 350 c 0
+ 810 126 649 -30 420 -30 c 0
+ 191 -30 30 126 30 350 c 0
+260 863 m 1
+ 270 912 319 945 364 945 c 4
+ 429 945 434 898 488 898 c 0
+ 507 898 524 914 544 946 c 1
+ 590 903 l 1
+ 574 866 534 830 484 830 c 0
+ 429 830 408 877 363 877 c 4
+ 322 877 313 841 313 826 c 1
+ 260 863 l 1
+EndSplineSet
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 207
+GlifName: O_dieresis
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 0
+ 263 247 322 178 420 178 c 0
+ 518 178 577 247 577 350 c 0
+ 577 453 523 522 420 522 c 0
+ 322 522 263 453 263 350 c 0
+30 350 m 0
+ 30 574 201 720 420 720 c 0
+ 644 720 810 574 810 350 c 0
+ 810 126 649 -30 420 -30 c 0
+ 191 -30 30 126 30 350 c 0
+452 815 m 4
+ 452 878 500 930 570 930 c 4
+ 640 930 688 878 688 815 c 4
+ 688 752 640 700 570 700 c 4
+ 500 700 452 752 452 815 c 4
+182 815 m 0
+ 182 878 230 930 300 930 c 0
+ 370 930 418 878 418 815 c 0
+ 418 752 370 700 300 700 c 0
+ 230 700 182 752 182 815 c 0
+EndSplineSet
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 208
+GlifName: U_grave
+Width: 746
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 700 m 1
+ 285 700 l 1
+ 285 250 l 2
+ 285 194 313 155 373 155 c 4
+ 433 155 461 194 461 250 c 2
+ 461 700 l 1
+ 681 700 l 1
+ 681 230 l 2
+ 681 31 538 -40 373 -40 c 0
+ 208 -40 65 31 65 230 c 2
+ 65 700 l 1
+193 930 m 5
+ 333 990 l 5
+ 483 830 l 5
+ 373 780 l 5
+ 193 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 209
+GlifName: U_acute
+Width: 746
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 700 m 1
+ 285 700 l 1
+ 285 250 l 2
+ 285 194 313 155 373 155 c 4
+ 433 155 461 194 461 250 c 2
+ 461 700 l 1
+ 681 700 l 1
+ 681 230 l 2
+ 681 31 538 -40 373 -40 c 0
+ 208 -40 65 31 65 230 c 2
+ 65 700 l 1
+553 930 m 5
+ 373 780 l 5
+ 263 830 l 5
+ 413 990 l 5
+ 553 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 210
+GlifName: U_circumflex
+Width: 746
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 700 m 1
+ 285 700 l 1
+ 285 250 l 2
+ 285 194 313 155 373 155 c 4
+ 433 155 461 194 461 250 c 2
+ 461 700 l 1
+ 681 700 l 1
+ 681 230 l 2
+ 681 31 538 -40 373 -40 c 0
+ 208 -40 65 31 65 230 c 2
+ 65 700 l 1
+373 860 m 5
+ 293 780 l 5
+ 153 870 l 5
+ 373 1010 l 5
+ 593 870 l 5
+ 453 780 l 5
+ 373 860 l 5
+EndSplineSet
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 211
+GlifName: U_dieresis
+Width: 746
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 700 m 1
+ 285 700 l 1
+ 285 250 l 2
+ 285 194 313 155 373 155 c 0
+ 433 155 461 194 461 250 c 2
+ 461 700 l 1
+ 681 700 l 1
+ 681 230 l 2
+ 681 31 538 -40 373 -40 c 0
+ 208 -40 65 31 65 230 c 2
+ 65 700 l 1
+411 895 m 4
+ 411 958 459 1010 529 1010 c 4
+ 599 1010 647 958 647 895 c 4
+ 647 832 599 780 529 780 c 4
+ 459 780 411 832 411 895 c 4
+99 895 m 0
+ 99 958 147 1010 217 1010 c 0
+ 287 1010 335 958 335 895 c 0
+ 335 832 287 780 217 780 c 0
+ 147 780 99 832 99 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 212
+GlifName: Y_acute
+Width: 720
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+248 360 m 5
+ 473 360 l 5
+ 473 0 l 5
+ 248 0 l 5
+ 248 360 l 5
+470 700 m 5
+ 725 700 l 5
+ 360 84 l 5
+ -5 700 l 5
+ 250 700 l 5
+ 360 474 l 5
+ 470 700 l 5
+540 930 m 5
+ 360 780 l 5
+ 250 830 l 5
+ 400 990 l 5
+ 540 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 213
+GlifName: agrave
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 361 130 l 1
+ 361 41 288 -10 193 -10 c 0
+ 88 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 5
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 530 419 530 320 c 2
+ 530 0 l 1
+ 345 0 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+113 685 m 5
+ 253 745 l 5
+ 403 585 l 5
+ 293 535 l 5
+ 113 685 l 5
+EndSplineSet
+Substitution2: "alt a" agrave.alt
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 214
+GlifName: aacute
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 361 130 l 1
+ 361 41 288 -10 193 -10 c 0
+ 88 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 5
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 530 419 530 320 c 2
+ 530 0 l 1
+ 345 0 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+473 685 m 5
+ 293 535 l 5
+ 183 585 l 5
+ 333 745 l 5
+ 473 685 l 5
+EndSplineSet
+Substitution2: "alt a" aacute.alt
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 215
+GlifName: acircumflex
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 361 130 l 1
+ 361 41 288 -10 193 -10 c 0
+ 88 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 5
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 530 419 530 320 c 2
+ 530 0 l 1
+ 345 0 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+293 615 m 5
+ 213 535 l 5
+ 73 625 l 5
+ 293 765 l 5
+ 513 625 l 5
+ 373 535 l 5
+ 293 615 l 5
+EndSplineSet
+Substitution2: "alt a" acircumflex.alt
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 216
+GlifName: atilde
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 361 130 l 1
+ 361 41 288 -10 193 -10 c 0
+ 88 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 5
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 530 419 530 320 c 2
+ 530 0 l 1
+ 345 0 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+78 618 m 1
+ 88 667 132 720 207 720 c 0
+ 274 720 293 665 351 665 c 0
+ 380 665 402 689 422 721 c 1
+ 508 628 l 1
+ 492 591 427 535 357 535 c 0
+ 302 535 258 592 206 592 c 4
+ 170 592 161 556 161 541 c 1
+ 78 618 l 1
+EndSplineSet
+Substitution2: "alt a" atilde.alt
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 217
+GlifName: adieresis
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 361 130 l 1
+ 361 41 288 -10 193 -10 c 0
+ 88 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 5
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 530 419 530 320 c 2
+ 530 0 l 1
+ 345 0 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+310 650 m 4
+ 310 713 358 765 428 765 c 4
+ 498 765 546 713 546 650 c 4
+ 546 587 498 535 428 535 c 4
+ 358 535 310 587 310 650 c 4
+40 650 m 0
+ 40 713 88 765 158 765 c 0
+ 228 765 276 713 276 650 c 0
+ 276 587 228 535 158 535 c 0
+ 88 535 40 587 40 650 c 0
+EndSplineSet
+Substitution2: "alt a" adieresis.alt
+EndChar
+
+StartChar: aring
+Encoding: 229 229 218
+GlifName: aring
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 361 130 l 1
+ 361 41 288 -10 193 -10 c 0
+ 88 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 5
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 530 419 530 320 c 2
+ 530 0 l 1
+ 345 0 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+154 660 m 0
+ 154 734 212 785 292 785 c 0
+ 372 785 432 734 432 660 c 0
+ 432 586 372 535 292 535 c 0
+ 212 535 154 586 154 660 c 0
+249 660 m 0
+ 249 632 267 616 292 616 c 0
+ 317 616 336 632 336 660 c 0
+ 336 688 317 705 292 705 c 0
+ 267 705 249 688 249 660 c 0
+EndSplineSet
+Substitution2: "alt a" aring.alt
+EndChar
+
+StartChar: germandbls
+Encoding: 223 223 219
+GlifName: germandbls
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 606 m 1
+ 225 576 l 1
+ 225 0 l 1
+ 40 0 l 1
+ 40 606 l 1
+277 405 m 1
+ 277 520 l 1
+ 347 520 359 540 359 576 c 0
+ 359 612 332 625 292 625 c 0
+ 242 625 225 602 225 576 c 1
+ 40 606 l 1
+ 40 735 157 800 292 800 c 0
+ 457 800 545 715 545 606 c 0
+ 545 487 452 405 277 405 c 1
+287 165 m 5
+ 367 165 399 209 399 265 c 0
+ 399 311 387 345 277 345 c 1
+ 277 480 l 1
+ 452 480 595 384 595 225 c 0
+ 595 66 482 -10 287 -10 c 5
+ 287 165 l 5
+EndSplineSet
+EndChar
+
+StartChar: ae
+Encoding: 230 230 220
+GlifName: ae
+Width: 939
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 0
+ 216 115 238 106 263 106 c 0
+ 303 106 345 124 345 190 c 1
+ 431 130 l 1
+ 431 41 368 -10 223 -10 c 0
+ 98 -10 20 41 20 130 c 0
+ 20 217 100 275 221 275 c 0
+ 279 275 354 257 378 233 c 1
+ 378 147 l 1
+ 350 169 323 180 275 180 c 0
+ 241 180 216 163 216 139 c 0
+121 298 m 1
+ 62 424 l 1
+ 126 449 210 475 293 475 c 0
+ 428 475 460 419 460 320 c 2
+ 460 130 l 1
+ 345 130 l 1
+ 345 272 l 2
+ 345 307 323 333 273 333 c 0
+ 207 333 143 309 121 298 c 1
+426 190 m 1
+ 426 284 l 1
+ 889 284 l 1
+ 903 190 l 1
+ 426 190 l 1
+700 240 m 2
+ 700 316 683 350 633 350 c 0
+ 583 350 558 316 558 250 c 1
+ 556 230 l 1
+ 556 144 598 120 638 120 c 0
+ 685 120 718 135 734 165 c 1
+ 912 137 l 1
+ 866 47 787 -10 648 -10 c 0
+ 453 -10 410 91 410 230 c 0
+ 410 247 411 263 414 279 c 4
+ 433 392 519 470 668 470 c 0
+ 818 470 905 384 905 239 c 0
+ 905 231 905 211 903 190 c 1
+ 700 210 l 1
+ 700 240 l 2
+EndSplineSet
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 221
+GlifName: ccedilla
+Width: 503
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+231 230 m 0
+ 231 169 278 138 333 138 c 0
+ 377 138 422 154 453 197 c 1
+ 453 21 l 1
+ 421 3 386 -10 313 -10 c 0
+ 148 -10 30 81 30 230 c 0
+ 30 379 148 470 313 470 c 0
+ 386 470 421 455 453 441 c 1
+ 453 264 l 1
+ 422 307 367 322 333 322 c 0
+ 278 322 231 281 231 230 c 0
+203 102 m 5
+ 343 96 l 5
+ 213 -70 l 5
+ 114 -109 l 5
+ 203 102 l 5
+399 -138 m 5
+ 278 -124 l 5
+ 278 -96 240 -94 211 -94 c 4
+ 201 -94 157 -95 114 -109 c 5
+ 193 -62 l 5
+ 221 -32 253 -26 296 -26 c 4
+ 340 -26 399 -62 399 -138 c 5
+399 -138 m 5
+ 399 -217 321 -256 253 -256 c 4
+ 186 -256 134 -247 76 -216 c 5
+ 129 -130 l 5
+ 158 -150 205 -156 221 -156 c 4
+ 255 -156 278 -148 278 -124 c 5
+ 399 -138 l 5
+EndSplineSet
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 222
+GlifName: egrave
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 1
+ 96 284 l 1
+ 559 284 l 1
+ 573 190 l 1
+ 96 190 l 1
+370 240 m 2
+ 370 316 353 350 303 350 c 0
+ 253 350 228 316 228 250 c 1
+ 226 230 l 1
+ 226 144 268 120 308 120 c 0
+ 355 120 388 135 404 165 c 1
+ 582 137 l 1
+ 536 47 457 -10 318 -10 c 0
+ 123 -10 30 91 30 230 c 0
+ 30 247 31 263 34 279 c 0
+ 53 392 139 470 308 470 c 0
+ 488 470 575 384 575 239 c 0
+ 575 231 575 211 573 190 c 1
+ 370 210 l 1
+ 370 240 l 2
+148 681 m 5
+ 288 741 l 5
+ 438 581 l 5
+ 328 531 l 5
+ 148 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 223
+GlifName: eacute
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 1
+ 96 284 l 1
+ 559 284 l 1
+ 573 190 l 1
+ 96 190 l 1
+370 240 m 2
+ 370 316 353 350 303 350 c 0
+ 253 350 228 316 228 250 c 1
+ 226 230 l 1
+ 226 144 268 120 308 120 c 0
+ 355 120 388 135 404 165 c 1
+ 582 137 l 1
+ 536 47 457 -10 318 -10 c 0
+ 123 -10 30 91 30 230 c 0
+ 30 247 31 263 34 279 c 0
+ 53 392 139 470 308 470 c 0
+ 488 470 575 384 575 239 c 0
+ 575 231 575 211 573 190 c 1
+ 370 210 l 1
+ 370 240 l 2
+468 681 m 5
+ 288 531 l 5
+ 178 581 l 5
+ 328 741 l 5
+ 468 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 224
+GlifName: ecircumflex
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+308 611 m 5
+ 228 531 l 5
+ 88 621 l 5
+ 308 761 l 5
+ 528 621 l 5
+ 388 531 l 5
+ 308 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 225
+GlifName: edieresis
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+325 646 m 4
+ 325 709 373 761 443 761 c 4
+ 513 761 561 709 561 646 c 4
+ 561 583 513 531 443 531 c 4
+ 373 531 325 583 325 646 c 4
+55 646 m 0
+ 55 709 103 761 173 761 c 0
+ 243 761 291 709 291 646 c 0
+ 291 583 243 531 173 531 c 0
+ 103 531 55 583 55 646 c 0
+EndSplineSet
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 226
+GlifName: igrave
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+-50 681 m 5
+ 90 741 l 5
+ 240 581 l 5
+ 130 531 l 5
+ -50 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: dotlessi
+Encoding: 305 305 227
+GlifName: dotlessi
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+EndSplineSet
+EndChar
+
+StartChar: kgreenlandic
+Encoding: 312 312 228
+GlifName: kgreenlandic
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 460 m 5
+ 235 460 l 5
+ 235 0 l 1
+ 50 0 l 1
+ 50 460 l 5
+401 460 m 1
+ 630 460 l 1
+ 435 270 l 1
+ 650 0 l 1
+ 425 0 l 1
+ 206 270 l 1
+ 401 460 l 1
+EndSplineSet
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 229
+GlifName: iacute
+Width: 286
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+322 681 m 5
+ 142 531 l 5
+ 32 581 l 5
+ 182 741 l 5
+ 322 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 230
+GlifName: icircumflex
+Width: 286
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+142 611 m 5
+ 62 531 l 5
+ -78 621 l 5
+ 142 761 l 5
+ 362 621 l 5
+ 222 531 l 5
+ 142 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 231
+GlifName: idieresis
+Width: 286
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+160 646 m 4
+ 160 709 208 761 278 761 c 4
+ 348 761 396 709 396 646 c 4
+ 396 583 348 531 278 531 c 4
+ 208 531 160 583 160 646 c 4
+-110 646 m 0
+ -110 709 -62 761 8 761 c 0
+ 78 761 126 709 126 646 c 0
+ 126 583 78 531 8 531 c 0
+ -62 531 -110 583 -110 646 c 0
+EndSplineSet
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 232
+GlifName: ntilde
+Width: 605
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+245 460 m 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 460 l 5
+ 245 460 l 5
+350 280 m 6
+ 350 321 342 346 302 346 c 4
+ 267 346 245 326 245 280 c 5
+ 219 270 l 5
+ 219 379 262 471 387 471 c 4
+ 512 471 555 409 555 300 c 6
+ 555 0 l 5
+ 350 0 l 5
+ 350 280 l 6
+88 614 m 1
+ 98 663 141 716 216 716 c 0
+ 283 716 302 661 360 661 c 0
+ 389 661 412 685 432 717 c 1
+ 518 624 l 1
+ 502 587 436 531 366 531 c 0
+ 311 531 268 588 216 588 c 4
+ 180 588 170 552 170 537 c 1
+ 88 614 l 1
+EndSplineSet
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 233
+GlifName: ograve
+Width: 616
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 0
+ 30 379 148 471 308 471 c 0
+ 468 471 586 379 586 230 c 0
+ 586 81 468 -10 308 -10 c 0
+ 148 -10 30 81 30 230 c 0
+231 230 m 0
+ 231 174 268 145 308 145 c 0
+ 348 145 385 174 385 230 c 0
+ 385 286 348 316 308 316 c 0
+ 268 316 231 286 231 230 c 0
+148 681 m 5
+ 288 741 l 5
+ 438 581 l 5
+ 328 531 l 5
+ 148 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 234
+GlifName: oacute
+Width: 616
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 0
+ 30 379 148 471 308 471 c 0
+ 468 471 586 379 586 230 c 0
+ 586 81 468 -10 308 -10 c 0
+ 148 -10 30 81 30 230 c 0
+231 230 m 0
+ 231 174 268 145 308 145 c 0
+ 348 145 385 174 385 230 c 0
+ 385 286 348 316 308 316 c 0
+ 268 316 231 286 231 230 c 0
+468 681 m 5
+ 288 531 l 5
+ 178 581 l 5
+ 328 741 l 5
+ 468 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 235
+GlifName: ocircumflex
+Width: 616
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 4
+ 30 379 148 471 308 471 c 4
+ 468 471 586 379 586 230 c 4
+ 586 81 468 -10 308 -10 c 4
+ 148 -10 30 81 30 230 c 4
+231 230 m 4
+ 231 174 268 145 308 145 c 4
+ 348 145 385 174 385 230 c 4
+ 385 286 348 316 308 316 c 4
+ 268 316 231 286 231 230 c 4
+308 611 m 5
+ 228 531 l 5
+ 88 621 l 5
+ 308 761 l 5
+ 528 621 l 5
+ 388 531 l 5
+ 308 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 236
+GlifName: otilde
+Width: 616
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 4
+ 30 379 148 471 308 471 c 4
+ 468 471 586 379 586 230 c 4
+ 586 81 468 -10 308 -10 c 4
+ 148 -10 30 81 30 230 c 4
+231 230 m 4
+ 231 174 268 145 308 145 c 4
+ 348 145 385 174 385 230 c 4
+ 385 286 348 316 308 316 c 4
+ 268 316 231 286 231 230 c 4
+93 614 m 1
+ 103 663 147 716 222 716 c 0
+ 289 716 308 661 366 661 c 0
+ 395 661 417 685 437 717 c 1
+ 523 624 l 1
+ 507 587 442 531 372 531 c 0
+ 317 531 273 588 221 588 c 4
+ 185 588 176 552 176 537 c 1
+ 93 614 l 1
+EndSplineSet
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 237
+GlifName: odieresis
+Width: 616
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 4
+ 30 379 148 471 308 471 c 4
+ 468 471 586 379 586 230 c 4
+ 586 81 468 -10 308 -10 c 4
+ 148 -10 30 81 30 230 c 4
+231 230 m 4
+ 231 174 268 145 308 145 c 4
+ 348 145 385 174 385 230 c 4
+ 385 286 348 316 308 316 c 4
+ 268 316 231 286 231 230 c 4
+325 646 m 4
+ 325 709 373 761 443 761 c 4
+ 513 761 561 709 561 646 c 4
+ 561 583 513 531 443 531 c 4
+ 373 531 325 583 325 646 c 4
+55 646 m 0
+ 55 709 103 761 173 761 c 0
+ 243 761 291 709 291 646 c 0
+ 291 583 243 531 173 531 c 0
+ 103 531 55 583 55 646 c 0
+EndSplineSet
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 238
+GlifName: ugrave
+Width: 605
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 1
+ 360 460 l 1
+ 555 460 l 1
+ 555 0 l 1
+ 360 0 l 1
+255 180 m 2
+ 255 139 263 114 303 114 c 0
+ 338 114 360 134 360 180 c 1
+ 386 190 l 1
+ 386 81 343 -11 218 -11 c 0
+ 93 -11 50 51 50 160 c 2
+ 50 460 l 1
+ 255 460 l 1
+ 255 180 l 2
+142 681 m 5
+ 282 741 l 5
+ 432 581 l 5
+ 322 531 l 5
+ 142 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 239
+GlifName: uacute
+Width: 605
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 1
+ 360 460 l 1
+ 555 460 l 1
+ 555 0 l 1
+ 360 0 l 1
+255 180 m 2
+ 255 139 263 114 303 114 c 0
+ 338 114 360 134 360 180 c 1
+ 386 190 l 1
+ 386 81 343 -11 218 -11 c 0
+ 93 -11 50 51 50 160 c 2
+ 50 460 l 1
+ 255 460 l 1
+ 255 180 l 2
+462 681 m 5
+ 282 531 l 5
+ 172 581 l 5
+ 322 741 l 5
+ 462 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 240
+GlifName: ucircumflex
+Width: 605
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 5
+ 360 460 l 5
+ 555 460 l 5
+ 555 0 l 5
+ 360 0 l 5
+255 180 m 6
+ 255 139 263 114 303 114 c 4
+ 338 114 360 134 360 180 c 5
+ 386 190 l 5
+ 386 81 343 -11 218 -11 c 4
+ 93 -11 50 51 50 160 c 6
+ 50 460 l 5
+ 255 460 l 5
+ 255 180 l 6
+302 611 m 5
+ 222 531 l 5
+ 82 621 l 5
+ 302 761 l 5
+ 522 621 l 5
+ 382 531 l 5
+ 302 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 241
+GlifName: udieresis
+Width: 605
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+360 0 m 5
+ 360 460 l 5
+ 555 460 l 5
+ 555 0 l 5
+ 360 0 l 5
+255 180 m 6
+ 255 139 263 114 303 114 c 4
+ 338 114 360 134 360 180 c 5
+ 386 190 l 5
+ 386 81 343 -11 218 -11 c 4
+ 93 -11 50 51 50 160 c 6
+ 50 460 l 5
+ 255 460 l 5
+ 255 180 l 6
+320 646 m 4
+ 320 709 368 761 438 761 c 4
+ 508 761 556 709 556 646 c 4
+ 556 583 508 531 438 531 c 4
+ 368 531 320 583 320 646 c 4
+50 646 m 0
+ 50 709 98 761 168 761 c 0
+ 238 761 286 709 286 646 c 0
+ 286 583 238 531 168 531 c 0
+ 98 531 50 583 50 646 c 0
+EndSplineSet
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 242
+GlifName: yacute
+Width: 570
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+585 460 m 1
+ 285 -220 l 1
+ 95 -220 l 1
+ 198 20 l 1
+ -15 460 l 1
+ 195 460 l 1
+ 345 85 l 1
+ 240 85 l 5
+ 390 460 l 5
+ 585 460 l 1
+465 681 m 5
+ 285 531 l 5
+ 175 581 l 5
+ 325 741 l 5
+ 465 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 243
+GlifName: thorn
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 780 m 1
+ 245 -220 l 5
+ 50 -220 l 5
+ 50 780 l 1
+ 245 780 l 1
+615 230 m 0
+ 615 71 507 -10 402 -10 c 0
+ 287 -10 199 81 199 230 c 0
+ 199 379 287 470 402 470 c 0
+ 507 470 615 389 615 230 c 0
+409 230 m 0
+ 409 281 372 320 327 320 c 0
+ 287 320 245 286 245 230 c 0
+ 245 174 287 140 327 140 c 0
+ 372 140 409 179 409 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 244
+GlifName: ydieresis
+Width: 570
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+585 460 m 1
+ 285 -220 l 1
+ 95 -220 l 1
+ 198 20 l 1
+ -15 460 l 1
+ 195 460 l 1
+ 345 85 l 1
+ 240 85 l 5
+ 390 460 l 5
+ 585 460 l 1
+302 646 m 4
+ 302 709 350 761 420 761 c 4
+ 490 761 538 709 538 646 c 4
+ 538 583 490 531 420 531 c 4
+ 350 531 302 583 302 646 c 4
+32 646 m 0
+ 32 709 80 761 150 761 c 0
+ 220 761 268 709 268 646 c 0
+ 268 583 220 531 150 531 c 0
+ 80 531 32 583 32 646 c 0
+EndSplineSet
+EndChar
+
+StartChar: Amacron
+Encoding: 256 256 245
+GlifName: A_macron
+Width: 780
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+198 810 m 1
+ 198 975 l 1
+ 582 975 l 1
+ 582 810 l 1
+ 198 810 l 1
+EndSplineSet
+EndChar
+
+StartChar: amacron
+Encoding: 257 257 246
+GlifName: amacron
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 4
+ 216 115 238 106 263 106 c 4
+ 303 106 345 124 345 190 c 5
+ 361 130 l 5
+ 361 41 288 -10 193 -10 c 4
+ 88 -10 20 41 20 130 c 4
+ 20 217 100 275 221 275 c 4
+ 279 275 354 257 378 233 c 5
+ 378 147 l 5
+ 350 169 323 180 275 180 c 4
+ 241 180 216 163 216 139 c 4
+121 298 m 5
+ 62 424 l 5
+ 126 449 210 475 293 475 c 4
+ 428 475 530 419 530 320 c 6
+ 530 0 l 5
+ 345 0 l 5
+ 345 272 l 6
+ 345 307 323 333 273 333 c 4
+ 207 333 143 309 121 298 c 5
+100 535 m 1
+ 100 700 l 1
+ 486 700 l 1
+ 486 535 l 1
+ 100 535 l 1
+EndSplineSet
+Substitution2: "alt a" amacron.alt
+EndChar
+
+StartChar: breve
+Encoding: 728 728 247
+GlifName: breve
+Width: 546
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+105 850 m 1
+ 221 850 l 5
+ 221 809 253 800 273 800 c 4
+ 293 800 325 809 325 850 c 5
+ 441 850 l 1
+ 441 761 378 700 273 700 c 0
+ 168 700 105 761 105 850 c 1
+EndSplineSet
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 248
+GlifName: A_breve
+Width: 780
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+222 960 m 1
+ 338 960 l 5
+ 338 919 370 910 390 910 c 4
+ 410 910 442 919 442 960 c 5
+ 558 960 l 1
+ 558 871 495 810 390 810 c 0
+ 285 810 222 871 222 960 c 1
+EndSplineSet
+EndChar
+
+StartChar: abreve
+Encoding: 259 259 249
+GlifName: abreve
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 4
+ 216 115 238 106 263 106 c 4
+ 303 106 345 124 345 190 c 5
+ 361 130 l 5
+ 361 41 288 -10 193 -10 c 4
+ 88 -10 20 41 20 130 c 4
+ 20 217 100 275 221 275 c 4
+ 279 275 354 257 378 233 c 5
+ 378 147 l 5
+ 350 169 323 180 275 180 c 4
+ 241 180 216 163 216 139 c 4
+121 298 m 5
+ 62 424 l 5
+ 126 449 210 475 293 475 c 4
+ 428 475 530 419 530 320 c 6
+ 530 0 l 5
+ 345 0 l 5
+ 345 272 l 6
+ 345 307 323 333 273 333 c 4
+ 207 333 143 309 121 298 c 5
+125 685 m 1
+ 241 685 l 5
+ 241 644 273 635 293 635 c 4
+ 313 635 345 644 345 685 c 5
+ 461 685 l 1
+ 461 596 398 535 293 535 c 0
+ 188 535 125 596 125 685 c 1
+EndSplineSet
+Substitution2: "alt a" abreve.alt
+EndChar
+
+StartChar: Aogonek
+Encoding: 260 260 250
+GlifName: A_ogonek
+Width: 780
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+207 90 m 1
+ 207 248 l 5
+ 577 248 l 5
+ 577 90 l 1
+ 207 90 l 1
+390 382 m 1
+ 304 189 l 1
+ 321 139 l 1
+ 245 0 l 1
+ -5 0 l 1
+ 390 750 l 1
+ 785 0 l 1
+ 535 0 l 1
+ 461 132 l 1
+ 476 189 l 1
+ 390 382 l 1
+736 -87 m 1
+ 769 -167 l 1
+ 754 -187 724 -207 661 -207 c 0
+ 607 -207 548 -176 548 -107 c 1
+ 658 -77 l 1
+ 658 -95 666 -107 686 -107 c 0
+ 702 -107 722 -100 736 -87 c 1
+658 -77 m 1
+ 548 -107 l 1
+ 548 -38 620 2 690 38 c 1
+ 731 13 l 1
+ 679 -19 658 -50 658 -77 c 1
+EndSplineSet
+EndChar
+
+StartChar: aogonek
+Encoding: 261 261 251
+GlifName: aogonek
+Width: 580
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+216 139 m 4
+ 216 115 238 106 263 106 c 4
+ 303 106 345 124 345 190 c 5
+ 361 130 l 5
+ 361 41 288 -10 193 -10 c 4
+ 88 -10 20 41 20 130 c 4
+ 20 217 100 275 221 275 c 4
+ 279 275 354 257 378 233 c 5
+ 378 147 l 5
+ 350 169 323 180 275 180 c 4
+ 241 180 216 163 216 139 c 4
+121 298 m 5
+ 62 424 l 5
+ 126 449 210 475 293 475 c 4
+ 428 475 530 419 530 320 c 6
+ 530 0 l 5
+ 345 0 l 5
+ 345 272 l 6
+ 345 307 323 333 273 333 c 4
+ 207 333 143 309 121 298 c 5
+499 -97 m 1
+ 532 -177 l 1
+ 517 -197 487 -217 424 -217 c 0
+ 370 -217 311 -186 311 -117 c 1
+ 421 -87 l 1
+ 421 -105 429 -117 449 -117 c 0
+ 465 -117 485 -110 499 -97 c 1
+421 -87 m 1
+ 311 -117 l 1
+ 311 -48 383 -8 453 28 c 1
+ 494 3 l 1
+ 442 -29 421 -60 421 -87 c 1
+EndSplineSet
+Substitution2: "alt a" aogonek.alt
+EndChar
+
+StartChar: Cacute
+Encoding: 262 262 252
+GlifName: C_acute
+Width: 710
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+272 350 m 0
+ 272 242 353 187 451 187 c 0
+ 550 187 606 231 650 273 c 1
+ 650 47 l 1
+ 595 9 537 -20 435 -20 c 0
+ 191 -20 30 126 30 350 c 0
+ 30 574 191 720 435 720 c 0
+ 537 720 595 691 650 653 c 1
+ 650 427 l 1
+ 606 469 550 513 451 513 c 0
+ 353 513 272 458 272 350 c 0
+565 930 m 5
+ 385 780 l 5
+ 275 830 l 5
+ 425 990 l 5
+ 565 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: cacute
+Encoding: 263 263 253
+GlifName: cacute
+Width: 503
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+231 230 m 0
+ 231 169 278 138 333 138 c 0
+ 377 138 422 154 453 197 c 1
+ 453 21 l 1
+ 421 3 386 -10 313 -10 c 0
+ 148 -10 30 81 30 230 c 0
+ 30 379 148 470 313 470 c 0
+ 386 470 421 455 453 441 c 1
+ 453 264 l 1
+ 422 307 367 322 333 322 c 0
+ 278 322 231 281 231 230 c 0
+443 681 m 5
+ 263 531 l 5
+ 153 581 l 5
+ 303 741 l 5
+ 443 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: Ccircumflex
+Encoding: 264 264 254
+GlifName: C_circumflex
+Width: 710
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+272 350 m 4
+ 272 242 353 187 451 187 c 4
+ 550 187 606 231 650 273 c 5
+ 650 47 l 5
+ 595 9 537 -20 435 -20 c 4
+ 191 -20 30 126 30 350 c 4
+ 30 574 191 720 435 720 c 4
+ 537 720 595 691 650 653 c 5
+ 650 427 l 5
+ 606 469 550 513 451 513 c 4
+ 353 513 272 458 272 350 c 4
+435 860 m 5
+ 355 780 l 5
+ 215 870 l 5
+ 435 1010 l 5
+ 655 870 l 5
+ 515 780 l 5
+ 435 860 l 5
+EndSplineSet
+EndChar
+
+StartChar: ccircumflex
+Encoding: 265 265 255
+GlifName: ccircumflex
+Width: 503
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+231 230 m 0
+ 231 169 278 138 333 138 c 0
+ 377 138 422 154 453 197 c 1
+ 453 21 l 1
+ 421 3 386 -10 313 -10 c 0
+ 148 -10 30 81 30 230 c 0
+ 30 379 148 470 313 470 c 0
+ 386 470 421 455 453 441 c 1
+ 453 264 l 1
+ 422 307 367 322 333 322 c 0
+ 278 322 231 281 231 230 c 0
+263 611 m 5
+ 183 531 l 5
+ 43 621 l 5
+ 263 761 l 5
+ 483 621 l 5
+ 343 531 l 5
+ 263 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: Cdotaccent
+Encoding: 266 266 256
+GlifName: C_dotaccent
+Width: 710
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+272 350 m 4
+ 272 242 353 187 451 187 c 4
+ 550 187 606 231 650 273 c 5
+ 650 47 l 5
+ 595 9 537 -20 435 -20 c 4
+ 191 -20 30 126 30 350 c 4
+ 30 574 191 720 435 720 c 4
+ 537 720 595 691 650 653 c 5
+ 650 427 l 5
+ 606 469 550 513 451 513 c 4
+ 353 513 272 458 272 350 c 4
+317 895 m 0
+ 317 958 365 1010 435 1010 c 0
+ 505 1010 553 958 553 895 c 0
+ 553 832 505 780 435 780 c 0
+ 365 780 317 832 317 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: cdotaccent
+Encoding: 267 267 257
+GlifName: cdotaccent
+Width: 503
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+231 230 m 0
+ 231 169 278 138 333 138 c 0
+ 377 138 422 154 453 197 c 1
+ 453 21 l 1
+ 421 3 386 -10 313 -10 c 0
+ 148 -10 30 81 30 230 c 0
+ 30 379 148 470 313 470 c 0
+ 386 470 421 455 453 441 c 1
+ 453 264 l 1
+ 422 307 367 322 333 322 c 0
+ 278 322 231 281 231 230 c 0
+165 666 m 4
+ 165 729 213 781 283 781 c 4
+ 353 781 401 729 401 666 c 4
+ 401 603 353 551 283 551 c 4
+ 213 551 165 603 165 666 c 4
+EndSplineSet
+EndChar
+
+StartChar: Ccaron
+Encoding: 268 268 258
+GlifName: C_caron
+Width: 710
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+272 350 m 4
+ 272 242 353 187 451 187 c 4
+ 550 187 606 231 650 273 c 5
+ 650 47 l 5
+ 595 9 537 -20 435 -20 c 4
+ 191 -20 30 126 30 350 c 4
+ 30 574 191 720 435 720 c 4
+ 537 720 595 691 650 653 c 5
+ 650 427 l 5
+ 606 469 550 513 451 513 c 4
+ 353 513 272 458 272 350 c 4
+435 930 m 1
+ 515 1010 l 1
+ 655 920 l 1
+ 435 780 l 1
+ 215 920 l 1
+ 355 1010 l 1
+ 435 930 l 1
+EndSplineSet
+EndChar
+
+StartChar: ccaron
+Encoding: 269 269 259
+GlifName: ccaron
+Width: 503
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+231 230 m 0
+ 231 169 278 138 333 138 c 0
+ 377 138 422 154 453 197 c 1
+ 453 21 l 1
+ 421 3 386 -10 313 -10 c 0
+ 148 -10 30 81 30 230 c 0
+ 30 379 148 470 313 470 c 0
+ 386 470 421 455 453 441 c 1
+ 453 264 l 1
+ 422 307 367 322 333 322 c 0
+ 278 322 231 281 231 230 c 0
+263 681 m 5
+ 343 761 l 5
+ 483 671 l 5
+ 263 531 l 5
+ 43 671 l 5
+ 183 761 l 5
+ 263 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: Dcaron
+Encoding: 270 270 260
+GlifName: D_caron
+Width: 765
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+222 510 m 1
+ 222 700 l 1
+ 345 700 l 2
+ 589 700 735 569 735 350 c 1
+ 505 350 l 5
+ 505 493 413 510 335 510 c 6
+ 222 510 l 1
+345 0 m 2
+ 222 0 l 1
+ 222 190 l 1
+ 335 190 l 6
+ 413 190 505 207 505 350 c 5
+ 735 350 l 1
+ 735 131 589 0 345 0 c 2
+70 700 m 1
+ 299 700 l 1
+ 299 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+402 930 m 1
+ 482 1010 l 1
+ 622 920 l 1
+ 402 780 l 1
+ 182 920 l 1
+ 322 1010 l 1
+ 402 930 l 1
+EndSplineSet
+EndChar
+
+StartChar: dcaron
+Encoding: 271 271 261
+GlifName: dcaron
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 780 m 1
+ 595 780 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 780 l 1
+30 230 m 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
+236 230 m 0
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+713 780 m 5
+ 908 746 l 1
+ 773 496 l 1
+ 625 521 l 1
+ 713 780 l 5
+EndSplineSet
+EndChar
+
+StartChar: Dcroat
+Encoding: 272 272 262
+GlifName: D_croat
+Width: 765
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 510 m 1
+ 222 700 l 1
+ 345 700 l 2
+ 589 700 735 569 735 350 c 1
+ 505 350 l 1
+ 505 493 413 510 335 510 c 2
+ 222 510 l 1
+345 0 m 2
+ 222 0 l 1
+ 222 190 l 1
+ 335 190 l 2
+ 413 190 505 207 505 350 c 1
+ 735 350 l 1
+ 735 131 589 0 345 0 c 2
+70 700 m 1
+ 299 700 l 1
+ 299 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+5 290 m 1
+ 5 405 l 5
+ 375 405 l 5
+ 375 290 l 1
+ 5 290 l 1
+EndSplineSet
+EndChar
+
+StartChar: dcroat
+Encoding: 273 273 263
+GlifName: dcroat
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+295 550 m 5
+ 295 665 l 1
+ 685 665 l 1
+ 685 550 l 5
+ 295 550 l 5
+400 780 m 1
+ 595 780 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 780 l 1
+30 230 m 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
+236 230 m 0
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: Emacron
+Encoding: 274 274 264
+GlifName: E_macron
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+130 780 m 1
+ 130 945 l 1
+ 515 945 l 1
+ 515 780 l 1
+ 130 780 l 1
+EndSplineSet
+EndChar
+
+StartChar: emacron
+Encoding: 275 275 265
+GlifName: emacron
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+116 531 m 1
+ 116 696 l 1
+ 500 696 l 1
+ 500 531 l 1
+ 116 531 l 1
+EndSplineSet
+EndChar
+
+StartChar: Ebreve
+Encoding: 276 276 266
+GlifName: E_breve
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+154 930 m 1
+ 270 930 l 5
+ 270 889 302 880 322 880 c 4
+ 342 880 374 889 374 930 c 5
+ 490 930 l 1
+ 490 841 427 780 322 780 c 0
+ 217 780 154 841 154 930 c 1
+EndSplineSet
+EndChar
+
+StartChar: ebreve
+Encoding: 277 277 267
+GlifName: ebreve
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+140 681 m 1
+ 256 681 l 5
+ 256 640 288 631 308 631 c 4
+ 328 631 360 640 360 681 c 5
+ 476 681 l 1
+ 476 592 413 531 308 531 c 0
+ 203 531 140 592 140 681 c 1
+EndSplineSet
+EndChar
+
+StartChar: Edotaccent
+Encoding: 278 278 268
+GlifName: E_dotaccent
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+204 895 m 0
+ 204 958 252 1010 322 1010 c 0
+ 392 1010 440 958 440 895 c 0
+ 440 832 392 780 322 780 c 0
+ 252 780 204 832 204 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: edotaccent
+Encoding: 279 279 269
+GlifName: edotaccent
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+190 646 m 0
+ 190 709 238 761 308 761 c 0
+ 378 761 426 709 426 646 c 0
+ 426 583 378 531 308 531 c 0
+ 238 531 190 583 190 646 c 0
+EndSplineSet
+EndChar
+
+StartChar: Eogonek
+Encoding: 280 280 270
+GlifName: E_ogonek
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+538 -97 m 1
+ 572 -177 l 1
+ 557 -197 527 -217 464 -217 c 0
+ 410 -217 350 -186 350 -117 c 1
+ 460 -87 l 1
+ 460 -105 468 -117 488 -117 c 0
+ 504 -117 524 -110 538 -97 c 1
+460 -87 m 1
+ 350 -117 l 1
+ 350 -48 422 -8 492 28 c 1
+ 534 3 l 1
+ 482 -29 460 -60 460 -87 c 1
+EndSplineSet
+EndChar
+
+StartChar: eogonek
+Encoding: 281 281 271
+GlifName: eogonek
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 1
+ 96 284 l 1
+ 559 284 l 1
+ 573 190 l 1
+ 96 190 l 1
+370 240 m 2
+ 370 316 353 350 303 350 c 0
+ 253 350 228 316 228 250 c 1
+ 226 230 l 1
+ 226 144 268 120 308 120 c 0
+ 355 120 388 135 404 165 c 1
+ 582 137 l 1
+ 536 47 457 -10 318 -10 c 0
+ 123 -10 30 91 30 230 c 0
+ 30 247 31 263 34 279 c 0
+ 53 392 139 470 308 470 c 0
+ 488 470 575 384 575 239 c 0
+ 575 231 575 211 573 190 c 1
+ 370 210 l 1
+ 370 240 l 2
+354 -107 m 1
+ 387 -187 l 1
+ 372 -207 342 -227 279 -227 c 0
+ 225 -227 166 -196 166 -127 c 1
+ 276 -97 l 1
+ 276 -115 284 -127 304 -127 c 0
+ 320 -127 340 -120 354 -107 c 1
+276 -97 m 1
+ 166 -127 l 1
+ 166 -58 238 -18 308 18 c 1
+ 349 -7 l 1
+ 297 -39 276 -70 276 -97 c 1
+EndSplineSet
+EndChar
+
+StartChar: Ecaron
+Encoding: 282 282 272
+GlifName: E_caron
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 5
+ 222 175 l 5
+ 575 175 l 5
+ 575 0 l 5
+ 222 0 l 5
+222 525 m 5
+ 222 700 l 5
+ 575 700 l 5
+ 575 525 l 5
+ 222 525 l 5
+222 275 m 5
+ 222 445 l 5
+ 555 445 l 5
+ 555 275 l 5
+ 222 275 l 5
+70 700 m 5
+ 280 700 l 5
+ 280 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+322 930 m 1
+ 402 1010 l 1
+ 542 920 l 1
+ 322 780 l 1
+ 102 920 l 1
+ 242 1010 l 1
+ 322 930 l 1
+EndSplineSet
+EndChar
+
+StartChar: ecaron
+Encoding: 283 283 273
+GlifName: ecaron
+Width: 609
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+96 190 m 5
+ 96 284 l 5
+ 559 284 l 5
+ 573 190 l 5
+ 96 190 l 5
+370 240 m 6
+ 370 316 353 350 303 350 c 4
+ 253 350 228 316 228 250 c 5
+ 226 230 l 5
+ 226 144 268 120 308 120 c 4
+ 355 120 388 135 404 165 c 5
+ 582 137 l 5
+ 536 47 457 -10 318 -10 c 4
+ 123 -10 30 91 30 230 c 4
+ 30 247 31 263 34 279 c 4
+ 53 392 139 470 308 470 c 4
+ 488 470 575 384 575 239 c 4
+ 575 231 575 211 573 190 c 5
+ 370 210 l 5
+ 370 240 l 6
+308 681 m 1
+ 388 761 l 1
+ 528 671 l 1
+ 308 531 l 1
+ 88 671 l 1
+ 228 761 l 1
+ 308 681 l 1
+EndSplineSet
+EndChar
+
+StartChar: Gcircumflex
+Encoding: 284 284 274
+GlifName: G_circumflex
+Width: 838
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+430 240 m 1
+ 430 400 l 1
+ 802 400 l 1
+ 692 240 l 1
+ 430 240 l 1
+802 400 m 1
+ 822 161 684 -30 430 -30 c 4
+ 196 -30 30 121 30 350 c 0
+ 30 579 206 720 440 720 c 0
+ 599 720 701 641 771 544 c 1
+ 566 452 l 1
+ 542 496 507 535 440 535 c 0
+ 342 535 260 473 260 350 c 0
+ 260 227 332 155 440 155 c 4
+ 588 155 612 267 612 400 c 1
+ 802 400 l 1
+440 860 m 5
+ 360 780 l 5
+ 220 870 l 5
+ 440 1010 l 5
+ 660 870 l 5
+ 520 780 l 5
+ 440 860 l 5
+EndSplineSet
+EndChar
+
+StartChar: gcircumflex
+Encoding: 285 285 275
+GlifName: gcircumflex
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+446 240 m 1
+ 400 240 l 1
+ 400 296 358 320 318 320 c 0
+ 273 320 236 291 236 240 c 1
+ 30 240 l 1
+ 30 399 138 470 243 470 c 0
+ 358 470 446 389 446 240 c 1
+400 240 m 1
+ 446 240 l 1
+ 446 91 358 10 243 10 c 4
+ 138 10 30 81 30 240 c 1
+ 236 240 l 1
+ 236 189 273 160 318 160 c 4
+ 358 160 400 184 400 240 c 1
+40 -35 m 1
+ 227 -35 l 1
+ 235 -86 266 -95 306 -95 c 0
+ 366 -95 400 -56 400 10 c 2
+ 400 460 l 1
+ 585 460 l 1
+ 585 10 l 2
+ 585 -179 471 -245 316 -245 c 0
+ 121 -245 58 -159 40 -35 c 1
+333 611 m 5
+ 253 531 l 5
+ 113 621 l 5
+ 333 761 l 5
+ 553 621 l 5
+ 413 531 l 5
+ 333 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: Gbreve
+Encoding: 286 286 276
+GlifName: G_breve
+Width: 838
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+430 240 m 1
+ 430 400 l 1
+ 802 400 l 1
+ 692 240 l 1
+ 430 240 l 1
+802 400 m 1
+ 822 161 684 -30 430 -30 c 4
+ 196 -30 30 121 30 350 c 0
+ 30 579 206 720 440 720 c 0
+ 599 720 701 641 771 544 c 1
+ 566 452 l 1
+ 542 496 507 535 440 535 c 0
+ 342 535 260 473 260 350 c 0
+ 260 227 332 155 440 155 c 4
+ 588 155 612 267 612 400 c 1
+ 802 400 l 1
+272 930 m 1
+ 388 930 l 5
+ 388 889 420 880 440 880 c 4
+ 460 880 492 889 492 930 c 5
+ 608 930 l 1
+ 608 841 545 780 440 780 c 0
+ 335 780 272 841 272 930 c 1
+EndSplineSet
+EndChar
+
+StartChar: gbreve
+Encoding: 287 287 277
+GlifName: gbreve
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+446 240 m 1
+ 400 240 l 1
+ 400 296 358 320 318 320 c 0
+ 273 320 236 291 236 240 c 1
+ 30 240 l 1
+ 30 399 138 470 243 470 c 0
+ 358 470 446 389 446 240 c 1
+400 240 m 1
+ 446 240 l 1
+ 446 91 358 10 243 10 c 4
+ 138 10 30 81 30 240 c 1
+ 236 240 l 1
+ 236 189 273 160 318 160 c 4
+ 358 160 400 184 400 240 c 1
+40 -35 m 1
+ 227 -35 l 1
+ 235 -86 266 -95 306 -95 c 0
+ 366 -95 400 -56 400 10 c 2
+ 400 460 l 1
+ 585 460 l 1
+ 585 10 l 2
+ 585 -179 471 -245 316 -245 c 0
+ 121 -245 58 -159 40 -35 c 1
+175 681 m 1
+ 291 681 l 5
+ 291 640 323 631 343 631 c 4
+ 363 631 395 640 395 681 c 5
+ 511 681 l 1
+ 511 592 448 531 343 531 c 0
+ 238 531 175 592 175 681 c 1
+EndSplineSet
+EndChar
+
+StartChar: Gdotaccent
+Encoding: 288 288 278
+GlifName: G_dotaccent
+Width: 838
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+430 240 m 1
+ 430 400 l 1
+ 802 400 l 1
+ 692 240 l 1
+ 430 240 l 1
+802 400 m 1
+ 822 161 684 -30 430 -30 c 4
+ 196 -30 30 121 30 350 c 0
+ 30 579 206 720 440 720 c 0
+ 599 720 701 641 771 544 c 1
+ 566 452 l 1
+ 542 496 507 535 440 535 c 0
+ 342 535 260 473 260 350 c 0
+ 260 227 332 155 440 155 c 4
+ 588 155 612 267 612 400 c 1
+ 802 400 l 1
+322 895 m 0
+ 322 958 370 1010 440 1010 c 0
+ 510 1010 558 958 558 895 c 0
+ 558 832 510 780 440 780 c 0
+ 370 780 322 832 322 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: gdotaccent
+Encoding: 289 289 279
+GlifName: gdotaccent
+Width: 635
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+446 240 m 1
+ 400 240 l 1
+ 400 296 358 320 318 320 c 0
+ 273 320 236 291 236 240 c 1
+ 30 240 l 1
+ 30 399 138 470 243 470 c 0
+ 358 470 446 389 446 240 c 1
+400 240 m 1
+ 446 240 l 1
+ 446 91 358 10 243 10 c 0
+ 138 10 30 81 30 240 c 1
+ 236 240 l 1
+ 236 189 273 160 318 160 c 0
+ 358 160 400 184 400 240 c 1
+40 -35 m 1
+ 227 -35 l 1
+ 235 -86 266 -95 306 -95 c 0
+ 366 -95 400 -56 400 10 c 2
+ 400 460 l 1
+ 585 460 l 1
+ 585 10 l 2
+ 585 -179 471 -245 316 -245 c 0
+ 121 -245 58 -159 40 -35 c 1
+215 646 m 4
+ 215 709 263 761 333 761 c 4
+ 403 761 451 709 451 646 c 4
+ 451 583 403 531 333 531 c 4
+ 263 531 215 583 215 646 c 4
+EndSplineSet
+EndChar
+
+StartChar: uni0122
+Encoding: 290 290 280
+GlifName: uni0122
+Width: 838
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+430 240 m 1
+ 430 400 l 1
+ 802 400 l 1
+ 692 240 l 1
+ 430 240 l 1
+802 400 m 1
+ 822 161 684 -30 430 -30 c 0
+ 196 -30 30 121 30 350 c 0
+ 30 579 206 720 440 720 c 0
+ 599 720 701 641 771 544 c 1
+ 566 452 l 1
+ 542 496 507 535 440 535 c 0
+ 342 535 260 473 260 350 c 0
+ 260 227 332 155 440 155 c 0
+ 588 155 612 267 612 400 c 1
+ 802 400 l 1
+326 -90 m 5
+ 522 -124 l 5
+ 386 -374 l 5
+ 238 -349 l 5
+ 326 -90 l 5
+EndSplineSet
+EndChar
+
+StartChar: Hcircumflex
+Encoding: 292 292 281
+GlifName: H_circumflex
+Width: 830
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+117 265 m 1
+ 117 460 l 5
+ 677 460 l 5
+ 677 265 l 1
+ 117 265 l 1
+540 700 m 1
+ 760 700 l 1
+ 760 0 l 1
+ 540 0 l 1
+ 540 700 l 1
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+415 860 m 5
+ 335 780 l 5
+ 195 870 l 5
+ 415 1010 l 5
+ 635 870 l 5
+ 495 780 l 5
+ 415 860 l 5
+EndSplineSet
+EndChar
+
+StartChar: hcircumflex
+Encoding: 293 293 282
+GlifName: hcircumflex
+Width: 595
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 780 m 1
+ 245 0 l 1
+ 50 0 l 1
+ 50 780 l 1
+ 245 780 l 1
+350 280 m 2
+ 350 321 342 346 302 346 c 0
+ 267 346 245 326 245 280 c 1
+ 219 280 l 1
+ 219 389 262 481 387 481 c 0
+ 512 481 545 419 545 310 c 2
+ 545 0 l 1
+ 350 0 l 1
+ 350 280 l 2
+298 920 m 5
+ 218 840 l 5
+ 78 930 l 5
+ 298 1070 l 5
+ 518 930 l 5
+ 378 840 l 5
+ 298 920 l 5
+EndSplineSet
+EndChar
+
+StartChar: Itilde
+Encoding: 296 296 283
+GlifName: I_tilde
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+-32 863 m 1
+ -22 912 21 965 96 965 c 0
+ 163 965 182 910 240 910 c 0
+ 269 910 292 934 312 966 c 1
+ 398 873 l 1
+ 382 836 316 780 246 780 c 0
+ 191 780 148 837 96 837 c 4
+ 60 837 50 801 50 786 c 1
+ -32 863 l 1
+EndSplineSet
+EndChar
+
+StartChar: itilde
+Encoding: 297 297 284
+GlifName: itilde
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+-72 614 m 1
+ -62 663 -19 716 56 716 c 0
+ 123 716 142 661 200 661 c 0
+ 229 661 252 685 272 717 c 1
+ 358 624 l 1
+ 342 587 276 531 206 531 c 0
+ 151 531 108 588 56 588 c 4
+ 20 588 10 552 10 537 c 1
+ -72 614 l 1
+EndSplineSet
+EndChar
+
+StartChar: Imacron
+Encoding: 298 298 285
+GlifName: I_macron
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+-10 780 m 1
+ -10 945 l 1
+ 375 945 l 1
+ 375 780 l 1
+ -10 780 l 1
+EndSplineSet
+EndChar
+
+StartChar: imacron
+Encoding: 299 299 286
+GlifName: imacron
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+-50 531 m 1
+ -50 696 l 1
+ 335 696 l 1
+ 335 531 l 1
+ -50 531 l 1
+EndSplineSet
+EndChar
+
+StartChar: Ibreve
+Encoding: 300 300 287
+GlifName: I_breve
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+14 930 m 1
+ 130 930 l 5
+ 130 889 162 880 182 880 c 4
+ 202 880 234 889 234 930 c 5
+ 350 930 l 1
+ 350 841 287 780 182 780 c 0
+ 77 780 14 841 14 930 c 1
+EndSplineSet
+EndChar
+
+StartChar: ibreve
+Encoding: 301 301 288
+GlifName: ibreve
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+-26 681 m 1
+ 90 681 l 5
+ 90 640 122 631 142 631 c 4
+ 162 631 194 640 194 681 c 5
+ 310 681 l 1
+ 310 592 247 531 142 531 c 0
+ 37 531 -26 592 -26 681 c 1
+EndSplineSet
+EndChar
+
+StartChar: Iogonek
+Encoding: 302 302 289
+GlifName: I_ogonek
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+258 -97 m 1
+ 292 -177 l 1
+ 277 -197 247 -217 184 -217 c 0
+ 130 -217 70 -186 70 -117 c 1
+ 180 -87 l 1
+ 180 -105 188 -117 208 -117 c 0
+ 224 -117 244 -110 258 -97 c 1
+180 -87 m 1
+ 70 -117 l 1
+ 70 -48 142 -8 212 28 c 1
+ 254 3 l 1
+ 202 -29 180 -60 180 -87 c 1
+EndSplineSet
+EndChar
+
+StartChar: iogonek
+Encoding: 303 303 290
+GlifName: iogonek
+Width: 286
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+35 622 m 4
+ 35 681 83 720 143 720 c 4
+ 203 720 251 681 251 622 c 4
+ 251 563 203 524 143 524 c 4
+ 83 524 35 563 35 622 c 4
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+218 -97 m 5
+ 252 -177 l 1
+ 237 -197 207 -217 144 -217 c 0
+ 90 -217 30 -186 30 -117 c 1
+ 140 -87 l 1
+ 140 -105 148 -117 168 -117 c 0
+ 184 -117 204 -110 218 -97 c 5
+140 -87 m 1
+ 30 -117 l 1
+ 30 -48 102 -8 172 28 c 1
+ 214 3 l 1
+ 162 -29 140 -60 140 -87 c 1
+EndSplineSet
+EndChar
+
+StartChar: Idotaccent
+Encoding: 304 304 291
+GlifName: I_dotaccent
+Width: 365
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+64 895 m 0
+ 64 958 112 1010 182 1010 c 0
+ 252 1010 300 958 300 895 c 0
+ 300 832 252 780 182 780 c 0
+ 112 780 64 832 64 895 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0136
+Encoding: 310 310 292
+GlifName: uni0136
+Width: 781
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 700 m 1
+ 300 700 l 1
+ 300 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+515 700 m 1
+ 771 700 l 1
+ 498 372 l 1
+ 786 0 l 1
+ 520 0 l 1
+ 237 365 l 1
+ 515 700 l 1
+334 -60 m 5
+ 530 -94 l 1
+ 394 -344 l 1
+ 246 -319 l 1
+ 334 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0137
+Encoding: 311 311 293
+GlifName: uni0137
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 235 780 l 5
+ 235 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+401 460 m 5
+ 630 460 l 5
+ 435 270 l 5
+ 650 0 l 5
+ 425 0 l 5
+ 206 270 l 5
+ 401 460 l 5
+256 -60 m 5
+ 452 -94 l 1
+ 316 -344 l 1
+ 168 -319 l 1
+ 256 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: Lacute
+Encoding: 313 313 294
+GlifName: L_acute
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 185 l 1
+ 575 185 l 1
+ 575 0 l 1
+ 222 0 l 1
+70 700 m 1
+ 290 700 l 5
+ 290 0 l 5
+ 70 0 l 1
+ 70 700 l 1
+502 930 m 5
+ 322 780 l 5
+ 212 830 l 5
+ 362 990 l 5
+ 502 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: lacute
+Encoding: 314 314 295
+GlifName: lacute
+Width: 295
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 245 780 l 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+328 990 m 5
+ 148 840 l 5
+ 38 890 l 5
+ 188 1050 l 5
+ 328 990 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni013B
+Encoding: 315 315 296
+GlifName: uni013B_
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 185 l 1
+ 575 185 l 1
+ 575 0 l 1
+ 222 0 l 1
+70 700 m 1
+ 290 700 l 5
+ 290 0 l 5
+ 70 0 l 1
+ 70 700 l 1
+269 -60 m 5
+ 464 -94 l 1
+ 329 -344 l 1
+ 181 -319 l 1
+ 269 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni013C
+Encoding: 316 316 297
+GlifName: uni013C_
+Width: 295
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 245 780 l 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+94 -60 m 5
+ 289 -94 l 1
+ 154 -344 l 1
+ 6 -319 l 1
+ 94 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: Lcaron
+Encoding: 317 317 298
+GlifName: L_caron
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 185 l 1
+ 575 185 l 1
+ 575 0 l 1
+ 222 0 l 1
+70 700 m 1
+ 290 700 l 5
+ 290 0 l 5
+ 70 0 l 1
+ 70 700 l 1
+433 720 m 5
+ 628 686 l 1
+ 493 436 l 1
+ 345 461 l 1
+ 433 720 l 5
+EndSplineSet
+EndChar
+
+StartChar: lcaron
+Encoding: 318 318 299
+GlifName: lcaron
+Width: 295
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 245 780 l 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+383 780 m 5
+ 578 746 l 1
+ 443 496 l 1
+ 295 521 l 1
+ 383 780 l 5
+EndSplineSet
+EndChar
+
+StartChar: Ldot
+Encoding: 319 319 300
+GlifName: L_dot
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 185 l 1
+ 575 185 l 1
+ 575 0 l 1
+ 222 0 l 1
+70 700 m 1
+ 290 700 l 5
+ 290 0 l 5
+ 70 0 l 1
+ 70 700 l 1
+344 420 m 0
+ 344 483 392 535 462 535 c 4
+ 532 535 580 483 580 420 c 0
+ 580 357 532 305 462 305 c 0
+ 392 305 344 357 344 420 c 0
+EndSplineSet
+EndChar
+
+StartChar: ldot
+Encoding: 320 320 301
+GlifName: ldot
+Width: 541
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 245 780 l 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+275 405 m 0
+ 275 468 323 520 393 520 c 4
+ 463 520 511 468 511 405 c 0
+ 511 342 463 290 393 290 c 0
+ 323 290 275 342 275 405 c 0
+EndSplineSet
+EndChar
+
+StartChar: eth
+Encoding: 240 240 302
+GlifName: eth
+Width: 726
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+457 255 m 0
+ 457 311 416 347 363 347 c 0
+ 310 347 269 311 269 255 c 0
+ 269 199 310 165 363 165 c 0
+ 416 165 457 199 457 255 c 0
+391 695 m 1
+ 572 480 l 2
+ 629 412 676 342 676 255 c 0
+ 676 66 533 -20 363 -20 c 0
+ 193 -20 50 66 50 255 c 0
+ 50 404 173 483 272 483 c 0
+ 325 483 351 475 395 437 c 1
+ 343 464 l 1
+ 112 695 l 1
+ 391 695 l 1
+125 520 m 1
+ 125 605 l 5
+ 645 605 l 5
+ 645 520 l 1
+ 125 520 l 1
+EndSplineSet
+EndChar
+
+StartChar: racute
+Encoding: 341 341 303
+GlifName: racute
+Width: 453
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+240 460 m 1
+ 240 0 l 1
+ 50 0 l 1
+ 50 460 l 1
+ 240 460 l 1
+369 262 m 1
+ 357 278 338 290 312 290 c 4
+ 277 290 240 261 240 195 c 1
+ 204 280 l 1
+ 204 389 282 472 367 472 c 0
+ 400 472 436 452 448 430 c 1
+ 369 262 l 1
+429 682 m 5
+ 249 532 l 5
+ 139 582 l 5
+ 289 742 l 5
+ 429 682 l 5
+EndSplineSet
+EndChar
+
+StartChar: rcaron
+Encoding: 345 345 304
+GlifName: rcaron
+Width: 453
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+240 460 m 1
+ 240 0 l 1
+ 50 0 l 1
+ 50 460 l 1
+ 240 460 l 1
+369 262 m 1
+ 357 278 338 290 312 290 c 4
+ 277 290 240 261 240 195 c 1
+ 204 280 l 1
+ 204 389 282 472 367 472 c 0
+ 400 472 436 452 448 430 c 1
+ 369 262 l 1
+249 682 m 1
+ 329 762 l 1
+ 469 672 l 1
+ 249 532 l 1
+ 29 672 l 1
+ 169 762 l 1
+ 249 682 l 1
+EndSplineSet
+EndChar
+
+StartChar: Rcaron
+Encoding: 344 344 305
+GlifName: R_caron
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+275 300 m 5
+ 500 300 l 5
+ 700 0 l 5
+ 445 0 l 5
+ 275 300 l 5
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+212 515 m 1
+ 212 700 l 1
+ 365 700 l 2
+ 570 700 658 599 658 460 c 0
+ 658 321 570 220 365 220 c 2
+ 212 220 l 1
+ 212 385 l 1
+ 345 385 l 2
+ 400 385 428 409 428 450 c 0
+ 428 491 400 515 345 515 c 2
+ 212 515 l 1
+348 930 m 1
+ 428 1010 l 1
+ 568 920 l 1
+ 348 780 l 1
+ 128 920 l 1
+ 268 1010 l 1
+ 348 930 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0213
+Encoding: 531 531 306
+GlifName: uni0213
+Width: 453
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+240 460 m 1
+ 240 0 l 1
+ 50 0 l 1
+ 50 460 l 1
+ 240 460 l 1
+369 262 m 1
+ 357 278 338 290 312 290 c 4
+ 277 290 240 261 240 195 c 1
+ 204 280 l 1
+ 204 389 282 472 367 472 c 0
+ 400 472 436 452 448 430 c 1
+ 369 262 l 1
+81 532 m 1
+ 197 532 l 5
+ 197 573 229 582 249 582 c 4
+ 269 582 301 573 301 532 c 5
+ 417 532 l 1
+ 417 621 354 682 249 682 c 0
+ 144 682 81 621 81 532 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0212
+Encoding: 530 530 307
+GlifName: uni0212
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+275 300 m 1
+ 500 300 l 1
+ 700 0 l 1
+ 445 0 l 1
+ 275 300 l 1
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+212 515 m 1
+ 212 700 l 1
+ 365 700 l 2
+ 570 700 658 599 658 460 c 0
+ 658 321 570 220 365 220 c 2
+ 212 220 l 1
+ 212 385 l 1
+ 345 385 l 2
+ 400 385 428 409 428 450 c 0
+ 428 491 400 515 345 515 c 2
+ 212 515 l 1
+190 780 m 5
+ 306 780 l 5
+ 306 821 338 830 358 830 c 4
+ 378 830 410 821 410 780 c 5
+ 526 780 l 5
+ 526 869 463 930 358 930 c 4
+ 253 930 190 869 190 780 c 5
+EndSplineSet
+EndChar
+
+StartChar: OE
+Encoding: 338 338 308
+GlifName: O_E_
+Width: 985
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+562 275 m 1
+ 562 445 l 1
+ 950 445 l 1
+ 950 275 l 1
+ 562 275 l 1
+465 670 m 1
+ 675 670 l 1
+ 675 30 l 1
+ 465 30 l 1
+ 465 670 l 1
+971 175 m 1
+ 971 0 l 1
+ 390 0 l 2
+ 187 0 30 141 30 350 c 0
+ 30 559 186 700 390 700 c 2
+ 970 700 l 1
+ 970 525 l 1
+ 568 525 l 1
+ 551 510 l 1
+ 440 510 l 2
+ 312 510 260 463 260 350 c 0
+ 260 237 313 190 440 190 c 2
+ 548 190 l 1
+ 572 175 l 1
+ 971 175 l 1
+EndSplineSet
+EndChar
+
+StartChar: oe
+Encoding: 339 339 309
+GlifName: oe
+Width: 900
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+660 250 m 2
+ 660 316 638 350 598 350 c 0
+ 558 350 523 326 523 260 c 1
+ 521 230 l 1
+ 521 154 552 115 602 115 c 0
+ 649 115 672 136 696 166 c 1
+ 872 137 l 1
+ 836 57 737 -10 638 -10 c 0
+ 513 -10 430 91 430 230 c 0
+ 430 247 431 263 434 279 c 0
+ 453 392 539 470 658 470 c 0
+ 768 470 865 379 865 234 c 0
+ 865 226 863 198 862 190 c 1
+ 660 230 l 1
+ 660 250 l 2
+481 190 m 1
+ 481 283 l 1
+ 844 283 l 1
+ 862 190 l 1
+ 481 190 l 1
+35 230 m 0
+ 35 379 138 470 263 470 c 0
+ 388 470 466 379 466 230 c 0
+ 466 81 388 -10 263 -10 c 0
+ 138 -10 35 81 35 230 c 0
+226 230 m 0
+ 226 174 258 145 303 145 c 0
+ 353 145 380 174 380 230 c 0
+ 380 286 353 315 303 315 c 0
+ 258 315 226 286 226 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: a.alt
+Encoding: 65536 -1 310
+GlifName: a.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 311
+GlifName: uni00A_0
+Width: 300
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+EndChar
+
+StartChar: Jcircumflex
+Encoding: 308 308 312
+GlifName: J_circumflex
+Width: 385
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-75 -39 m 1
+ -51 -54 -19 -70 7 -70 c 0
+ 37 -70 70 -51 70 5 c 2
+ 70 700 l 1
+ 315 700 l 5
+ 315 -50 l 6
+ 315 -199 181 -250 37 -250 c 0
+ -56 -250 -141 -220 -196 -190 c 1
+ -75 -39 l 1
+192 860 m 5
+ 112 780 l 5
+ -28 870 l 5
+ 192 1010 l 5
+ 412 870 l 5
+ 272 780 l 5
+ 192 860 l 5
+EndSplineSet
+EndChar
+
+StartChar: jcircumflex
+Encoding: 309 309 313
+GlifName: jcircumflex
+Width: 285
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-43 -55 m 5
+ -30 -70 -17 -80 2 -80 c 4
+ 32 -80 50 -61 50 -25 c 6
+ 50 460 l 5
+ 235 460 l 5
+ 235 -80 l 6
+ 235 -179 171 -250 37 -250 c 4
+ -46 -250 -89 -213 -114 -193 c 5
+ -43 -55 l 5
+142 611 m 5
+ 62 531 l 5
+ -78 621 l 5
+ 142 761 l 5
+ 362 621 l 5
+ 222 531 l 5
+ 142 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: Nacute
+Encoding: 323 323 314
+GlifName: N_acute
+Width: 805
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 475 m 1
+ 70 735 l 1
+ 730 225 l 1
+ 735 -35 l 1
+ 75 475 l 1
+525 700 m 5
+ 735 700 l 1
+ 735 -35 l 1
+ 525 195 l 5
+ 525 700 l 5
+70 735 m 1
+ 280 505 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 735 l 1
+540 915 m 5
+ 360 765 l 5
+ 250 815 l 5
+ 400 975 l 5
+ 540 915 l 5
+EndSplineSet
+EndChar
+
+StartChar: nacute
+Encoding: 324 324 315
+GlifName: nacute
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 460 m 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 460 l 5
+ 245 460 l 5
+350 280 m 6
+ 350 321 342 346 302 346 c 4
+ 267 346 245 326 245 280 c 5
+ 219 270 l 5
+ 219 379 262 471 387 471 c 4
+ 512 471 555 409 555 300 c 6
+ 555 0 l 5
+ 350 0 l 5
+ 350 280 l 6
+482 681 m 5
+ 302 531 l 5
+ 192 581 l 5
+ 342 741 l 5
+ 482 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0145
+Encoding: 325 325 316
+GlifName: uni0145
+Width: 805
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 475 m 1
+ 70 735 l 1
+ 730 225 l 1
+ 735 -35 l 1
+ 75 475 l 1
+525 700 m 1
+ 735 700 l 1
+ 735 -35 l 1
+ 525 195 l 1
+ 525 700 l 1
+70 735 m 1
+ 280 505 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 735 l 1
+342 -65 m 5
+ 536 -99 l 5
+ 402 -349 l 5
+ 254 -324 l 5
+ 342 -65 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0146
+Encoding: 326 326 317
+GlifName: uni0146
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 460 m 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 460 l 5
+ 245 460 l 5
+350 280 m 6
+ 350 321 342 346 302 346 c 4
+ 267 346 245 326 245 280 c 5
+ 219 270 l 5
+ 219 379 262 471 387 471 c 4
+ 512 471 555 409 555 300 c 6
+ 555 0 l 5
+ 350 0 l 5
+ 350 280 l 6
+249 -60 m 5
+ 444 -94 l 1
+ 309 -344 l 1
+ 161 -319 l 1
+ 249 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: Ncaron
+Encoding: 327 327 318
+GlifName: N_caron
+Width: 805
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 475 m 1
+ 70 735 l 1
+ 730 225 l 1
+ 735 -35 l 1
+ 75 475 l 1
+525 700 m 5
+ 735 700 l 1
+ 735 -35 l 1
+ 525 195 l 5
+ 525 700 l 5
+70 735 m 1
+ 280 505 l 1
+ 280 0 l 1
+ 70 0 l 1
+ 70 735 l 1
+360 915 m 1
+ 440 995 l 1
+ 580 905 l 1
+ 360 765 l 1
+ 140 905 l 1
+ 280 995 l 1
+ 360 915 l 1
+EndSplineSet
+EndChar
+
+StartChar: ncaron
+Encoding: 328 328 319
+GlifName: ncaron
+Width: 605
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 460 m 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 460 l 5
+ 245 460 l 5
+350 280 m 6
+ 350 321 342 346 302 346 c 4
+ 267 346 245 326 245 280 c 5
+ 219 270 l 5
+ 219 379 262 471 387 471 c 4
+ 512 471 555 409 555 300 c 6
+ 555 0 l 5
+ 350 0 l 5
+ 350 280 l 6
+302 681 m 1
+ 382 761 l 1
+ 522 671 l 1
+ 302 531 l 1
+ 82 671 l 1
+ 222 761 l 1
+ 302 681 l 1
+EndSplineSet
+EndChar
+
+StartChar: Omacron
+Encoding: 332 332 320
+GlifName: O_macron
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 4
+ 263 247 322 178 420 178 c 4
+ 518 178 577 247 577 350 c 4
+ 577 453 523 522 420 522 c 4
+ 322 522 263 453 263 350 c 4
+30 350 m 4
+ 30 574 201 720 420 720 c 4
+ 644 720 810 574 810 350 c 4
+ 810 126 649 -30 420 -30 c 4
+ 191 -30 30 126 30 350 c 4
+228 780 m 1
+ 228 945 l 1
+ 612 945 l 1
+ 612 780 l 1
+ 228 780 l 1
+EndSplineSet
+EndChar
+
+StartChar: omacron
+Encoding: 333 333 321
+GlifName: omacron
+Width: 616
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 4
+ 30 379 148 471 308 471 c 4
+ 468 471 586 379 586 230 c 4
+ 586 81 468 -10 308 -10 c 4
+ 148 -10 30 81 30 230 c 4
+231 230 m 4
+ 231 174 268 145 308 145 c 4
+ 348 145 385 174 385 230 c 4
+ 385 286 348 316 308 316 c 4
+ 268 316 231 286 231 230 c 4
+116 531 m 1
+ 116 696 l 1
+ 500 696 l 1
+ 500 531 l 1
+ 116 531 l 1
+EndSplineSet
+EndChar
+
+StartChar: Obreve
+Encoding: 334 334 322
+GlifName: O_breve
+Width: 840
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+263 350 m 4
+ 263 247 322 178 420 178 c 4
+ 518 178 577 247 577 350 c 4
+ 577 453 523 522 420 522 c 4
+ 322 522 263 453 263 350 c 4
+30 350 m 4
+ 30 574 201 720 420 720 c 4
+ 644 720 810 574 810 350 c 4
+ 810 126 649 -30 420 -30 c 4
+ 191 -30 30 126 30 350 c 4
+252 930 m 1
+ 368 930 l 5
+ 368 889 400 880 420 880 c 4
+ 440 880 472 889 472 930 c 5
+ 588 930 l 1
+ 588 841 525 780 420 780 c 0
+ 315 780 252 841 252 930 c 1
+EndSplineSet
+EndChar
+
+StartChar: obreve
+Encoding: 335 335 323
+GlifName: obreve
+Width: 616
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+30 230 m 4
+ 30 379 148 471 308 471 c 4
+ 468 471 586 379 586 230 c 4
+ 586 81 468 -10 308 -10 c 4
+ 148 -10 30 81 30 230 c 4
+231 230 m 4
+ 231 174 268 145 308 145 c 4
+ 348 145 385 174 385 230 c 4
+ 385 286 348 316 308 316 c 4
+ 268 316 231 286 231 230 c 4
+140 681 m 1
+ 256 681 l 5
+ 256 640 288 631 308 631 c 4
+ 328 631 360 640 360 681 c 5
+ 476 681 l 1
+ 476 592 413 531 308 531 c 0
+ 203 531 140 592 140 681 c 1
+EndSplineSet
+EndChar
+
+StartChar: Racute
+Encoding: 340 340 324
+GlifName: R_acute
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+275 300 m 5
+ 500 300 l 5
+ 700 0 l 5
+ 445 0 l 5
+ 275 300 l 5
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+212 515 m 1
+ 212 700 l 1
+ 365 700 l 2
+ 570 700 658 599 658 460 c 0
+ 658 321 570 220 365 220 c 2
+ 212 220 l 1
+ 212 385 l 1
+ 345 385 l 2
+ 400 385 428 409 428 450 c 0
+ 428 491 400 515 345 515 c 2
+ 212 515 l 1
+508 930 m 5
+ 328 780 l 5
+ 218 830 l 5
+ 368 990 l 5
+ 508 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0156
+Encoding: 342 342 325
+GlifName: uni0156
+Width: 700
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+275 300 m 5
+ 500 300 l 5
+ 700 0 l 5
+ 445 0 l 5
+ 275 300 l 5
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
+212 515 m 1
+ 212 700 l 1
+ 365 700 l 2
+ 570 700 658 599 658 460 c 0
+ 658 321 570 220 365 220 c 2
+ 212 220 l 1
+ 212 385 l 1
+ 345 385 l 2
+ 400 385 428 409 428 450 c 0
+ 428 491 400 515 345 515 c 2
+ 212 515 l 1
+332 -60 m 5
+ 526 -94 l 1
+ 392 -344 l 1
+ 244 -319 l 1
+ 332 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0157
+Encoding: 343 343 326
+GlifName: uni0157
+Width: 453
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+240 460 m 1
+ 240 0 l 1
+ 50 0 l 1
+ 50 460 l 1
+ 240 460 l 1
+369 262 m 1
+ 357 278 338 290 312 290 c 4
+ 277 290 240 261 240 195 c 1
+ 204 280 l 1
+ 204 389 282 472 367 472 c 0
+ 400 472 436 452 448 430 c 1
+ 369 262 l 1
+92 -60 m 5
+ 286 -94 l 1
+ 152 -344 l 1
+ 4 -319 l 1
+ 92 -60 l 5
+EndSplineSet
+EndChar
+
+StartChar: Scedilla
+Encoding: 350 350 327
+GlifName: S_cedilla
+Width: 672
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+178 266 m 1
+ 230 190 273 158 340 158 c 0
+ 380 158 404 169 404 199 c 0
+ 404 239 352 247 272 280 c 0
+ 204 308 74 363 74 510 c 0
+ 74 636 183 720 347 720 c 0
+ 520 720 599 635 627 564 c 1
+ 464 474 l 1
+ 434 522 398 539 358 539 c 0
+ 322 539 298 525 298 504 c 0
+ 298 468 376 452 458 423 c 0
+ 570 384 637 317 637 200 c 0
+ 637 43 515 -30 336 -30 c 0
+ 201 -30 74 43 30 158 c 1
+ 178 266 l 1
+286 62 m 5
+ 426 56 l 5
+ 296 -110 l 5
+ 197 -149 l 5
+ 286 62 l 5
+482 -178 m 5
+ 361 -164 l 5
+ 361 -136 323 -134 294 -134 c 4
+ 284 -134 240 -135 197 -149 c 5
+ 276 -102 l 5
+ 304 -72 336 -66 379 -66 c 4
+ 423 -66 482 -102 482 -178 c 5
+482 -178 m 5
+ 482 -257 404 -296 336 -296 c 4
+ 269 -296 217 -287 159 -256 c 5
+ 212 -170 l 5
+ 241 -190 288 -196 304 -196 c 4
+ 338 -196 361 -188 361 -164 c 5
+ 482 -178 l 5
+EndSplineSet
+EndChar
+
+StartChar: scedilla
+Encoding: 351 351 328
+GlifName: scedilla
+Width: 488
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 183 m 1
+ 180 121 233 117 250 117 c 4
+ 263 117 275 118 275 131 c 4
+ 275 156 195 159 141 186 c 0
+ 82 216 34 247 34 329 c 0
+ 34 425 124 470 238 470 c 0
+ 321 470 386 446 454 415 c 1
+ 406 282 l 1
+ 361 320 291 339 254 339 c 0
+ 227 339 219 335 219 324 c 0
+ 219 302 279 293 341 270 c 0
+ 406 246 468 217 468 130 c 0
+ 468 21 404 -25 285 -25 c 0
+ 180 -25 99 1 15 46 c 1
+ 78 183 l 1
+215 77 m 5
+ 355 71 l 5
+ 225 -95 l 5
+ 126 -134 l 5
+ 215 77 l 5
+411 -163 m 5
+ 290 -149 l 5
+ 290 -121 252 -119 223 -119 c 4
+ 213 -119 169 -120 126 -134 c 5
+ 205 -87 l 5
+ 233 -57 265 -51 308 -51 c 4
+ 352 -51 411 -87 411 -163 c 5
+411 -163 m 5
+ 411 -242 333 -281 265 -281 c 4
+ 198 -281 146 -272 88 -241 c 5
+ 141 -155 l 5
+ 170 -175 217 -181 233 -181 c 4
+ 267 -181 290 -173 290 -149 c 5
+ 411 -163 l 5
+EndSplineSet
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 329
+GlifName: Z_caron
+Width: 665
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 505 m 5
+ 70 700 l 5
+ 655 700 l 5
+ 347 185 l 5
+ 610 185 l 5
+ 610 0 l 5
+ 5 0 l 5
+ 306 505 l 5
+ 70 505 l 5
+362 930 m 5
+ 442 1010 l 5
+ 582 920 l 5
+ 362 780 l 5
+ 142 920 l 5
+ 282 1010 l 5
+ 362 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: zcaron
+Encoding: 382 382 330
+GlifName: zcaron
+Width: 550
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+195 175 m 1
+ 505 175 l 1
+ 505 0 l 1
+ 15 0 l 1
+ 195 175 l 1
+65 460 m 1
+ 545 460 l 1
+ 345 285 l 1
+ 65 285 l 1
+ 65 460 l 1
+365 460 m 1
+ 545 460 l 1
+ 225 0 l 1
+ 15 0 l 1
+ 365 460 l 1
+305 681 m 1
+ 385 760 l 5
+ 525 670 l 1
+ 305 530 l 1
+ 85 670 l 1
+ 225 760 l 1
+ 305 681 l 1
+EndSplineSet
+EndChar
+
+StartChar: Ydieresis
+Encoding: 376 376 331
+GlifName: Y_dieresis
+Width: 720
+VWidth: 0
+Flags: HM
+LayerCount: 2
+Fore
+SplineSet
+248 360 m 1
+ 473 360 l 1
+ 473 0 l 1
+ 248 0 l 1
+ 248 360 l 1
+470 700 m 1
+ 725 700 l 1
+ 360 84 l 1
+ -5 700 l 1
+ 250 700 l 1
+ 360 474 l 1
+ 470 700 l 1
+397 895 m 0
+ 397 958 445 1010 515 1010 c 0
+ 585 1010 633 958 633 895 c 0
+ 633 832 585 780 515 780 c 0
+ 445 780 397 832 397 895 c 0
+87 895 m 4
+ 87 958 135 1010 205 1010 c 4
+ 275 1010 323 958 323 895 c 4
+ 323 832 275 780 205 780 c 4
+ 135 780 87 832 87 895 c 4
+EndSplineSet
+EndChar
+
+StartChar: Scaron
+Encoding: 352 352 332
+GlifName: S_caron
+Width: 672
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+178 266 m 1
+ 230 190 273 158 340 158 c 0
+ 380 158 404 169 404 199 c 0
+ 404 239 352 247 272 280 c 0
+ 204 308 74 363 74 510 c 0
+ 74 636 183 720 347 720 c 0
+ 520 720 599 635 627 564 c 1
+ 464 474 l 1
+ 434 522 398 539 358 539 c 0
+ 322 539 298 525 298 504 c 0
+ 298 468 376 452 458 423 c 0
+ 570 384 637 317 637 200 c 0
+ 637 43 515 -30 336 -30 c 0
+ 201 -30 74 43 30 158 c 1
+ 178 266 l 1
+347 930 m 1
+ 427 1010 l 1
+ 567 920 l 1
+ 347 780 l 1
+ 127 920 l 1
+ 267 1010 l 1
+ 347 930 l 1
+EndSplineSet
+EndChar
+
+StartChar: scaron
+Encoding: 353 353 333
+GlifName: scaron
+Width: 488
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 183 m 1
+ 180 121 233 117 250 117 c 4
+ 263 117 275 118 275 131 c 4
+ 275 156 195 159 141 186 c 0
+ 82 216 34 247 34 329 c 0
+ 34 425 124 470 238 470 c 0
+ 321 470 386 446 454 415 c 1
+ 406 282 l 1
+ 361 320 291 339 254 339 c 0
+ 227 339 219 335 219 324 c 0
+ 219 302 279 293 341 270 c 0
+ 406 246 468 217 468 130 c 0
+ 468 21 404 -25 285 -25 c 0
+ 180 -25 99 1 15 46 c 1
+ 78 183 l 1
+238 661 m 1
+ 318 741 l 1
+ 458 651 l 1
+ 238 511 l 1
+ 18 651 l 1
+ 158 741 l 1
+ 238 661 l 1
+EndSplineSet
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 334
+GlifName: L_slash
+Width: 575
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 0 m 1
+ 222 185 l 1
+ 575 185 l 1
+ 575 0 l 1
+ 222 0 l 1
+70 700 m 1
+ 290 700 l 5
+ 290 0 l 5
+ 70 0 l 1
+ 70 700 l 1
+5 290 m 1
+ -45 375 l 5
+ 375 665 l 5
+ 425 580 l 1
+ 5 290 l 1
+EndSplineSet
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 335
+GlifName: lslash
+Width: 295
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 780 m 5
+ 245 780 l 5
+ 245 0 l 5
+ 50 0 l 5
+ 50 780 l 5
+-15 290 m 1
+ -65 375 l 5
+ 315 635 l 5
+ 365 550 l 1
+ -15 290 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0218
+Encoding: 536 536 336
+GlifName: uni0218
+Width: 672
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+178 266 m 1
+ 230 190 273 158 340 158 c 0
+ 380 158 404 169 404 199 c 0
+ 404 239 352 247 272 280 c 0
+ 204 308 74 363 74 510 c 0
+ 74 636 183 720 347 720 c 0
+ 520 720 599 635 627 564 c 1
+ 464 474 l 1
+ 434 522 398 539 358 539 c 0
+ 322 539 298 525 298 504 c 0
+ 298 468 376 452 458 423 c 0
+ 570 384 637 317 637 200 c 0
+ 637 43 515 -30 336 -30 c 0
+ 201 -30 74 43 30 158 c 1
+ 178 266 l 1
+242 -70 m 5
+ 438 -104 l 1
+ 302 -354 l 1
+ 154 -329 l 1
+ 242 -70 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0219
+Encoding: 537 537 337
+GlifName: uni0219
+Width: 488
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 183 m 1
+ 180 121 233 117 250 117 c 4
+ 263 117 275 118 275 131 c 4
+ 275 156 195 159 141 186 c 0
+ 82 216 34 247 34 329 c 0
+ 34 425 124 470 238 470 c 0
+ 321 470 386 446 454 415 c 1
+ 406 282 l 1
+ 361 320 291 339 254 339 c 0
+ 227 339 219 335 219 324 c 0
+ 219 302 279 293 341 270 c 0
+ 406 246 468 217 468 130 c 0
+ 468 21 404 -25 285 -25 c 0
+ 180 -25 99 1 15 46 c 1
+ 78 183 l 1
+192 -65 m 5
+ 386 -99 l 1
+ 252 -349 l 1
+ 104 -324 l 1
+ 192 -65 l 5
+EndSplineSet
+EndChar
+
+StartChar: pi
+Encoding: 960 960 338
+GlifName: pi
+Width: 640
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 430 m 1
+ 270 430 l 1
+ 270 0 l 1
+ 90 0 l 1
+ 90 430 l 1
+30 460 m 1
+ 600 460 l 1
+ 600 305 l 1
+ 30 305 l 1
+ 30 460 l 1
+340 430 m 1
+ 520 430 l 1
+ 520 201 l 6
+ 520 135 543 131 573 131 c 5
+ 573 -9 l 5
+ 419 -9 340 -8 340 121 c 6
+ 340 430 l 1
+EndSplineSet
+EndChar
+
+StartChar: trademark
+Encoding: 8482 8482 339
+GlifName: trademark
+Width: 795
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+28 602 m 1
+ 28 700 l 1
+ 338 700 l 1
+ 338 602 l 1
+ 238 602 l 1
+ 238 350 l 1
+ 128 350 l 1
+ 128 602 l 1
+ 28 602 l 1
+626 588 m 1
+ 708 718 l 1
+ 773 350 l 1
+ 656 350 l 1
+ 626 588 l 1
+398 718 m 1
+ 480 588 l 5
+ 450 350 l 1
+ 333 350 l 1
+ 398 718 l 1
+708 718 m 1
+ 708 585 l 1
+ 553 382 l 1
+ 398 585 l 1
+ 398 718 l 1
+ 553 528 l 1
+ 708 718 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2219
+Encoding: 8729 8729 340
+GlifName: uni2219
+Width: 336
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 460 m 4
+ 50 523 98 575 168 575 c 4
+ 238 575 286 523 286 460 c 4
+ 286 397 238 345 168 345 c 4
+ 98 345 50 397 50 460 c 4
+EndSplineSet
+EndChar
+
+StartChar: agrave.alt
+Encoding: 65537 -1 341
+GlifName: agrave.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+163 695 m 5
+ 303 755 l 5
+ 453 595 l 5
+ 343 545 l 5
+ 163 695 l 5
+EndSplineSet
+EndChar
+
+StartChar: aacute.alt
+Encoding: 65538 -1 342
+GlifName: aacute.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+448 695 m 5
+ 268 545 l 5
+ 158 595 l 5
+ 308 755 l 5
+ 448 695 l 5
+EndSplineSet
+EndChar
+
+StartChar: acircumflex.alt
+Encoding: 65539 -1 343
+GlifName: acircumflex.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+323 610 m 5
+ 243 530 l 5
+ 103 620 l 5
+ 323 760 l 5
+ 543 620 l 5
+ 403 530 l 5
+ 323 610 l 5
+EndSplineSet
+EndChar
+
+StartChar: atilde.alt
+Encoding: 65540 -1 344
+GlifName: atilde.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+128 617 m 1
+ 138 666 182 719 257 719 c 0
+ 324 719 343 664 401 664 c 0
+ 430 664 452 688 472 720 c 1
+ 558 627 l 1
+ 542 590 477 534 407 534 c 0
+ 352 534 308 591 256 591 c 4
+ 220 591 211 555 211 540 c 1
+ 128 617 l 1
+EndSplineSet
+EndChar
+
+StartChar: adieresis.alt
+Encoding: 65541 -1 345
+GlifName: adieresis.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+360 655 m 4
+ 360 718 408 770 478 770 c 4
+ 548 770 596 718 596 655 c 4
+ 596 592 548 540 478 540 c 4
+ 408 540 360 592 360 655 c 4
+90 655 m 0
+ 90 718 138 770 208 770 c 0
+ 278 770 326 718 326 655 c 0
+ 326 592 278 540 208 540 c 0
+ 138 540 90 592 90 655 c 0
+EndSplineSet
+EndChar
+
+StartChar: aring.alt
+Encoding: 65542 -1 346
+GlifName: aring.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+228 627 m 0
+ 228 701 286 752 366 752 c 0
+ 446 752 506 701 506 627 c 0
+ 506 553 446 502 366 502 c 0
+ 286 502 228 553 228 627 c 0
+323 627 m 0
+ 323 599 341 583 366 583 c 0
+ 391 583 410 599 410 627 c 0
+ 410 655 391 672 366 672 c 0
+ 341 672 323 655 323 627 c 0
+EndSplineSet
+EndChar
+
+StartChar: amacron.alt
+Encoding: 65543 -1 347
+GlifName: amacron.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+138 535 m 1
+ 138 700 l 1
+ 523 700 l 1
+ 523 535 l 1
+ 138 535 l 1
+EndSplineSet
+EndChar
+
+StartChar: abreve.alt
+Encoding: 65544 -1 348
+GlifName: abreve.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+155 700 m 1
+ 271 700 l 5
+ 271 659 303 650 323 650 c 4
+ 343 650 375 659 375 700 c 5
+ 491 700 l 1
+ 491 611 428 550 323 550 c 0
+ 218 550 155 611 155 700 c 1
+EndSplineSet
+EndChar
+
+StartChar: aogonek.alt
+Encoding: 65545 -1 349
+GlifName: aogonek.alt
+Width: 645
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 460 m 1
+ 595 460 l 1
+ 595 0 l 1
+ 400 0 l 1
+ 400 460 l 1
+30 230 m 0
+ 30 399 138 480 243 480 c 4
+ 368 480 436 379 436 230 c 0
+ 436 81 368 -20 243 -20 c 0
+ 138 -20 30 61 30 230 c 0
+236 230 m 0
+ 236 179 273 150 318 150 c 0
+ 358 150 400 174 400 230 c 0
+ 400 286 358 310 318 310 c 0
+ 273 310 236 281 236 230 c 0
+555 -100 m 1
+ 588 -180 l 1
+ 573 -200 543 -220 480 -220 c 0
+ 426 -220 367 -189 367 -120 c 1
+ 477 -90 l 1
+ 477 -108 485 -120 505 -120 c 0
+ 521 -120 541 -113 555 -100 c 1
+477 -90 m 1
+ 367 -120 l 1
+ 367 -51 439 -11 509 25 c 1
+ 550 0 l 1
+ 498 -32 477 -63 477 -90 c 1
+EndSplineSet
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 350
+GlifName: dagger
+Width: 670
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 540 m 5
+ 580 540 l 5
+ 580 385 l 5
+ 90 385 l 5
+ 90 540 l 5
+245 700 m 5
+ 425 700 l 5
+ 425 -150 l 5
+ 245 -150 l 5
+ 245 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 351
+GlifName: daggerdbl
+Width: 670
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+90 180 m 5
+ 580 180 l 5
+ 580 25 l 5
+ 90 25 l 5
+ 90 180 l 5
+90 540 m 1
+ 580 540 l 1
+ 580 385 l 1
+ 90 385 l 1
+ 90 540 l 1
+245 700 m 1
+ 425 700 l 1
+ 425 -150 l 1
+ 245 -150 l 1
+ 245 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: ellipsis
+Encoding: 8230 8230 352
+GlifName: ellipsis
+Width: 940
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 85 m 4
+ 50 148 98 200 168 200 c 4
+ 238 200 286 148 286 85 c 4
+ 286 22 238 -30 168 -30 c 4
+ 98 -30 50 22 50 85 c 4
+350 85 m 4
+ 350 148 398 200 468 200 c 4
+ 538 200 586 148 586 85 c 4
+ 586 22 538 -30 468 -30 c 4
+ 398 -30 350 22 350 85 c 4
+650 85 m 4
+ 650 148 698 200 768 200 c 4
+ 838 200 886 148 886 85 c 4
+ 886 22 838 -30 768 -30 c 4
+ 698 -30 650 22 650 85 c 4
+EndSplineSet
+EndChar
+
+StartChar: uniFF10
+Encoding: 65296 65296 353
+GlifName: uniF_F_10
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+229 350 m 4
+ 229 237 271 170 329 170 c 4
+ 387 170 429 237 429 350 c 4
+ 429 463 387 530 329 530 c 4
+ 271 530 229 463 229 350 c 4
+19 350 m 4
+ 19 589 145 715 329 715 c 4
+ 523 715 639 589 639 350 c 4
+ 639 111 523 -15 329 -15 c 4
+ 145 -15 19 111 19 350 c 4
+EndSplineSet
+EndChar
+
+StartChar: uniFF11
+Encoding: 65297 65297 354
+GlifName: uniF_F_11
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+105 459 m 5
+ 105 642 l 5
+ 500 715 l 5
+ 500 0 l 5
+ 290 0 l 5
+ 290 500 l 5
+ 105 459 l 5
+EndSplineSet
+EndChar
+
+StartChar: uniFF12
+Encoding: 65298 65298 355
+GlifName: uniF_F_12
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+5 0 m 1
+ 306 305 l 2
+ 368 372 406 410 406 465 c 4
+ 406 500 385 531 334 531 c 0
+ 284 531 250 486 250 430 c 1
+ 35 430 l 1
+ 35 579 137 716 342 716 c 0
+ 527 716 634 600 634 481 c 0
+ 634 404 592 346 528 297 c 2
+ 402 200 l 1
+ 659 200 l 1
+ 659 0 l 1
+ 5 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFF13
+Encoding: 65299 65299 356
+GlifName: uniF_F_13
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+275 335 m 5
+ 275 424 l 5
+ 345 424 397 460 397 501 c 4
+ 397 527 377 545 334 545 c 4
+ 289 545 258 517 258 476 c 5
+ 57 476 l 5
+ 57 610 165 715 335 715 c 4
+ 515 715 613 630 613 516 c 4
+ 613 382 460 335 275 335 c 5
+325 -20 m 4
+ 135 -20 27 111 27 245 c 5
+ 243 245 l 5
+ 243 174 290 150 335 150 c 4
+ 380 150 417 164 417 215 c 4
+ 417 256 385 295 275 295 c 5
+ 275 399 l 5
+ 490 399 633 339 633 195 c 4
+ 633 71 525 -20 325 -20 c 4
+EndSplineSet
+EndChar
+
+StartChar: uniFF14
+Encoding: 65300 65300 357
+GlifName: uniF_F_14
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+8 115 m 1
+ 188 265 l 1
+ 451 265 l 0
+ 468 300 l 0
+ 646 300 l 1
+ 646 115 l 1
+ 8 115 l 1
+208 195 m 5
+ 8 115 l 1
+ 376 700 l 25
+ 556 700 l 1
+ 556 0 l 1
+ 326 0 l 1
+ 326 151 l 0
+ 356 162 l 0
+ 356 421 l 1
+ 208 195 l 5
+EndSplineSet
+EndChar
+
+StartChar: uniFF15
+Encoding: 65301 65301 358
+GlifName: uniF_F_15
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+626 220 m 4
+ 626 51 456 -15 321 -15 c 4
+ 192 -15 98 12 22 42 c 5
+ 84 236 l 5
+ 155 196 224 185 261 185 c 4
+ 336 185 383 199 383 250 c 4
+ 383 301 316 310 261 310 c 4
+ 214 310 124 304 53 277 c 5
+ 212 373 l 5
+ 268 433 332 445 411 445 c 4
+ 516 445 626 369 626 220 c 4
+313 510 m 5
+ 252 357 l 5
+ 53 277 l 5
+ 154 700 l 5
+ 604 700 l 5
+ 604 510 l 5
+ 313 510 l 5
+EndSplineSet
+EndChar
+
+StartChar: uniFF16
+Encoding: 65302 65302 359
+GlifName: uniF_F_16
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+235 255 m 4
+ 235 199 276 165 329 165 c 4
+ 382 165 423 199 423 255 c 4
+ 423 311 382 347 329 347 c 4
+ 276 347 235 311 235 255 c 4
+301 695 m 5
+ 580 695 l 5
+ 349 464 l 5
+ 297 437 l 5
+ 341 475 367 483 420 483 c 4
+ 519 483 642 404 642 255 c 4
+ 642 66 499 -20 329 -20 c 4
+ 159 -20 16 66 16 255 c 4
+ 16 342 63 412 120 480 c 6
+ 301 695 l 5
+EndSplineSet
+EndChar
+
+StartChar: uniFF17
+Encoding: 65303 65303 360
+GlifName: uniF_F_17
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+27 495 m 1
+ 27 700 l 1
+ 647 700 l 1
+ 307 0 l 5
+ 68 0 l 5
+ 326 495 l 1
+ 27 495 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFF18
+Encoding: 65304 65304 361
+GlifName: uniF_F_18
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+87 531 m 4
+ 87 660 210 720 350 720 c 4
+ 490 720 613 660 613 531 c 4
+ 613 392 465 335 350 335 c 4
+ 235 335 87 392 87 531 c 4
+293 511 m 4
+ 293 475 315 450 350 450 c 4
+ 385 450 407 475 407 511 c 4
+ 407 547 385 570 350 570 c 4
+ 315 570 293 547 293 511 c 4
+62 190 m 4
+ 62 349 235 400 350 400 c 4
+ 465 400 638 349 638 190 c 4
+ 638 51 495 -20 350 -20 c 4
+ 205 -20 62 51 62 190 c 4
+283 225 m 4
+ 283 179 310 155 350 155 c 4
+ 390 155 417 179 417 225 c 4
+ 417 261 390 290 350 290 c 4
+ 310 290 283 261 283 225 c 4
+EndSplineSet
+EndChar
+
+StartChar: uniFF19
+Encoding: 65305 65305 362
+GlifName: uniF_F_19
+Width: 660
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+423 445 m 4
+ 423 501 382 535 329 535 c 4
+ 276 535 235 501 235 445 c 4
+ 235 389 276 353 329 353 c 4
+ 382 353 423 389 423 445 c 4
+357 5 m 5
+ 78 5 l 5
+ 309 236 l 5
+ 361 263 l 5
+ 317 225 291 217 238 217 c 4
+ 139 217 16 296 16 445 c 4
+ 16 634 159 720 329 720 c 4
+ 499 720 642 634 642 445 c 4
+ 642 358 595 288 538 220 c 6
+ 357 5 l 5
+EndSplineSet
+EndChar
+
+StartChar: caron
+Encoding: 711 711 363
+GlifName: caron
+Width: 480
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+240 689 m 1
+ 320 769 l 1
+ 460 679 l 1
+ 240 539 l 1
+ 20 679 l 1
+ 160 769 l 1
+ 240 689 l 1
+EndSplineSet
+EndChar
+
+StartChar: napostrophe
+Encoding: 329 329 364
+GlifName: napostrophe
+Width: 815
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+455 460 m 5
+ 455 0 l 5
+ 260 0 l 5
+ 260 460 l 5
+ 455 460 l 5
+560 280 m 6
+ 560 321 552 346 512 346 c 4
+ 477 346 455 326 455 280 c 5
+ 429 270 l 5
+ 429 379 472 471 597 471 c 4
+ 722 471 765 409 765 300 c 6
+ 765 0 l 5
+ 560 0 l 5
+ 560 280 l 6
+100 700 m 1
+ 295 700 l 1
+ 190 430 l 5
+ 50 430 l 5
+ 100 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: IJ
+Encoding: 306 306 365
+GlifName: I_J_
+Width: 705
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+245 -39 m 1
+ 269 -54 301 -70 327 -70 c 0
+ 357 -70 390 -51 390 5 c 2
+ 390 700 l 1
+ 635 700 l 5
+ 635 -50 l 6
+ 635 -199 501 -250 357 -250 c 0
+ 264 -250 179 -220 124 -190 c 1
+ 245 -39 l 1
+70 700 m 5
+ 295 700 l 5
+ 295 0 l 5
+ 70 0 l 5
+ 70 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: ij
+Encoding: 307 307 366
+GlifName: ij
+Width: 566
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+315 622 m 0
+ 315 681 363 720 423 720 c 0
+ 483 720 531 681 531 622 c 0
+ 531 563 483 524 423 524 c 0
+ 363 524 315 563 315 622 c 0
+237 -55 m 5
+ 250 -70 263 -80 282 -80 c 4
+ 312 -80 330 -61 330 -25 c 6
+ 330 460 l 5
+ 515 460 l 5
+ 515 -80 l 6
+ 515 -179 451 -250 317 -250 c 4
+ 234 -250 191 -213 166 -193 c 5
+ 237 -55 l 5
+35 622 m 0
+ 35 681 83 720 143 720 c 0
+ 203 720 251 681 251 622 c 0
+ 251 563 203 524 143 524 c 0
+ 83 524 35 563 35 622 c 0
+49 460 m 5
+ 236 460 l 5
+ 236 0 l 5
+ 49 0 l 5
+ 49 460 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0237
+Encoding: 567 567 367
+GlifName: uni0237
+Width: 285
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-43 -55 m 5
+ -30 -70 -17 -80 2 -80 c 4
+ 32 -80 50 -61 50 -25 c 6
+ 50 460 l 5
+ 235 460 l 5
+ 235 -80 l 6
+ 235 -179 171 -250 37 -250 c 4
+ -46 -250 -89 -213 -114 -193 c 5
+ -43 -55 l 5
+EndSplineSet
+EndChar
+
+StartChar: Sacute
+Encoding: 346 346 368
+GlifName: S_acute
+Width: 672
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+178 266 m 1
+ 230 190 273 158 340 158 c 0
+ 380 158 404 169 404 199 c 0
+ 404 239 352 247 272 280 c 0
+ 204 308 74 363 74 510 c 0
+ 74 636 183 720 347 720 c 0
+ 520 720 599 635 627 564 c 1
+ 464 474 l 1
+ 434 522 398 539 358 539 c 0
+ 322 539 298 525 298 504 c 0
+ 298 468 376 452 458 423 c 0
+ 570 384 637 317 637 200 c 0
+ 637 43 515 -30 336 -30 c 0
+ 201 -30 74 43 30 158 c 1
+ 178 266 l 1
+527 930 m 5
+ 347 780 l 5
+ 237 830 l 5
+ 387 990 l 5
+ 527 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: sacute
+Encoding: 347 347 369
+GlifName: sacute
+Width: 488
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 183 m 1
+ 180 121 233 117 250 117 c 4
+ 263 117 275 118 275 131 c 4
+ 275 156 195 159 141 186 c 0
+ 82 216 34 247 34 329 c 0
+ 34 425 124 470 238 470 c 0
+ 321 470 386 446 454 415 c 1
+ 406 282 l 1
+ 361 320 291 339 254 339 c 0
+ 227 339 219 335 219 324 c 0
+ 219 302 279 293 341 270 c 0
+ 406 246 468 217 468 130 c 0
+ 468 21 404 -25 285 -25 c 0
+ 180 -25 99 1 15 46 c 1
+ 78 183 l 1
+418 681 m 5
+ 238 531 l 5
+ 128 581 l 5
+ 278 741 l 5
+ 418 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: Scircumflex
+Encoding: 348 348 370
+GlifName: S_circumflex
+Width: 672
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+178 266 m 1
+ 230 190 273 158 340 158 c 0
+ 380 158 404 169 404 199 c 0
+ 404 239 352 247 272 280 c 0
+ 204 308 74 363 74 510 c 0
+ 74 636 183 720 347 720 c 0
+ 520 720 599 635 627 564 c 1
+ 464 474 l 1
+ 434 522 398 539 358 539 c 0
+ 322 539 298 525 298 504 c 0
+ 298 468 376 452 458 423 c 0
+ 570 384 637 317 637 200 c 0
+ 637 43 515 -30 336 -30 c 0
+ 201 -30 74 43 30 158 c 1
+ 178 266 l 1
+347 860 m 5
+ 267 780 l 5
+ 127 870 l 5
+ 347 1010 l 5
+ 567 870 l 5
+ 427 780 l 5
+ 347 860 l 5
+EndSplineSet
+EndChar
+
+StartChar: scircumflex
+Encoding: 349 349 371
+GlifName: scircumflex
+Width: 488
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 183 m 1
+ 180 121 233 117 250 117 c 4
+ 263 117 275 118 275 131 c 4
+ 275 156 195 159 141 186 c 0
+ 82 216 34 247 34 329 c 0
+ 34 425 124 470 238 470 c 0
+ 321 470 386 446 454 415 c 1
+ 406 282 l 1
+ 361 320 291 339 254 339 c 0
+ 227 339 219 335 219 324 c 0
+ 219 302 279 293 341 270 c 0
+ 406 246 468 217 468 130 c 0
+ 468 21 404 -25 285 -25 c 0
+ 180 -25 99 1 15 46 c 1
+ 78 183 l 1
+258 611 m 5
+ 178 531 l 5
+ 38 621 l 5
+ 258 761 l 5
+ 478 621 l 5
+ 338 531 l 5
+ 258 611 l 5
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
