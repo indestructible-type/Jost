@@ -37,7 +37,7 @@ Redesigned and rebuilt to work as an OpenType Variable Font. Added Hairline, Sem
 
 Web Use
 -------
-To use on your webpage, simply put the following line of code into the `<head>` of the webpage you'd like to display Renner* and use `font-family: 'Renner*';` in your css.
+To use on your webpage, simply put the following line of code into the `<head>` of the webpage you'd like to display Renner* and use `font-family: 'Renner*';` in your css.<br>
 `<link rel="stylesheet" href="https://indestructibletype-fonthosting.github.io/renner.css" type="text/css" charset="utf-8" />`
 
 Building the Variable Font.
