@@ -33,7 +33,9 @@ Added alternative a, fixed some kerning, fixed overshoot in bolder weights, adde
 <b>v2.3 </b>
 Fixed missing kerning information on Book, Medium, and Bold weights<br>
 <b>v3.0 </b>
-Redesigned and rebuilt to work as an OpenType Variable Font. Added Hairline, Semi, and Heavy weights. Added tabular number alternatives. Improved language support. General fixing of things.
+Redesigned and rebuilt to work as an OpenType Variable Font. Added Hairline, Semi, and Heavy weights. Added tabular number alternatives. Improved language support. General fixing of things.<br>
+<b>v3.1 </b>
+Fixed metadata and metric issues
 
 Web Use
 -------
