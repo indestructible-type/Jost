@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: Renner-it-Hairline
-FullName: Renner* Hairline
-FamilyName: Renner* Hairline
-Weight: Thin
+FontName: Jost-Hairline
+FullName: Jost* 100 Hairline
+FamilyName: Jost* Hairline
+Weight: Hairline
 Copyright: This typeface is licensed under the SIL open font license.
 UComments: "2016-6-10: Created with FontForge (http://fontforge.org)"
-Version: 003.000
+Version: 003.200
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1528481814
+ModificationTime: 1533666203
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -44,8 +44,8 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "alt a" { "alt a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Tabular Numbers lookup" { "Tabular Numbers lookup"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 0" { "'tnum' Tabular Numbers lookup 0 subtable"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 1" { "'ss01' Style Set 1 in Latin lookup 1 subtable"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -71,7 +71,7 @@ KernClass2: 16 14 "kernin like nobodys business"
  13 V W backslash
  9 seven X Z
  13 Y Ydieresis T
- 1 a
+ 3 a s
  344 c e g o q ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron dcaron emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent omacron obreve oe a.alt agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt amacron.alt abreve.alt aogonek.alt
  67 m n p r ntilde dotlessi nacute uni0146 ncaron racute uni0157 rcaron
  1 u
@@ -79,14 +79,14 @@ KernClass2: 16 14 "kernin like nobodys business"
  12 x z multiply
  15 j jcircumflex J
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -15 {} 30 {} 0 {} 40 {} -100 {} -80 {} -70 {} -70 {} 0 {} -50 {} 0 {} 0 {} 0 {} -150 {} -30 {} 0 {} 0 {} 0 {} -100 {} -50 {} -50 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} -30 {} -30 {} -30 {} -30 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} -90 {} 30 {} -30 {} -50 {} 0 {} -70 {} 0 {} 0 {} 0 {} -20 {} -50 {} 50 {} 0 {} 0 {} 0 {} -15 {} 0 {} -15 {} -15 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 30 {} 0 {} 30 {} 0 {} -30 {} 0 {} -30 {} -50 {} 15 {} 0 {} 0 {} 0 {} -30 {} 0 {} -30 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} -80 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} -30 {} -50 {} 0 {} -80 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -15 {} -15 {} 0 {} 0 {} -30 {} 0 {} 0 {} -50 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} -15 {} 0 {} -15 {} 0 {} -15 {} 0 {} -10 {} 15 {} 30 {} 0 {} 0 {} 0 {} -60 {} 15 {} -30 {} -80 {} -30 {} 0 {} -15 {} 0 {} 0 {} 30 {} 30 {} 0 {} 0 {} 0 {} -100 {} -50 {} 30 {} 30 {} 30 {} -100 {} -100 {} -80 {} -80 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {} 0 {} -30 {} 0 {} 0 {} -50 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {}
-LangName: 1033 "" "" "Hairline" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016, indestructible-type.github.io,+AAoA-with Reserved Font Name Renner*.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Renner*"
+LangName: 1033 "" "" "100 Hairline" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016, indestructible-type.github.io,+AAoA-with Reserved Font Name Renner*.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Jost*"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 4
+WinInfo: 80 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +107,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65546 372
+BeginChars: 65546 377
 
 StartChar: H
 Encoding: 72 72 0
@@ -590,7 +590,7 @@ SplineSet
  355 406 316 460 233 460 c 4
  167 460 121 430 84 395 c 5
 EndSplineSet
-Substitution2: "alt a" a.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" a.alt
 EndChar
 
 StartChar: X
@@ -1780,7 +1780,7 @@ SplineSet
  495 151 414 -10 275 -10 c 4
  136 -10 55 151 55 350 c 4
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF10
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF10
 EndChar
 
 StartChar: one
@@ -1800,7 +1800,7 @@ SplineSet
  265 691 l 5
  95 654 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF11
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF11
 EndChar
 
 StartChar: two
@@ -1826,7 +1826,7 @@ SplineSet
  479 0 l 5
  25 0 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF12
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF12
 EndChar
 
 StartChar: four
@@ -1856,7 +1856,7 @@ SplineSet
  398 666 l 5
  37 140 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF14
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF14
 EndChar
 
 StartChar: slash
@@ -1923,7 +1923,7 @@ SplineSet
  441 291 348 365 258 365 c 4
  168 365 75 291 75 185 c 4
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF18
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF18
 EndChar
 
 StartChar: nine
@@ -1951,7 +1951,7 @@ SplineSet
  486 423 457 358 430 321 c 6
  206 0 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF19
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF19
 EndChar
 
 StartChar: three
@@ -1982,7 +1982,7 @@ SplineSet
  353 368 486 304 486 175 c 4
  486 66 403 -10 278 -10 c 4
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF13
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF13
 EndChar
 
 StartChar: five
@@ -2013,7 +2013,7 @@ SplineSet
  507 690 l 5
  184 690 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF15
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF15
 EndChar
 
 StartChar: six
@@ -2041,7 +2041,7 @@ SplineSet
  50 277 79 342 106 379 c 6
  330 700 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF16
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF16
 EndChar
 
 StartChar: seven
@@ -2061,7 +2061,7 @@ SplineSet
  489 690 l 5
  35 690 l 5
 EndSplineSet
-Substitution2: "Tabular Numbers lookup" uniFF17
+Substitution2: "'tnum' Tabular Numbers lookup 0 subtable" uniFF17
 EndChar
 
 StartChar: plus
@@ -6153,7 +6153,7 @@ SplineSet
  270 550 l 5
  98 707 l 5
 EndSplineSet
-Substitution2: "alt a" agrave.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" agrave.alt
 EndChar
 
 StartChar: aacute
@@ -6191,7 +6191,7 @@ SplineSet
  340 715 l 5
  348 707 l 5
 EndSplineSet
-Substitution2: "alt a" aacute.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" aacute.alt
 EndChar
 
 StartChar: acircumflex
@@ -6231,7 +6231,7 @@ SplineSet
  386 540 l 1
  233 675 l 1
 EndSplineSet
-Substitution2: "alt a" acircumflex.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" acircumflex.alt
 EndChar
 
 StartChar: atilde
@@ -6273,7 +6273,7 @@ SplineSet
  121 631 106 605 106 580 c 5
  98 581 l 5
 EndSplineSet
-Substitution2: "alt a" atilde.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" atilde.alt
 EndChar
 
 StartChar: adieresis
@@ -6316,7 +6316,7 @@ SplineSet
  154 554 149 550 143 550 c 4
  137 550 132 554 132 561 c 4
 EndSplineSet
-Substitution2: "alt a" adieresis.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" adieresis.alt
 EndChar
 
 StartChar: aring
@@ -6359,7 +6359,7 @@ SplineSet
  325 683 281 720 233 720 c 4
  185 720 141 683 141 630 c 4
 EndSplineSet
-Substitution2: "alt a" aring.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" aring.alt
 EndChar
 
 StartChar: germandbls
@@ -7128,11 +7128,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-90 780 m 1
- 90 -220 l 1
+90 -220 m 5
  80 -220 l 1
  80 780 l 1
- 90 780 l 1
+ 90 780 l 5
+ 90 -220 l 5
 496 230 m 0
  496 83 403 -10 283 -10 c 0
  160 -10 85 111 85 230 c 0
@@ -7246,7 +7246,7 @@ SplineSet
  408 550 l 5
  58 550 l 5
 EndSplineSet
-Substitution2: "alt a" amacron.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" amacron.alt
 EndChar
 
 StartChar: breve
@@ -7340,7 +7340,7 @@ SplineSet
  381 611 328 540 223 540 c 0
  118 540 65 611 65 680 c 1
 EndSplineSet
-Substitution2: "alt a" abreve.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" abreve.alt
 EndChar
 
 StartChar: Aogonek
@@ -7425,7 +7425,7 @@ SplineSet
  365 -0 l 1
  297 -32 215 -83 215 -140 c 1
 EndSplineSet
-Substitution2: "alt a" aogonek.alt
+Substitution2: "'ss01' Style Set 1 in Latin lookup 1 subtable" aogonek.alt
 EndChar
 
 StartChar: Cacute
@@ -11148,6 +11148,140 @@ SplineSet
  357 537 l 1
  350 530 l 1
  197 665 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni1E9E
+Encoding: 7838 7838 372
+Width: 666
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+80 416 m 1
+ 90 416 l 1
+ 90 0 l 1
+ 80 0 l 1
+ 80 416 l 1
+348 362 m 1
+ 348 370 l 1
+ 475 370 556 433 556 534 c 0
+ 556 640 457 700 352 700 c 4
+ 184 700 90 587 90 416 c 1
+ 80 416 l 1
+ 80 595 177 710 352 710 c 4
+ 462 710 566 648 566 534 c 0
+ 566 425 483 362 348 362 c 1
+388 -10 m 0
+ 273 -10 185 76 185 185 c 1
+ 195 185 l 1
+ 195 81 278 0 388 0 c 0
+ 498 0 576 82 576 185 c 0
+ 576 300 475 358 348 358 c 1
+ 348 366 l 1
+ 483 366 586 304 586 185 c 0
+ 586 76 503 -10 388 -10 c 0
+EndSplineSet
+EndChar
+
+StartChar: Zacute
+Encoding: 377 377 373
+Width: 535
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+40 689 m 1
+ 40 700 l 1
+ 520 700 l 1
+ 42 11 l 1
+ 510 11 l 1
+ 510 0 l 1
+ 20 0 l 1
+ 498 689 l 1
+ 40 689 l 1
+425.5 925 m 5
+ 252.5 768 l 5
+ 247.5 773 l 5
+ 417.5 933 l 5
+ 425.5 925 l 5
+EndSplineSet
+EndChar
+
+StartChar: zacute
+Encoding: 378 378 374
+Width: 430
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+379 450 m 1
+ 40 450 l 1
+ 40 460 l 1
+ 400 460 l 1
+ 41 10 l 1
+ 410 10 l 1
+ 410 0 l 1
+ 20 0 l 1
+ 379 450 l 1
+365.5 687 m 5
+ 192.5 530 l 5
+ 187.5 535 l 5
+ 357.5 695 l 5
+ 365.5 687 l 5
+EndSplineSet
+EndChar
+
+StartChar: Zdotaccent
+Encoding: 379 379 375
+Width: 535
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+40 689 m 1
+ 40 700 l 1
+ 520 700 l 1
+ 42 11 l 1
+ 510 11 l 1
+ 510 0 l 1
+ 20 0 l 1
+ 498 689 l 1
+ 40 689 l 1
+269 779 m 0
+ 269 786 274 790 280 790 c 0
+ 286 790 291 786 291 779 c 0
+ 291 772 286 768 280 768 c 0
+ 274 768 269 772 269 779 c 0
+EndSplineSet
+EndChar
+
+StartChar: zdotaccent
+Encoding: 380 380 376
+Width: 430
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+379 450 m 1
+ 40 450 l 1
+ 40 460 l 1
+ 400 460 l 1
+ 41 10 l 1
+ 410 10 l 1
+ 410 0 l 1
+ 20 0 l 1
+ 379 450 l 1
+209 571 m 4
+ 209 578 214 582 220 582 c 4
+ 226 582 231 578 231 571 c 4
+ 231 564 226 560 220 560 c 4
+ 214 560 209 564 209 571 c 4
 EndSplineSet
 EndChar
 EndChars

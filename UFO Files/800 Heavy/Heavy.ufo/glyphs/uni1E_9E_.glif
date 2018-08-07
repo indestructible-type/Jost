@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E9E" format="1">
+  <advance width="935"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="80" y="354.5" type="line"/>
+      <point x="271" y="323.5" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="532.5" y="345" type="curve"/>
+      <point x="532.5" y="419.5" type="line"/>
+      <point x="607" y="419.5"/>
+      <point x="650" y="447"/>
+      <point x="650" y="497.5" type="curve" smooth="yes"/>
+      <point x="650" y="540"/>
+      <point x="607.5" y="566.5"/>
+      <point x="507.5" y="566.5" type="curve" smooth="yes"/>
+      <point x="382.5" y="566.5"/>
+      <point x="271" y="496.5"/>
+      <point x="271" y="323.5" type="curve"/>
+      <point x="80" y="354.5" type="line"/>
+      <point x="80" y="568"/>
+      <point x="245.5" y="710"/>
+      <point x="499" y="710" type="curve" smooth="yes"/>
+      <point x="725" y="710"/>
+      <point x="847" y="632.5"/>
+      <point x="847" y="518.5" type="curve" smooth="yes"/>
+      <point x="847" y="409.5"/>
+      <point x="722.5" y="345"/>
+    </contour>
+    <contour>
+      <point x="606" y="-18" type="curve" smooth="yes"/>
+      <point x="398.5" y="-18"/>
+      <point x="320" y="123"/>
+      <point x="320" y="232" type="curve"/>
+      <point x="484.5" y="232" type="line"/>
+      <point x="484.5" y="174"/>
+      <point x="524" y="132.5"/>
+      <point x="586" y="132.5" type="curve" smooth="yes"/>
+      <point x="650.5" y="132.5"/>
+      <point x="678" y="158"/>
+      <point x="678" y="210.5" type="curve" smooth="yes"/>
+      <point x="678" y="273"/>
+      <point x="622.5" y="301.5"/>
+      <point x="532.5" y="301.5" type="curve"/>
+      <point x="532.5" y="380" type="line"/>
+      <point x="722.5" y="380"/>
+      <point x="867" y="324"/>
+      <point x="867" y="185" type="curve" smooth="yes"/>
+      <point x="867" y="66"/>
+      <point x="760" y="-18"/>
+    </contour>
+  </outline>
+</glyph>

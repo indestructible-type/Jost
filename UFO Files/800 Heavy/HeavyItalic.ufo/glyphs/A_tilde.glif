@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="757"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="215" y="112" type="line"/>
+      <point x="247" y="256" type="line"/>
+      <point x="606" y="256" type="line"/>
+      <point x="585" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="412" type="line"/>
+      <point x="323" y="203" type="line"/>
+      <point x="327" y="159" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="-4" y="0" type="line"/>
+      <point x="511" y="747" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="487" y="152" type="line"/>
+      <point x="507" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="878" type="line"/>
+      <point x="347" y="927"/>
+      <point x="400" y="976"/>
+      <point x="470" y="976" type="curve" smooth="yes"/>
+      <point x="536" y="976"/>
+      <point x="544" y="922"/>
+      <point x="601" y="922" type="curve" smooth="yes"/>
+      <point x="629" y="922"/>
+      <point x="652" y="945"/>
+      <point x="678" y="977" type="curve"/>
+      <point x="742" y="894" type="line"/>
+      <point x="719" y="857"/>
+      <point x="650" y="804"/>
+      <point x="584" y="804" type="curve" smooth="yes"/>
+      <point x="529" y="804"/>
+      <point x="499" y="860"/>
+      <point x="448" y="860" type="curve" smooth="yes"/>
+      <point x="411" y="860"/>
+      <point x="396" y="823"/>
+      <point x="393" y="808" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

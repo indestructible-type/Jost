@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: Renner-it-Black
-FullName: Renner* Black
-FamilyName: Renner* Black
+FontName: Jost-Black
+FullName: Jost* 900 Black
+FamilyName: Jost* Black
 Weight: Black
 Copyright: This typeface is licensed under the SIL open font license.
 UComments: "2016-6-10: Created with FontForge (http://fontforge.org)"
-Version: 003.000
+Version: 003.200
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1528481729
+ModificationTime: 1533316955
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -71,7 +71,7 @@ KernClass2: 16 14 "kernin like nobodys business"
  13 V W backslash
  9 seven X Z
  13 Y Ydieresis T
- 1 a
+ 3 a s
  344 c e g o q ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron dcaron emacron ebreve edotaccent eogonek ecaron gcircumflex gbreve gdotaccent omacron obreve oe a.alt agrave.alt aacute.alt acircumflex.alt atilde.alt adieresis.alt aring.alt amacron.alt abreve.alt aogonek.alt
  67 m n p r ntilde dotlessi nacute uni0146 ncaron racute uni0157 rcaron
  1 u
@@ -79,14 +79,14 @@ KernClass2: 16 14 "kernin like nobodys business"
  12 x z multiply
  15 j jcircumflex J
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -150 {} -15 {} 30 {} 0 {} 40 {} -100 {} -80 {} -70 {} -70 {} 0 {} -50 {} 0 {} 0 {} 0 {} -150 {} -30 {} 0 {} 0 {} 0 {} -100 {} -50 {} -50 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} -30 {} -30 {} -30 {} -30 {} -20 {} -20 {} 0 {} 0 {} 0 {} 0 {} -90 {} 30 {} -30 {} -150 {} 0 {} -70 {} 0 {} 0 {} 0 {} -20 {} -50 {} 50 {} 0 {} 0 {} 0 {} -15 {} 0 {} -15 {} -15 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 30 {} 0 {} 30 {} 0 {} -30 {} 0 {} -30 {} -50 {} 15 {} 0 {} 0 {} 0 {} -30 {} 0 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} -80 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} -30 {} -50 {} 0 {} -80 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -15 {} -15 {} 0 {} 0 {} -30 {} 0 {} 0 {} -50 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} -15 {} 0 {} -15 {} 0 {} -15 {} 0 {} -10 {} 15 {} 30 {} 0 {} 0 {} 0 {} -60 {} 15 {} -30 {} -80 {} -30 {} 0 {} -15 {} 0 {} 0 {} 30 {} 30 {} 0 {} 0 {} 0 {} -100 {} 0 {} 30 {} 30 {} 30 {} -100 {} -100 {} -80 {} -80 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {} 0 {} -30 {} 0 {} 0 {} -50 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 60 {}
-LangName: 1033 "" "" "Black" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016, indestructible-type.github.io,+AAoA-with Reserved Font Name Renner*.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Renner*"
+LangName: 1033 "" "" "900 Black" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016, indestructible-type.github.io,+AAoA-with Reserved Font Name Renner*.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Jost*"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 48 16 4
+WinInfo: 352 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +107,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65546 372
+BeginChars: 65546 377
 
 StartChar: H
 Encoding: 72 72 0
@@ -800,11 +800,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-400 780 m 1
- 595 780 l 1
- 595 0 l 1
- 400 0 l 1
- 400 780 l 1
+400 780 m 5
+ 595 780 l 5
+ 595 0 l 5
+ 400 0 l 5
+ 400 780 l 5
 30 230 m 4
  30 389 138 470 243 470 c 4
  358 470 446 379 446 230 c 4
@@ -849,11 +849,11 @@ SplineSet
  203 720 251 681 251 622 c 4
  251 563 203 524 143 524 c 4
  83 524 35 563 35 622 c 4
-49 460 m 5
- 236 460 l 5
- 236 0 l 5
- 49 0 l 5
- 49 460 l 5
+49 460 m 1
+ 236 460 l 1
+ 236 0 l 1
+ 49 0 l 1
+ 49 460 l 1
 EndSplineSet
 EndChar
 
@@ -918,16 +918,16 @@ SplineSet
  50 0 l 1
  50 780 l 1
  245 780 l 1
-615 230 m 4
- 615 71 507 -10 402 -10 c 4
- 287 -10 199 81 199 230 c 4
- 199 379 287 470 402 470 c 4
- 507 470 615 389 615 230 c 4
-409 230 m 4
- 409 281 372 320 327 320 c 4
- 287 320 245 286 245 230 c 4
- 245 174 287 140 327 140 c 4
- 372 140 409 179 409 230 c 4
+615 230 m 0
+ 615 71 507 -10 402 -10 c 0
+ 287 -10 199 81 199 230 c 0
+ 199 379 287 470 402 470 c 0
+ 507 470 615 389 615 230 c 0
+409 230 m 0
+ 409 281 372 320 327 320 c 0
+ 287 320 245 286 245 230 c 0
+ 245 174 287 140 327 140 c 0
+ 372 140 409 179 409 230 c 0
 EndSplineSet
 EndChar
 
@@ -1220,21 +1220,21 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-78 183 m 1
- 180 121 233 117 250 117 c 4
- 263 117 275 118 275 131 c 4
- 275 156 195 159 141 186 c 0
- 82 216 34 247 34 329 c 0
- 34 425 124 470 238 470 c 0
+78 183 m 5
+ 180 111 233 110 250 110 c 0
+ 266 110 275 120 275 133 c 0
+ 275 161 232 169 181 186 c 0
+ 114 209 52 242 52 334 c 0
+ 52 420 124 470 238 470 c 0
  321 470 386 446 454 415 c 1
  406 282 l 1
- 361 320 291 339 254 339 c 0
- 227 339 219 335 219 324 c 0
- 219 302 279 293 341 270 c 0
+ 361 320 301 346 264 346 c 4
+ 237 346 229 336 229 327 c 4
+ 229 297 279 293 341 270 c 0
  406 246 468 217 468 130 c 0
  468 21 404 -25 285 -25 c 0
  180 -25 99 1 15 46 c 1
- 78 183 l 1
+ 78 183 l 5
 EndSplineSet
 EndChar
 
@@ -1448,15 +1448,15 @@ SplineSet
  380 158 404 169 404 199 c 0
  404 239 352 247 272 280 c 0
  204 308 74 363 74 510 c 0
- 74 636 183 720 347 720 c 0
- 520 720 599 635 627 564 c 1
+ 74 636 193 720 357 720 c 4
+ 510 720 589 635 627 564 c 1
  464 474 l 1
  434 522 398 539 358 539 c 0
  322 539 298 525 298 504 c 0
  298 468 376 452 458 423 c 0
  570 384 637 317 637 200 c 0
- 637 43 515 -30 336 -30 c 0
- 201 -30 74 43 30 158 c 1
+ 637 43 505 -30 346 -30 c 0
+ 211 -30 74 53 30 158 c 1
  178 266 l 1
 EndSplineSet
 EndChar
@@ -1963,24 +1963,24 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-288 335 m 1
- 288 424 l 1
- 358 424 410 460 410 501 c 0
+288 335 m 5
+ 288 424 l 5
+ 358 424 410 460 410 501 c 4
  410 527 390 545 347 545 c 4
- 302 545 271 517 271 476 c 1
- 70 476 l 1
- 70 610 178 715 348 715 c 0
- 528 715 626 630 626 516 c 0
- 626 382 473 335 288 335 c 1
-338 -20 m 0
- 148 -20 40 111 40 245 c 1
- 256 245 l 1
- 256 174 303 150 348 150 c 0
- 393 150 430 164 430 215 c 0
- 430 256 398 295 288 295 c 1
- 288 399 l 1
- 503 399 646 339 646 195 c 0
- 646 71 538 -20 338 -20 c 0
+ 302 545 271 517 271 476 c 5
+ 70 476 l 5
+ 70 610 178 715 348 715 c 4
+ 528 715 626 630 626 516 c 4
+ 626 382 473 335 288 335 c 5
+338 -20 m 4
+ 148 -20 40 111 40 245 c 5
+ 256 245 l 5
+ 256 174 303 150 348 150 c 4
+ 393 150 430 164 430 215 c 4
+ 430 256 398 295 288 295 c 5
+ 288 399 l 5
+ 503 399 646 339 646 195 c 4
+ 646 71 538 -20 338 -20 c 4
 EndSplineSet
 Substitution2: "Tabular Numbers lookup" uniFF13
 EndChar
@@ -2751,16 +2751,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-285 615 m 4
- 285 678 333 730 403 730 c 4
- 473 730 521 678 521 615 c 4
- 521 552 473 500 403 500 c 4
- 333 500 285 552 285 615 c 4
-15 615 m 0
- 15 678 63 730 133 730 c 0
- 203 730 251 678 251 615 c 0
- 251 552 203 500 133 500 c 0
- 63 500 15 552 15 615 c 0
+295 615 m 0
+ 295 674 343 713 403 713 c 0
+ 463 713 511 674 511 615 c 0
+ 511 556 463 517 403 517 c 0
+ 343 517 295 556 295 615 c 0
+25 615 m 0
+ 25 674 73 713 133 713 c 0
+ 193 713 241 674 241 615 c 0
+ 241 556 193 517 133 517 c 0
+ 73 517 25 556 25 615 c 0
 EndSplineSet
 EndChar
 
@@ -3528,11 +3528,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-32 830 m 0
- 32 893 80 945 150 945 c 0
- 220 945 268 893 268 830 c 0
- 268 767 220 715 150 715 c 0
- 80 715 32 767 32 830 c 0
+42 827 m 0
+ 42 886 90 925 150 925 c 0
+ 210 925 258 886 258 827 c 0
+ 258 768 210 729 150 729 c 0
+ 90 729 42 768 42 827 c 0
 EndSplineSet
 EndChar
 
@@ -5367,16 +5367,16 @@ SplineSet
  461 132 l 1
  476 189 l 1
  390 382 l 1
-457 815 m 4
- 457 878 505 930 575 930 c 4
- 645 930 693 878 693 815 c 4
- 693 752 645 700 575 700 c 4
- 505 700 457 752 457 815 c 4
-87 815 m 4
- 87 878 135 930 205 930 c 4
- 275 930 323 878 323 815 c 4
- 323 752 275 700 205 700 c 4
- 135 700 87 752 87 815 c 4
+447 818 m 4
+ 447 877 495 916 555 916 c 4
+ 615 916 663 877 663 818 c 4
+ 663 759 615 720 555 720 c 4
+ 495 720 447 759 447 818 c 4
+107 828 m 4
+ 107 887 155 926 215 926 c 4
+ 275 926 323 887 323 828 c 4
+ 323 769 275 730 215 730 c 4
+ 155 730 107 769 107 828 c 4
 EndSplineSet
 EndChar
 
@@ -5644,16 +5644,16 @@ SplineSet
  280 0 l 5
  70 0 l 5
  70 700 l 5
-340 895 m 4
- 340 958 388 1010 458 1010 c 4
- 528 1010 576 958 576 895 c 4
- 576 832 528 780 458 780 c 4
- 388 780 340 832 340 895 c 4
-70 895 m 0
- 70 958 118 1010 188 1010 c 0
- 258 1010 306 958 306 895 c 0
- 306 832 258 780 188 780 c 0
- 118 780 70 832 70 895 c 0
+350 878 m 0
+ 350 937 398 976 458 976 c 0
+ 518 976 566 937 566 878 c 0
+ 566 819 518 780 458 780 c 0
+ 398 780 350 819 350 878 c 0
+80 878 m 0
+ 80 937 128 976 188 976 c 0
+ 248 976 296 937 296 878 c 0
+ 296 819 248 780 188 780 c 0
+ 128 780 80 819 80 878 c 0
 EndSplineSet
 EndChar
 
@@ -5739,16 +5739,16 @@ SplineSet
  295 0 l 5
  70 0 l 5
  70 700 l 5
-200 895 m 4
- 200 958 248 1010 318 1010 c 4
- 388 1010 436 958 436 895 c 4
- 436 832 388 780 318 780 c 4
- 248 780 200 832 200 895 c 4
--70 895 m 0
- -70 958 -22 1010 48 1010 c 0
- 118 1010 166 958 166 895 c 0
- 166 832 118 780 48 780 c 0
- -22 780 -70 832 -70 895 c 0
+210 878 m 0
+ 210 937 258 976 318 976 c 0
+ 378 976 426 937 426 878 c 0
+ 426 819 378 780 318 780 c 0
+ 258 780 210 819 210 878 c 0
+-60 878 m 0
+ -60 937 -12 976 48 976 c 0
+ 108 976 156 937 156 878 c 0
+ 156 819 108 780 48 780 c 0
+ -12 780 -60 819 -60 878 c 0
 EndSplineSet
 EndChar
 
@@ -5947,26 +5947,26 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-263 350 m 0
- 263 247 322 178 420 178 c 0
- 518 178 577 247 577 350 c 0
- 577 453 523 522 420 522 c 0
- 322 522 263 453 263 350 c 0
-30 350 m 0
- 30 574 201 720 420 720 c 0
- 644 720 810 574 810 350 c 0
- 810 126 649 -30 420 -30 c 0
- 191 -30 30 126 30 350 c 0
-452 815 m 4
- 452 878 500 930 570 930 c 4
- 640 930 688 878 688 815 c 4
- 688 752 640 700 570 700 c 4
- 500 700 452 752 452 815 c 4
-182 815 m 0
- 182 878 230 930 300 930 c 0
- 370 930 418 878 418 815 c 0
- 418 752 370 700 300 700 c 0
- 230 700 182 752 182 815 c 0
+263 350 m 4
+ 263 247 322 178 420 178 c 4
+ 518 178 577 247 577 350 c 4
+ 577 453 523 522 420 522 c 4
+ 322 522 263 453 263 350 c 4
+30 350 m 4
+ 30 574 201 720 420 720 c 4
+ 644 720 810 574 810 350 c 4
+ 810 126 649 -30 420 -30 c 4
+ 191 -30 30 126 30 350 c 4
+447 878 m 0
+ 447 937 495 976 555 976 c 0
+ 615 976 663 937 663 878 c 0
+ 663 819 615 780 555 780 c 0
+ 495 780 447 819 447 878 c 0
+177 878 m 0
+ 177 937 225 976 285 976 c 0
+ 345 976 393 937 393 878 c 0
+ 393 819 345 780 285 780 c 0
+ 225 780 177 819 177 878 c 0
 EndSplineSet
 EndChar
 
@@ -6076,16 +6076,16 @@ SplineSet
  681 31 538 -40 373 -40 c 0
  208 -40 65 31 65 230 c 2
  65 700 l 1
-411 895 m 4
- 411 958 459 1010 529 1010 c 4
- 599 1010 647 958 647 895 c 4
- 647 832 599 780 529 780 c 4
- 459 780 411 832 411 895 c 4
-99 895 m 0
- 99 958 147 1010 217 1010 c 0
- 287 1010 335 958 335 895 c 0
- 335 832 287 780 217 780 c 0
- 147 780 99 832 99 895 c 0
+430 878 m 0
+ 430 937 478 976 538 976 c 0
+ 598 976 646 937 646 878 c 0
+ 646 819 598 780 538 780 c 0
+ 478 780 430 819 430 878 c 0
+100 878 m 4
+ 100 937 148 976 208 976 c 4
+ 268 976 316 937 316 878 c 4
+ 316 819 268 780 208 780 c 4
+ 148 780 100 819 100 878 c 4
 EndSplineSet
 EndChar
 
@@ -6285,36 +6285,36 @@ Flags: HM
 LayerCount: 2
 Fore
 SplineSet
-216 139 m 0
- 216 115 238 106 263 106 c 0
- 303 106 345 124 345 190 c 1
- 361 130 l 1
- 361 41 288 -10 193 -10 c 0
- 88 -10 20 41 20 130 c 0
- 20 217 100 275 221 275 c 0
+216 139 m 4
+ 216 115 238 106 263 106 c 4
+ 303 106 345 124 345 190 c 5
+ 361 130 l 5
+ 361 41 288 -10 193 -10 c 4
+ 88 -10 20 41 20 130 c 4
+ 20 217 100 275 221 275 c 4
  279 275 354 257 378 233 c 5
- 378 147 l 1
- 350 169 323 180 275 180 c 0
- 241 180 216 163 216 139 c 0
-121 298 m 1
- 62 424 l 1
- 126 449 210 475 293 475 c 0
- 428 475 530 419 530 320 c 2
- 530 0 l 1
- 345 0 l 1
- 345 272 l 2
- 345 307 323 333 273 333 c 0
- 207 333 143 309 121 298 c 1
-310 650 m 4
- 310 713 358 765 428 765 c 4
- 498 765 546 713 546 650 c 4
- 546 587 498 535 428 535 c 4
- 358 535 310 587 310 650 c 4
-40 650 m 0
- 40 713 88 765 158 765 c 0
- 228 765 276 713 276 650 c 0
- 276 587 228 535 158 535 c 0
- 88 535 40 587 40 650 c 0
+ 378 147 l 5
+ 350 169 323 180 275 180 c 4
+ 241 180 216 163 216 139 c 4
+121 298 m 5
+ 62 424 l 5
+ 126 449 210 475 293 475 c 4
+ 428 475 530 419 530 320 c 6
+ 530 0 l 5
+ 345 0 l 5
+ 345 272 l 6
+ 345 307 323 333 273 333 c 4
+ 207 333 143 309 121 298 c 5
+320 633 m 0
+ 320 692 368 731 428 731 c 0
+ 488 731 536 692 536 633 c 0
+ 536 574 488 535 428 535 c 0
+ 368 535 320 574 320 633 c 0
+50 633 m 0
+ 50 692 98 731 158 731 c 0
+ 218 731 266 692 266 633 c 0
+ 266 574 218 535 158 535 c 0
+ 98 535 50 574 50 633 c 0
 EndSplineSet
 Substitution2: "alt a" adieresis.alt
 EndChar
@@ -6631,16 +6631,16 @@ SplineSet
  575 231 575 211 573 190 c 5
  370 210 l 5
  370 240 l 6
-325 646 m 4
- 325 709 373 761 443 761 c 4
- 513 761 561 709 561 646 c 4
- 561 583 513 531 443 531 c 4
- 373 531 325 583 325 646 c 4
-55 646 m 0
- 55 709 103 761 173 761 c 0
- 243 761 291 709 291 646 c 0
- 291 583 243 531 173 531 c 0
- 103 531 55 583 55 646 c 0
+335 629 m 0
+ 335 688 383 727 443 727 c 0
+ 503 727 551 688 551 629 c 0
+ 551 570 503 531 443 531 c 0
+ 383 531 335 570 335 629 c 0
+65 629 m 0
+ 65 688 113 727 173 727 c 0
+ 233 727 281 688 281 629 c 0
+ 281 570 233 531 173 531 c 0
+ 113 531 65 570 65 629 c 0
 EndSplineSet
 EndChar
 
@@ -6767,16 +6767,16 @@ SplineSet
  236 0 l 5
  49 0 l 5
  49 460 l 5
-160 646 m 4
- 160 709 208 761 278 761 c 4
- 348 761 396 709 396 646 c 4
- 396 583 348 531 278 531 c 4
- 208 531 160 583 160 646 c 4
--110 646 m 0
- -110 709 -62 761 8 761 c 0
- 78 761 126 709 126 646 c 0
- 126 583 78 531 8 531 c 0
- -62 531 -110 583 -110 646 c 0
+170 629 m 0
+ 170 688 218 727 278 727 c 0
+ 338 727 386 688 386 629 c 0
+ 386 570 338 531 278 531 c 0
+ 218 531 170 570 170 629 c 0
+-100 629 m 0
+ -100 688 -52 727 8 727 c 0
+ 68 727 116 688 116 629 c 0
+ 116 570 68 531 8 531 c 0
+ -52 531 -100 570 -100 629 c 0
 EndSplineSet
 EndChar
 
@@ -6948,16 +6948,16 @@ SplineSet
  348 145 385 174 385 230 c 4
  385 286 348 316 308 316 c 4
  268 316 231 286 231 230 c 4
-325 646 m 4
- 325 709 373 761 443 761 c 4
- 513 761 561 709 561 646 c 4
- 561 583 513 531 443 531 c 4
- 373 531 325 583 325 646 c 4
-55 646 m 0
- 55 709 103 761 173 761 c 0
- 243 761 291 709 291 646 c 0
- 291 583 243 531 173 531 c 0
- 103 531 55 583 55 646 c 0
+335 629 m 0
+ 335 688 383 727 443 727 c 0
+ 503 727 551 688 551 629 c 0
+ 551 570 503 531 443 531 c 0
+ 383 531 335 570 335 629 c 0
+65 629 m 0
+ 65 688 113 727 173 727 c 0
+ 233 727 281 688 281 629 c 0
+ 281 570 233 531 173 531 c 0
+ 113 531 65 570 65 629 c 0
 EndSplineSet
 EndChar
 
@@ -7079,16 +7079,16 @@ SplineSet
  50 460 l 5
  255 460 l 5
  255 180 l 6
-320 646 m 4
- 320 709 368 761 438 761 c 4
- 508 761 556 709 556 646 c 4
- 556 583 508 531 438 531 c 4
- 368 531 320 583 320 646 c 4
-50 646 m 0
- 50 709 98 761 168 761 c 0
- 238 761 286 709 286 646 c 0
- 286 583 238 531 168 531 c 0
- 98 531 50 583 50 646 c 0
+330 629 m 0
+ 330 688 378 727 438 727 c 0
+ 498 727 546 688 546 629 c 0
+ 546 570 498 531 438 531 c 0
+ 378 531 330 570 330 629 c 0
+60 629 m 0
+ 60 688 108 727 168 727 c 0
+ 228 727 276 688 276 629 c 0
+ 276 570 228 531 168 531 c 0
+ 108 531 60 570 60 629 c 0
 EndSplineSet
 EndChar
 
@@ -7128,11 +7128,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-245 780 m 1
- 245 -220 l 5
- 50 -220 l 5
+245 -220 m 5
+ 50 -220 l 1
  50 780 l 1
- 245 780 l 1
+ 245 780 l 5
+ 245 -220 l 5
 615 230 m 0
  615 71 507 -10 402 -10 c 0
  287 -10 199 81 199 230 c 0
@@ -7165,16 +7165,16 @@ SplineSet
  240 85 l 5
  390 460 l 5
  585 460 l 1
-302 646 m 4
- 302 709 350 761 420 761 c 4
- 490 761 538 709 538 646 c 4
- 538 583 490 531 420 531 c 4
- 350 531 302 583 302 646 c 4
-32 646 m 0
- 32 709 80 761 150 761 c 0
- 220 761 268 709 268 646 c 0
- 268 583 220 531 150 531 c 0
- 80 531 32 583 32 646 c 0
+312 629 m 0
+ 312 688 360 727 420 727 c 0
+ 480 727 528 688 528 629 c 0
+ 528 570 480 531 420 531 c 0
+ 360 531 312 570 312 629 c 0
+42 629 m 0
+ 42 688 90 727 150 727 c 0
+ 210 727 258 688 258 629 c 0
+ 258 570 210 531 150 531 c 0
+ 90 531 42 570 42 629 c 0
 EndSplineSet
 EndChar
 
@@ -7553,22 +7553,22 @@ Flags: HM
 LayerCount: 2
 Fore
 SplineSet
-272 350 m 4
- 272 242 353 187 451 187 c 4
- 550 187 606 231 650 273 c 5
- 650 47 l 5
- 595 9 537 -20 435 -20 c 4
- 191 -20 30 126 30 350 c 4
- 30 574 191 720 435 720 c 4
- 537 720 595 691 650 653 c 5
- 650 427 l 5
- 606 469 550 513 451 513 c 4
- 353 513 272 458 272 350 c 4
-317 895 m 0
- 317 958 365 1010 435 1010 c 0
- 505 1010 553 958 553 895 c 0
- 553 832 505 780 435 780 c 0
- 365 780 317 832 317 895 c 0
+272 350 m 0
+ 272 242 353 187 451 187 c 0
+ 550 187 606 231 650 273 c 1
+ 650 47 l 1
+ 595 9 537 -20 435 -20 c 0
+ 191 -20 30 126 30 350 c 0
+ 30 574 191 720 435 720 c 0
+ 537 720 595 691 650 653 c 1
+ 650 427 l 1
+ 606 469 550 513 451 513 c 0
+ 353 513 272 458 272 350 c 0
+287 878 m 4
+ 287 937 335 976 395 976 c 4
+ 455 976 503 937 503 878 c 4
+ 503 819 455 780 395 780 c 4
+ 335 780 287 819 287 878 c 4
 EndSplineSet
 EndChar
 
@@ -7592,11 +7592,11 @@ SplineSet
  453 264 l 1
  422 307 367 322 333 322 c 0
  278 322 231 281 231 230 c 0
-165 666 m 4
- 165 729 213 781 283 781 c 4
- 353 781 401 729 401 666 c 4
- 401 603 353 551 283 551 c 4
- 213 551 165 603 165 666 c 4
+165 639 m 4
+ 165 698 213 737 273 737 c 4
+ 333 737 381 698 381 639 c 4
+ 381 580 333 541 273 541 c 4
+ 213 541 165 580 165 639 c 4
 EndSplineSet
 EndChar
 
@@ -7979,11 +7979,11 @@ SplineSet
  280 0 l 5
  70 0 l 5
  70 700 l 5
-204 895 m 0
- 204 958 252 1010 322 1010 c 0
- 392 1010 440 958 440 895 c 0
- 440 832 392 780 322 780 c 0
- 252 780 204 832 204 895 c 0
+214 878 m 0
+ 214 937 262 976 322 976 c 0
+ 382 976 430 937 430 878 c 0
+ 430 819 382 780 322 780 c 0
+ 262 780 214 819 214 878 c 0
 EndSplineSet
 EndChar
 
@@ -8016,11 +8016,11 @@ SplineSet
  575 231 575 211 573 190 c 5
  370 210 l 5
  370 240 l 6
-190 646 m 0
- 190 709 238 761 308 761 c 0
- 378 761 426 709 426 646 c 0
- 426 583 378 531 308 531 c 0
- 238 531 190 583 190 646 c 0
+200 629 m 0
+ 200 688 248 727 308 727 c 0
+ 368 727 416 688 416 629 c 0
+ 416 570 368 531 308 531 c 0
+ 248 531 200 570 200 629 c 0
 EndSplineSet
 EndChar
 
@@ -8369,11 +8369,11 @@ SplineSet
  260 227 332 155 440 155 c 4
  588 155 612 267 612 400 c 1
  802 400 l 1
-322 895 m 0
- 322 958 370 1010 440 1010 c 0
- 510 1010 558 958 558 895 c 0
- 558 832 510 780 440 780 c 0
- 370 780 322 832 322 895 c 0
+332 878 m 0
+ 332 937 380 976 440 976 c 0
+ 500 976 548 937 548 878 c 0
+ 548 819 500 780 440 780 c 0
+ 380 780 332 819 332 878 c 0
 EndSplineSet
 EndChar
 
@@ -8386,20 +8386,6 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-446 240 m 1
- 400 240 l 1
- 400 296 358 320 318 320 c 0
- 273 320 236 291 236 240 c 1
- 30 240 l 1
- 30 399 138 470 243 470 c 0
- 358 470 446 389 446 240 c 1
-400 240 m 1
- 446 240 l 1
- 446 91 358 10 243 10 c 0
- 138 10 30 81 30 240 c 1
- 236 240 l 1
- 236 189 273 160 318 160 c 0
- 358 160 400 184 400 240 c 1
 40 -35 m 1
  227 -35 l 1
  235 -86 266 -95 306 -95 c 0
@@ -8409,11 +8395,21 @@ SplineSet
  585 10 l 2
  585 -179 471 -245 316 -245 c 0
  121 -245 58 -159 40 -35 c 1
-215 646 m 4
- 215 709 263 761 333 761 c 4
- 403 761 451 709 451 646 c 4
- 451 583 403 531 333 531 c 4
- 263 531 215 583 215 646 c 4
+30 240 m 0
+ 30 399 138 470 243 470 c 0
+ 358 470 446 389 446 240 c 0
+ 446 91 358 10 243 10 c 0
+ 138 10 30 81 30 240 c 0
+236 240 m 0
+ 236 189 273 160 318 160 c 0
+ 358 160 400 184 400 240 c 0
+ 400 296 358 320 318 320 c 0
+ 273 320 236 291 236 240 c 0
+235 629 m 0
+ 235 688 283 727 343 727 c 0
+ 403 727 451 688 451 629 c 0
+ 451 570 403 531 343 531 c 0
+ 283 531 235 570 235 629 c 0
 EndSplineSet
 EndChar
 
@@ -8738,11 +8734,11 @@ SplineSet
  295 0 l 5
  70 0 l 5
  70 700 l 5
-64 895 m 0
- 64 958 112 1010 182 1010 c 0
- 252 1010 300 958 300 895 c 0
- 300 832 252 780 182 780 c 0
- 112 780 64 832 64 895 c 0
+74 878 m 0
+ 74 937 122 976 182 976 c 0
+ 242 976 290 937 290 878 c 0
+ 290 819 242 780 182 780 c 0
+ 122 780 74 819 74 878 c 0
 EndSplineSet
 EndChar
 
@@ -8965,16 +8961,16 @@ SplineSet
  575 185 l 1
  575 0 l 1
  222 0 l 1
-70 700 m 1
- 290 700 l 5
+70 700 m 5
+ 290 700 l 1
  290 0 l 5
  70 0 l 1
- 70 700 l 1
-344 420 m 0
- 344 483 392 535 462 535 c 4
- 532 535 580 483 580 420 c 0
- 580 357 532 305 462 305 c 0
- 392 305 344 357 344 420 c 0
+ 70 700 l 5
+326 438 m 0
+ 326 501 374 553 444 553 c 4
+ 514 553 562 501 562 438 c 0
+ 562 375 514 323 444 323 c 0
+ 374 323 326 375 326 438 c 0
 EndSplineSet
 EndChar
 
@@ -9291,21 +9287,21 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-400 460 m 1
- 595 460 l 1
- 595 0 l 1
- 400 0 l 1
- 400 460 l 1
-30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
-236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
+400 460 m 5
+ 595 460 l 5
+ 595 0 l 5
+ 400 0 l 5
+ 400 460 l 5
+30 230 m 4
+ 30 389 138 470 243 470 c 4
+ 358 470 446 379 446 230 c 4
+ 446 81 358 -10 243 -10 c 4
+ 138 -10 30 71 30 230 c 4
+236 230 m 4
+ 236 179 273 140 318 140 c 4
+ 358 140 400 174 400 230 c 4
+ 400 286 358 320 318 320 c 4
+ 273 320 236 281 236 230 c 4
 EndSplineSet
 EndChar
 
@@ -9959,16 +9955,16 @@ SplineSet
  250 700 l 1
  360 474 l 1
  470 700 l 1
-397 895 m 0
- 397 958 445 1010 515 1010 c 0
- 585 1010 633 958 633 895 c 0
- 633 832 585 780 515 780 c 0
- 445 780 397 832 397 895 c 0
-87 895 m 4
- 87 958 135 1010 205 1010 c 4
- 275 1010 323 958 323 895 c 4
- 323 832 275 780 205 780 c 4
- 135 780 87 832 87 895 c 4
+417 895 m 0
+ 417 954 465 993 525 993 c 0
+ 585 993 633 954 633 895 c 0
+ 633 836 585 797 525 797 c 0
+ 465 797 417 836 417 895 c 0
+87 895 m 0
+ 87 954 135 993 195 993 c 0
+ 255 993 303 954 303 895 c 0
+ 303 836 255 797 195 797 c 0
+ 135 797 87 836 87 895 c 0
 EndSplineSet
 EndChar
 
@@ -10043,27 +10039,27 @@ EndChar
 StartChar: Lslash
 Encoding: 321 321 334
 GlifName: L_slash
-Width: 575
+Width: 585
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-222 0 m 1
- 222 185 l 1
- 575 185 l 1
- 575 0 l 1
- 222 0 l 1
-70 700 m 1
- 290 700 l 5
- 290 0 l 5
- 70 0 l 1
- 70 700 l 1
 5 290 m 1
- -45 375 l 5
- 375 665 l 5
+ -45 375 l 1
+ 375 665 l 1
  425 580 l 1
  5 290 l 1
+252 0 m 1
+ 252 185 l 5
+ 575 185 l 5
+ 575 0 l 1
+ 252 0 l 1
+70 700 m 1
+ 290 700 l 1
+ 290 0 l 1
+ 70 0 l 1
+ 70 700 l 1
 EndSplineSet
 EndChar
 
@@ -10076,16 +10072,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-50 780 m 5
- 245 780 l 5
- 245 0 l 5
- 50 0 l 5
- 50 780 l 5
 -15 290 m 1
- -65 375 l 5
- 315 635 l 5
+ -65 375 l 1
+ 315 635 l 1
  365 550 l 1
  -15 290 l 1
+50 780 m 1
+ 245 780 l 1
+ 245 0 l 1
+ 50 0 l 1
+ 50 780 l 1
 EndSplineSet
 EndChar
 
@@ -10252,20 +10248,20 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-163 695 m 5
- 303 755 l 5
- 453 595 l 5
- 343 545 l 5
- 163 695 l 5
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+143 681 m 5
+ 283 741 l 5
+ 433 581 l 5
+ 323 531 l 5
+ 143 681 l 5
 EndSplineSet
 EndChar
 
@@ -10284,20 +10280,20 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-448 695 m 5
- 268 545 l 5
- 158 595 l 5
- 308 755 l 5
- 448 695 l 5
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+483 681 m 5
+ 303 531 l 5
+ 193 581 l 5
+ 343 741 l 5
+ 483 681 l 5
 EndSplineSet
 EndChar
 
@@ -10316,22 +10312,22 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-323 610 m 5
- 243 530 l 5
- 103 620 l 5
- 323 760 l 5
- 543 620 l 5
- 403 530 l 5
- 323 610 l 5
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+333 611 m 5
+ 253 531 l 5
+ 113 621 l 5
+ 333 761 l 5
+ 553 621 l 5
+ 413 531 l 5
+ 333 611 l 5
 EndSplineSet
 EndChar
 
@@ -10350,24 +10346,24 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-128 617 m 1
- 138 666 182 719 257 719 c 0
- 324 719 343 664 401 664 c 0
- 430 664 452 688 472 720 c 1
- 558 627 l 1
- 542 590 477 534 407 534 c 0
- 352 534 308 591 256 591 c 4
- 220 591 211 555 211 540 c 1
- 128 617 l 1
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+128 614 m 5
+ 138 663 182 716 257 716 c 4
+ 324 716 343 661 401 661 c 4
+ 430 661 452 685 472 717 c 5
+ 558 624 l 5
+ 542 587 477 531 407 531 c 4
+ 352 531 308 588 256 588 c 4
+ 220 588 211 552 211 537 c 5
+ 128 614 l 5
 EndSplineSet
 EndChar
 
@@ -10386,25 +10382,25 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-360 655 m 4
- 360 718 408 770 478 770 c 4
- 548 770 596 718 596 655 c 4
- 596 592 548 540 478 540 c 4
- 408 540 360 592 360 655 c 4
-90 655 m 0
- 90 718 138 770 208 770 c 0
- 278 770 326 718 326 655 c 0
- 326 592 278 540 208 540 c 0
- 138 540 90 592 90 655 c 0
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+350 629 m 4
+ 350 688 398 727 458 727 c 4
+ 518 727 566 688 566 629 c 4
+ 566 570 518 531 458 531 c 4
+ 398 531 350 570 350 629 c 4
+80 629 m 4
+ 80 688 128 727 188 727 c 4
+ 248 727 296 688 296 629 c 4
+ 296 570 248 531 188 531 c 4
+ 128 531 80 570 80 629 c 4
 EndSplineSet
 EndChar
 
@@ -10423,25 +10419,25 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-228 627 m 0
- 228 701 286 752 366 752 c 0
- 446 752 506 701 506 627 c 0
- 506 553 446 502 366 502 c 0
- 286 502 228 553 228 627 c 0
-323 627 m 0
- 323 599 341 583 366 583 c 0
- 391 583 410 599 410 627 c 0
- 410 655 391 672 366 672 c 0
- 341 672 323 655 323 627 c 0
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+184 656 m 4
+ 184 730 242 781 322 781 c 4
+ 402 781 462 730 462 656 c 4
+ 462 582 402 531 322 531 c 4
+ 242 531 184 582 184 656 c 4
+279 656 m 4
+ 279 628 297 612 322 612 c 4
+ 347 612 366 628 366 656 c 4
+ 366 684 347 701 322 701 c 4
+ 297 701 279 684 279 656 c 4
 EndSplineSet
 EndChar
 
@@ -10460,20 +10456,20 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-138 535 m 1
- 138 700 l 1
- 523 700 l 1
- 523 535 l 1
- 138 535 l 1
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+140.5 531 m 5
+ 140.5 696 l 5
+ 525.5 696 l 5
+ 525.5 531 l 5
+ 140.5 531 l 5
 EndSplineSet
 EndChar
 
@@ -10492,22 +10488,22 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-155 700 m 1
- 271 700 l 5
- 271 659 303 650 323 650 c 4
- 343 650 375 659 375 700 c 5
- 491 700 l 1
- 491 611 428 550 323 550 c 0
- 218 550 155 611 155 700 c 1
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+155 681 m 5
+ 271 681 l 5
+ 271 640 303 631 323 631 c 4
+ 343 631 375 640 375 681 c 5
+ 491 681 l 5
+ 491 592 428 531 323 531 c 4
+ 218 531 155 592 155 681 c 5
 EndSplineSet
 EndChar
 
@@ -10526,27 +10522,27 @@ SplineSet
  400 0 l 1
  400 460 l 1
 30 230 m 0
- 30 399 138 480 243 480 c 4
- 368 480 436 379 436 230 c 0
- 436 81 368 -20 243 -20 c 0
- 138 -20 30 61 30 230 c 0
+ 30 389 138 470 243 470 c 0
+ 358 470 446 379 446 230 c 0
+ 446 81 358 -10 243 -10 c 0
+ 138 -10 30 71 30 230 c 0
 236 230 m 0
- 236 179 273 150 318 150 c 0
- 358 150 400 174 400 230 c 0
- 400 286 358 310 318 310 c 0
- 273 310 236 281 236 230 c 0
-555 -100 m 1
- 588 -180 l 1
- 573 -200 543 -220 480 -220 c 0
- 426 -220 367 -189 367 -120 c 1
- 477 -90 l 1
- 477 -108 485 -120 505 -120 c 0
- 521 -120 541 -113 555 -100 c 1
-477 -90 m 1
- 367 -120 l 1
- 367 -51 439 -11 509 25 c 1
- 550 0 l 1
- 498 -32 477 -63 477 -90 c 1
+ 236 179 273 140 318 140 c 0
+ 358 140 400 174 400 230 c 0
+ 400 286 358 320 318 320 c 0
+ 273 320 236 281 236 230 c 0
+540 -100 m 5
+ 573 -180 l 5
+ 558 -200 528 -220 465 -220 c 4
+ 411 -220 352 -189 352 -120 c 5
+ 462 -90 l 5
+ 462 -108 470 -120 490 -120 c 4
+ 506 -120 526 -113 540 -100 c 5
+462 -90 m 5
+ 352 -120 l 5
+ 352 -51 424 -11 494 25 c 5
+ 535 0 l 5
+ 483 -32 462 -63 462 -90 c 5
 EndSplineSet
 EndChar
 
@@ -11148,6 +11144,140 @@ SplineSet
  478 621 l 5
  338 531 l 5
  258 611 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni1E9E
+Encoding: 7838 7838 372
+Width: 996
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+80 346 m 1
+ 300 306 l 1
+ 300 0 l 1
+ 80 0 l 1
+ 80 346 l 1
+563 345 m 1
+ 563 425 l 1
+ 633 425 674 445 674 491 c 0
+ 674 527 638 548 538 548 c 0
+ 413 548 300 477 300 306 c 5
+ 80 346 l 1
+ 80 555 252 710 527 710 c 0
+ 777 710 901 628 901 514 c 0
+ 901 405 768 345 563 345 c 1
+623 -20 m 0
+ 408 -20 345 136 345 245 c 1
+ 531 245 l 1
+ 531 189 566 150 623 150 c 0
+ 683 150 704 169 704 215 c 0
+ 704 271 653 295 563 295 c 1
+ 563 380 l 1
+ 768 380 921 324 921 185 c 0
+ 921 66 798 -20 623 -20 c 0
+EndSplineSet
+EndChar
+
+StartChar: Zacute
+Encoding: 377 377 373
+Width: 665
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+70 505 m 1
+ 70 700 l 1
+ 655 700 l 1
+ 347 185 l 5
+ 610 185 l 1
+ 610 0 l 1
+ 5 0 l 1
+ 306 505 l 1
+ 70 505 l 1
+542 930 m 5
+ 362 780 l 5
+ 252 830 l 5
+ 402 990 l 5
+ 542 930 l 5
+EndSplineSet
+EndChar
+
+StartChar: zacute
+Encoding: 378 378 374
+Width: 560
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+230 285 m 5
+ 65 285 l 5
+ 65 460 l 5
+ 545 460 l 5
+ 349 175 l 5
+ 505 175 l 5
+ 505 0 l 5
+ 15 0 l 5
+ 230 285 l 5
+485 681 m 5
+ 305 531 l 5
+ 195 581 l 5
+ 345 741 l 5
+ 485 681 l 5
+EndSplineSet
+EndChar
+
+StartChar: Zdotaccent
+Encoding: 379 379 375
+Width: 665
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+70 505 m 1
+ 70 700 l 1
+ 655 700 l 1
+ 347 185 l 5
+ 610 185 l 1
+ 610 0 l 1
+ 5 0 l 1
+ 306 505 l 1
+ 70 505 l 1
+254 878 m 0
+ 254 937 302 976 362 976 c 0
+ 422 976 470 937 470 878 c 0
+ 470 819 422 780 362 780 c 0
+ 302 780 254 819 254 878 c 0
+EndSplineSet
+EndChar
+
+StartChar: zdotaccent
+Encoding: 380 380 376
+Width: 560
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+230 285 m 5
+ 65 285 l 5
+ 65 460 l 5
+ 545 460 l 5
+ 349 175 l 5
+ 505 175 l 5
+ 505 0 l 5
+ 15 0 l 5
+ 230 285 l 5
+197 629 m 0
+ 197 688 245 727 305 727 c 0
+ 365 727 413 688 413 629 c 0
+ 413 570 365 531 305 531 c 0
+ 245 531 197 570 197 629 c 0
 EndSplineSet
 EndChar
 EndChars
