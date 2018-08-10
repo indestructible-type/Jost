@@ -1,5 +1,3 @@
-Renner\* has been renamed to Jost\*, but the indestructible type\* website does not yet reflect these changes, and so some of this page is temporarily broken!
-==============================================================================================================================================================
 [Jost*](http://indestructible-type.github.io/Jost.html)
 ========
 ![Jost* Picture](https://indestructible-type.github.io/Jost/0.png)
