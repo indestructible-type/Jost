@@ -42,7 +42,7 @@ Renamed font from "Renner\*" to "Jost\*" due to international intellectual prope
 Web Use
 -------
 To use on your webpage, simply put the following line of code into the `<head>` of the webpage you'd like to display Jost* and use `font-family: 'Jost*';` in your css.<br>
-`<link rel="stylesheet" href="https://indestructibletype-fonthosting.github.io/Jost.css" type="text/css" charset="utf-8" />`
+`<link rel="stylesheet" href="https://indestructibletype-fonthosting.github.io/jost.css" type="text/css" charset="utf-8" />`
 
 Building the Variable Font.
 ---------------------------
