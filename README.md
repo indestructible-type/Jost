@@ -24,19 +24,19 @@ features requested by you! [Visit the website for more information!](http://inde
 
 Changelog
 ---------
-<b>v2.0</b>
+<b>2.0</b>
 Rebuilt from the ground up.<br>
-<b>v2.1</b>
+<b>2.1</b>
 Added oe ligatures to support French, fixed some italics<br>
-<b>v2.2 </b>
+<b>2.2 </b>
 Added alternative a, fixed some kerning, fixed overshoot in bolder weights, added thin version!<br>
-<b>v2.3 </b>
+<b>2.3 </b>
 Fixed missing kerning information on Book, Medium, and Bold weights<br>
-<b>v3.0 </b>
+<b>3.0 </b>
 Redesigned and rebuilt to work as an OpenType Variable Font. Added Hairline, Semi, and Heavy weights. Added tabular number alternatives. Improved language support. General fixing of things.<br>
-<b>v3.1 </b>
+<b>3.1 </b>
 Fixed metadata and metric issues<br>
-<b>v3.2 </b>
+<b>3.2 </b>
 Renamed font from "Renner\*" to "Jost\*" due to international intellectual property rights concerns. Fixed some kerning issues, added capital sharp S, added Polish glyphs. Minor design fixes.
 
 Web Use
