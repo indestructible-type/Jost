@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="1">
-  <advance width="793"/>
+  <advance width="747"/>
   <unicode hex="0143"/>
   <outline>
     <contour>
-      <point x="170" y="524" type="line"/>
-      <point x="204" y="735" type="line"/>
-      <point x="746" y="176" type="line"/>
-      <point x="714" y="-35" type="line"/>
+      <point x="705" y="700" type="line"/>
+      <point x="866" y="700" type="line"/>
+      <point x="616" y="-32" type="line"/>
+      <point x="308" y="391" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="262" y="732" type="line"/>
+      <point x="570" y="309" type="line"/>
     </contour>
     <contour>
-      <point x="680" y="700" type="line"/>
-      <point x="843" y="700" type="line"/>
-      <point x="714" y="-35" type="line"/>
-      <point x="583" y="150" type="line"/>
-    </contour>
-    <contour>
-      <point x="204" y="735" type="line"/>
-      <point x="334" y="550" type="line"/>
-      <point x="237" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="697" y="915" type="line"/>
-      <point x="491" y="765" type="line"/>
-      <point x="412" y="808" type="line"/>
-      <point x="591" y="968" type="line"/>
+      <point x="774" y="905" type="line"/>
+      <point x="559" y="763" type="line"/>
+      <point x="481" y="810" type="line"/>
+      <point x="672" y="963" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -5,7 +5,7 @@
   <axes>
       <axis minimum="100" maximum="900" default="400" name="Weight" tag="wght">
       </axis>
-      <axis minimum="0" maximum="1" default="0" name="Italic" tag="ital">
+      <axis minimum="0" maximum="2" default="0" name="Italic" tag="ital">
       </axis>
   </axes>
 
@@ -73,55 +73,55 @@
     <source familyname="Jost" filename="./sources/Jost-100-HairlineItalic.ufo" name="master_10">
       <location>
         <dimension name="Weight" xvalue="100"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-200-ThinItalic.ufo" name="master_11">
       <location>
         <dimension name="Weight" xvalue="200"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-300-LightItalic.ufo" name="master_12">
       <location>
         <dimension name="Weight" xvalue="300"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-400-BookItalic.ufo" name="master_13">
       <location>
         <dimension name="Weight" xvalue="400"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-500-MediumItalic.ufo" name="master_14">
       <location>
         <dimension name="Weight" xvalue="500"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-600-SemiItalic.ufo" name="master_15">
       <location>
         <dimension name="Weight" xvalue="600"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-700-BoldItalic.ufo" name="master_16">
       <location>
         <dimension name="Weight" xvalue="700"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-800-HeavyItalic.ufo" name="master_17">
       <location>
         <dimension name="Weight" xvalue="800"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
     <source familyname="Jost" filename="./sources/Jost-900-BlackItalic.ufo" name="master_18">
       <location>
         <dimension name="Weight" xvalue="900"/>
-        <dimension name="Italic" xvalue="1"/>
+        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
   </sources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="806"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="266.5" y="350" type="curve" smooth="yes"/>
+      <point x="251.5" y="252.5"/>
+      <point x="291.5" y="162"/>
+      <point x="398.5" y="160.5" type="curve" smooth="yes"/>
+      <point x="506.5" y="159"/>
+      <point x="587.5" y="246"/>
+      <point x="605.5" y="350" type="curve" smooth="yes"/>
+      <point x="621" y="448"/>
+      <point x="583" y="538.5"/>
+      <point x="473.5" y="539.5" type="curve" smooth="yes"/>
+      <point x="365.5" y="540.5"/>
+      <point x="284.5" y="454"/>
+    </contour>
+    <contour>
+      <point x="62" y="350" type="curve" smooth="yes"/>
+      <point x="94" y="561"/>
+      <point x="277" y="718"/>
+      <point x="493" y="718" type="curve" smooth="yes"/>
+      <point x="707" y="718"/>
+      <point x="839.5" y="555"/>
+      <point x="810" y="350" type="curve" smooth="yes"/>
+      <point x="778" y="138"/>
+      <point x="598.5" y="-27"/>
+      <point x="377" y="-26.5" type="curve" smooth="yes"/>
+      <point x="159" y="-26"/>
+      <point x="32.5" y="145"/>
+    </contour>
+    <contour>
+      <point x="365" y="855" type="line"/>
+      <point x="365" y="899"/>
+      <point x="439" y="935"/>
+      <point x="475.5" y="934.5" type="curve" smooth="yes"/>
+      <point x="527.5" y="934"/>
+      <point x="541.5" y="888"/>
+      <point x="588" y="889.5" type="curve" smooth="yes"/>
+      <point x="611.5" y="890.5"/>
+      <point x="632" y="912"/>
+      <point x="652" y="936.5" type="curve"/>
+      <point x="694" y="891" type="line"/>
+      <point x="672" y="857"/>
+      <point x="630.5" y="819"/>
+      <point x="582.5" y="821" type="curve" smooth="yes"/>
+      <point x="536" y="822.5"/>
+      <point x="515.5" y="867.5"/>
+      <point x="474" y="866.5" type="curve" smooth="yes"/>
+      <point x="438.5" y="865.5"/>
+      <point x="423" y="834.5"/>
+      <point x="414.5" y="816.5" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

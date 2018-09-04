@@ -5,17 +5,17 @@
     <key>familyName</key>
     <string>Jost*</string>
     <key>styleName</key>
-    <string>it-BoldItalic</string>
+    <string>BoldItalic</string>
     <key>styleMapFamilyName</key>
-    <string>Jost* Bold Italic</string>
+    <string>Jost* 700 Bold Italic</string>
     <key>styleMapStyleName</key>
     <string>bold italic</string>
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>200</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2018, Owen Earl,,,</string>
+    <string>This typeface is licensed under the SIL open font license.</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
@@ -31,7 +31,7 @@
     <key>note</key>
     <string>2018-6-8: Created with FontForge (http://fontforge.org)</string>
     <key>openTypeHeadCreated</key>
-    <string>2018/06/08 16:55:16</string>
+    <string>2018/06/08 17:52:16</string>
     <key>openTypeHheaAscender</key>
     <integer>1030</integer>
     <key>openTypeHheaDescender</key>
@@ -39,7 +39,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>100</integer>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2018, indestructible type,
+    <string>Copyright (c) 2018, indestructible type*
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -135,7 +135,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 3.000</string>
+    <string>Version 3.200</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Jost*</string>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -160,9 +162,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2WinDescent</key>
     <integer>300</integer>
     <key>postscriptFontName</key>
-    <string>Jost-it-BoldItalic</string>
+    <string>Jost-BoldItalic</string>
     <key>postscriptFullName</key>
-    <string>Jost* Bold Italic</string>
+    <string>Jost* 700 Bold Italic</string>
     <key>postscriptWeightName</key>
     <string>Bold</string>
     <key>postscriptUnderlineThickness</key>

@@ -5,15 +5,15 @@
     <key>familyName</key>
     <string>Jost*</string>
     <key>styleName</key>
-    <string>it-Book</string>
+    <string>Book</string>
     <key>styleMapFamilyName</key>
-    <string>Jost* Book</string>
+    <string>Jost* 400 Book</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>300</integer>
     <key>copyright</key>
     <string>This typeface is licensed under the SIL open font license.</string>
     <key>unitsPerEm</key>
@@ -40,7 +40,7 @@
     <integer>100</integer>
     <key>openTypeNameLicense</key>
     <string>Copyright (c) 2016, indestructible-type.github.io,
-with Reserved Font Name Jost*.
+with Reserved Font Name Renner*.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -136,7 +136,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 3.000</string>
+    <string>Version 3.300</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Jost*</string>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -161,9 +163,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2WinDescent</key>
     <integer>300</integer>
     <key>postscriptFontName</key>
-    <string>Jost-it-Book</string>
+    <string>Jost-Book</string>
     <key>postscriptFullName</key>
-    <string>Jost* Book</string>
+    <string>Jost* 400 Book</string>
     <key>postscriptWeightName</key>
     <string>Book</string>
     <key>postscriptUnderlineThickness</key>

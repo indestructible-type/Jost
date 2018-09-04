@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccaron" format="1">
+  <advance width="470"/>
+  <unicode hex="010D"/>
+  <outline>
+    <contour>
+      <point x="78" y="230" type="curve" smooth="yes"/>
+      <point x="61.5" y="120.5"/>
+      <point x="124" y="21"/>
+      <point x="239" y="20" type="curve" smooth="yes"/>
+      <point x="308" y="19.5"/>
+      <point x="367" y="53.5"/>
+      <point x="403" y="86" type="curve"/>
+      <point x="397.5" y="47.5" type="line"/>
+      <point x="360" y="16.5"/>
+      <point x="301.5" y="-9.5"/>
+      <point x="236" y="-9.5" type="curve" smooth="yes"/>
+      <point x="103" y="-9.5"/>
+      <point x="29" y="104.5"/>
+      <point x="47.5" y="230" type="curve" smooth="yes"/>
+      <point x="68" y="362"/>
+      <point x="181" y="469.5"/>
+      <point x="315.5" y="469.5" type="curve" smooth="yes"/>
+      <point x="376.5" y="469.5"/>
+      <point x="429" y="445"/>
+      <point x="459" y="411.5" type="curve"/>
+      <point x="453" y="373.5" type="line"/>
+      <point x="428.5" y="410.5"/>
+      <point x="377" y="440"/>
+      <point x="313.5" y="440" type="curve" smooth="yes"/>
+      <point x="197" y="440"/>
+      <point x="97" y="345.5"/>
+    </contour>
+    <contour>
+      <point x="334" y="578" type="line"/>
+      <point x="491" y="701" type="line"/>
+      <point x="509.5" y="683" type="line"/>
+      <point x="330.5" y="544.5" type="line"/>
+      <point x="197.5" y="684.5" type="line"/>
+      <point x="219" y="701.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute" format="1">
+  <advance width="474"/>
+  <unicode hex="0107"/>
+  <outline>
+    <contour>
+      <point x="172.5" y="230" type="curve" smooth="yes"/>
+      <point x="161" y="158.5"/>
+      <point x="201" y="100"/>
+      <point x="274.5" y="98.5" type="curve" smooth="yes"/>
+      <point x="335.5" y="97"/>
+      <point x="392" y="129.5"/>
+      <point x="427.5" y="169.5" type="curve"/>
+      <point x="407.5" y="36.5" type="line"/>
+      <point x="368" y="8.5"/>
+      <point x="316.5" y="-9.5"/>
+      <point x="255" y="-9.5" type="curve" smooth="yes"/>
+      <point x="113.5" y="-9"/>
+      <point x="20.5" y="94.5"/>
+      <point x="40" y="230" type="curve" smooth="yes"/>
+      <point x="60.5" y="369.5"/>
+      <point x="183.5" y="469"/>
+      <point x="328.5" y="469.5" type="curve" smooth="yes"/>
+      <point x="387.5" y="469.5"/>
+      <point x="435.5" y="452.5"/>
+      <point x="471.5" y="424" type="curve"/>
+      <point x="450.5" y="290" type="line"/>
+      <point x="428" y="334.5"/>
+      <point x="381.5" y="362.5"/>
+      <point x="327.5" y="362" type="curve" smooth="yes"/>
+      <point x="252.5" y="361.5"/>
+      <point x="185.5" y="302.5"/>
+    </contour>
+    <contour>
+      <point x="496" y="677.5" type="line"/>
+      <point x="298" y="531" type="line"/>
+      <point x="228" y="571.5" type="line"/>
+      <point x="398.5" y="728.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

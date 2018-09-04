@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="320"/>
+  <advance width="303"/>
   <unicode hex="0130"/>
   <outline>
     <contour>
-      <point x="197" y="700" type="line"/>
-      <point x="369" y="700" type="line"/>
-      <point x="246" y="0" type="line"/>
-      <point x="74" y="0" type="line"/>
+      <point x="251" y="700" type="line"/>
+      <point x="423" y="700" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="13" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="218" y="868" type="curve" smooth="yes"/>
-      <point x="227" y="918"/>
-      <point x="274" y="961"/>
-      <point x="329" y="961" type="curve" smooth="yes"/>
-      <point x="384" y="961"/>
-      <point x="416" y="918"/>
-      <point x="407" y="868" type="curve" smooth="yes"/>
-      <point x="398" y="818"/>
-      <point x="352" y="776"/>
-      <point x="297" y="776" type="curve" smooth="yes"/>
-      <point x="242" y="776"/>
-      <point x="209" y="818"/>
+      <point x="305" y="862" type="curve" smooth="yes"/>
+      <point x="317" y="905"/>
+      <point x="369" y="942"/>
+      <point x="413" y="941" type="curve" smooth="yes"/>
+      <point x="458" y="940"/>
+      <point x="489" y="902"/>
+      <point x="477" y="857" type="curve" smooth="yes"/>
+      <point x="465" y="814"/>
+      <point x="413" y="777"/>
+      <point x="369" y="778" type="curve" smooth="yes"/>
+      <point x="324" y="779"/>
+      <point x="293" y="817"/>
     </contour>
   </outline>
 </glyph>

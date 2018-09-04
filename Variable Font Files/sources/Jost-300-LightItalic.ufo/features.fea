@@ -76,12 +76,12 @@ lookup Letsgetourkernon {
     @kc2_first_6 = [\K \X \Z ];
     @kc2_first_7 = [\at \D \G \O \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Dcaron 
 	\Dcroat \Gcircumflex \Gbreve \Gdotaccent \uni0122 \Omacron \Obreve ];
-    @kc2_first_8 = [\a \h \m \n \s \agrave \aacute \acircumflex \atilde \adieresis \aring \egrave 
-	\eacute \ecircumflex \edieresis \ntilde \amacron \abreve \aogonek 
-	\hcircumflex \nacute \uni0146 \ncaron ];
+    @kc2_first_8 = [\h \m \n \s \agrave \aacute \acircumflex \atilde \adieresis \aring \egrave \eacute 
+	\ecircumflex \edieresis \ntilde \amacron \abreve \aogonek \hcircumflex 
+	\nacute \uni0146 \ncaron ];
     @kc2_first_9 = [\b \e \o \p \ograve \oacute \ocircumflex \otilde \odieresis \oslash \emacron 
 	\ebreve \edotaccent \eogonek \ecaron \omacron \obreve \oe ];
-    @kc2_first_10 = [\c \u \dotlessi \a.alt \agrave.alt \aacute.alt \acircumflex.alt \atilde.alt 
+    @kc2_first_10 = [\a \c \u \dotlessi \a.alt \agrave.alt \aacute.alt \acircumflex.alt \atilde.alt 
 	\adieresis.alt \aring.alt \amacron.alt \abreve.alt \aogonek.alt ];
     @kc2_first_11 = [\k \x \z \uni0137 \kgreenlandic \zcaron ];
     @kc2_first_12 = [\r \v \w \y \racute \uni0157 \rcaron ];
@@ -97,8 +97,8 @@ lookup Letsgetourkernon {
     @kc2_second_4 = [\V \W \backslash ];
     @kc2_second_5 = [\seven \X \Z ];
     @kc2_second_6 = [\Y \Ydieresis \T ];
-    @kc2_second_7 = [\a ];
-    @kc2_second_8 = [\c \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+    @kc2_second_7 = [\s ];
+    @kc2_second_8 = [\a \c \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
 	\ocircumflex \otilde \odieresis \cacute \ccircumflex \cdotaccent 
 	\ccaron \dcaron \emacron \ebreve \edotaccent \eogonek \ecaron 
 	\gcircumflex \gbreve \gdotaccent \omacron \obreve \oe \a.alt 
@@ -253,7 +253,8 @@ feature kern {
 	\aacute.alt \acircumflex.alt \atilde.alt \adieresis.alt \aring.alt 
 	\amacron.alt \abreve.alt \aogonek.alt \dagger \daggerdbl \ellipsis \uniFF10 
 	\uniFF11 \uniFF12 \uniFF13 \uniFF14 \uniFF15 \uniFF16 \uniFF17 \uniFF18 \uniFF19 
-	\caron \napostrophe \IJ \ij \uni0237 \Sacute \sacute \Scircumflex \scircumflex ];
+	\caron \napostrophe \IJ \ij \uni0237 \Sacute \sacute \Scircumflex \scircumflex 
+	\uni1E9E \Zacute \zacute \Zdotaccent \zdotaccent \Tcaron \tcaron \Uring \uring ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

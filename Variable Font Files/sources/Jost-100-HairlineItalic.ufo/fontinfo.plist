@@ -5,15 +5,15 @@
     <key>familyName</key>
     <string>Jost* Hairline</string>
     <key>styleName</key>
-    <string>it-HairlineItalic</string>
+    <string>HairlineItalic</string>
     <key>styleMapFamilyName</key>
-    <string>Jost* Hairline Italic</string>
+    <string>Jost* 200 Hairline Italic</string>
     <key>styleMapStyleName</key>
     <string>italic</string>
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>200</integer>
     <key>copyright</key>
     <string>This typeface is licensed under the SIL open font license.</string>
     <key>unitsPerEm</key>
@@ -29,9 +29,9 @@
     <key>italicAngle</key>
     <real>-10</real>
     <key>note</key>
-    <string>2016-6-10: Created with FontForge (http://fontforge.org)</string>
+    <string>2018-6-8: Created with FontForge (http://fontforge.org)</string>
     <key>openTypeHeadCreated</key>
-    <string>2016/06/11 02:01:29</string>
+    <string>2018/06/08 17:52:16</string>
     <key>openTypeHheaAscender</key>
     <integer>1030</integer>
     <key>openTypeHheaDescender</key>
@@ -39,8 +39,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>100</integer>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2016, indestructible-type.github.io,
-with Reserved Font Name Jost*.
+    <string>Copyright (c) 2018, indestructible type*
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -136,7 +135,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 3.000</string>
+    <string>Version 3.200</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Jost*</string>
     <key>openTypeOS2WidthClass</key>
@@ -163,11 +162,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2WinDescent</key>
     <integer>300</integer>
     <key>postscriptFontName</key>
-    <string>Jost-it-HairlineItalic</string>
+    <string>Jost-HairlineItalic</string>
     <key>postscriptFullName</key>
-    <string>Jost* Hairline Italic</string>
+    <string>Jost* 200 Hairline Italic</string>
     <key>postscriptWeightName</key>
-    <string>Thin</string>
+    <string>Hairline</string>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>postscriptUnderlinePosition</key>

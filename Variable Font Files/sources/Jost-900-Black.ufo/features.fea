@@ -97,7 +97,7 @@ lookup Letsgetourkernon {
     @kc2_second_4 = [\V \W \backslash ];
     @kc2_second_5 = [\seven \X \Z ];
     @kc2_second_6 = [\Y \Ydieresis \T ];
-    @kc2_second_7 = [\a ];
+    @kc2_second_7 = [\a \s ];
     @kc2_second_8 = [\c \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
 	\ocircumflex \otilde \odieresis \cacute \ccircumflex \cdotaccent 
 	\ccaron \dcaron \emacron \ebreve \edotaccent \eogonek \ecaron 
@@ -251,7 +251,8 @@ feature kern {
 	\aacute.alt \acircumflex.alt \atilde.alt \adieresis.alt \aring.alt 
 	\amacron.alt \abreve.alt \aogonek.alt \dagger \daggerdbl \ellipsis \uniFF10 
 	\uniFF11 \uniFF12 \uniFF13 \uniFF14 \uniFF15 \uniFF16 \uniFF17 \uniFF18 \uniFF19 
-	\caron \napostrophe \IJ \ij \uni0237 \Sacute \sacute \Scircumflex \scircumflex ];
+	\caron \napostrophe \IJ \ij \uni0237 \Sacute \sacute \Scircumflex \scircumflex 
+	\uni1E9E \Zacute \zacute \Zdotaccent \zdotaccent \Uring \uring \Tcaron \tcaron ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="1">
-  <advance width="600"/>
+  <advance width="564"/>
   <unicode hex="0100"/>
   <outline>
     <contour>
-      <point x="175" y="272" type="line"/>
-      <point x="177" y="282" type="line"/>
-      <point x="522" y="282" type="line"/>
-      <point x="520" y="272" type="line"/>
+      <point x="158" y="272" type="line"/>
+      <point x="161" y="282" type="line"/>
+      <point x="486" y="282" type="line"/>
+      <point x="483" y="272" type="line"/>
     </contour>
     <contour>
-      <point x="421" y="688" type="line"/>
-      <point x="185" y="277" type="line"/>
-      <point x="183" y="273" type="line"/>
-      <point x="27" y="0" type="line"/>
-      <point x="15" y="0" type="line"/>
-      <point x="426" y="715" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="573" y="0" type="line"/>
-      <point x="514" y="273" type="line"/>
-      <point x="514" y="276" type="line"/>
+      <point x="465" y="688" type="line"/>
+      <point x="169" y="277" type="line"/>
+      <point x="167" y="273" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="-42" y="0" type="line"/>
+      <point x="473" y="715" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="478" y="273" type="line"/>
+      <point x="478" y="276" type="line"/>
     </contour>
     <contour>
-      <point x="265" y="795" type="line"/>
-      <point x="267" y="805" type="line"/>
-      <point x="617" y="805" type="line"/>
-      <point x="615" y="795" type="line"/>
+      <point x="335" y="795" type="line"/>
+      <point x="338" y="805" type="line"/>
+      <point x="668" y="805" type="line"/>
+      <point x="664" y="795" type="line"/>
     </contour>
   </outline>
 </glyph>

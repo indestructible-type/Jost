@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="1">
+  <advance width="539"/>
+  <unicode hex="014D"/>
+  <outline>
+    <contour>
+      <point x="55.5" y="230" type="curve" smooth="yes"/>
+      <point x="76" y="361"/>
+      <point x="188" y="470"/>
+      <point x="322" y="469.5" type="curve" smooth="yes"/>
+      <point x="454.5" y="469"/>
+      <point x="527" y="355"/>
+      <point x="508.5" y="230" type="curve" smooth="yes"/>
+      <point x="488" y="99"/>
+      <point x="375.5" y="-10"/>
+      <point x="241.5" y="-9.5" type="curve" smooth="yes"/>
+      <point x="109" y="-9"/>
+      <point x="37" y="105"/>
+    </contour>
+    <contour>
+      <point x="65.5" y="230" type="curve" smooth="yes"/>
+      <point x="47.5" y="110"/>
+      <point x="116" y="1"/>
+      <point x="242" y="0.5" type="curve" smooth="yes"/>
+      <point x="369.5" y="0"/>
+      <point x="478.5" y="104"/>
+      <point x="498.5" y="230" type="curve" smooth="yes"/>
+      <point x="516.5" y="350"/>
+      <point x="448" y="459"/>
+      <point x="322" y="459.5" type="curve" smooth="yes"/>
+      <point x="194.5" y="460"/>
+      <point x="85.5" y="356"/>
+    </contour>
+    <contour>
+      <point x="166.5" y="550" type="line"/>
+      <point x="168.5" y="560" type="line"/>
+      <point x="508" y="560" type="line"/>
+      <point x="506.5" y="550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

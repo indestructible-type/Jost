@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="393"/>
+  <advance width="371"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="195" y="436" type="curve" smooth="yes"/>
-      <point x="204" y="486"/>
-      <point x="251" y="528"/>
-      <point x="306" y="528" type="curve" smooth="yes"/>
-      <point x="361" y="528"/>
-      <point x="394" y="486"/>
-      <point x="385" y="436" type="curve" smooth="yes"/>
-      <point x="376" y="386"/>
-      <point x="328" y="343"/>
-      <point x="273" y="343" type="curve" smooth="yes"/>
-      <point x="218" y="343"/>
-      <point x="186" y="386"/>
+      <point x="201" y="436" type="curve" smooth="yes"/>
+      <point x="201" y="487"/>
+      <point x="241" y="529"/>
+      <point x="297" y="529" type="curve" smooth="yes"/>
+      <point x="353" y="529"/>
+      <point x="392" y="487"/>
+      <point x="392" y="436" type="curve" smooth="yes"/>
+      <point x="392" y="385"/>
+      <point x="353" y="342"/>
+      <point x="297" y="342" type="curve" smooth="yes"/>
+      <point x="241" y="342"/>
+      <point x="201" y="385"/>
     </contour>
     <contour>
-      <point x="161" y="110" type="line"/>
-      <point x="308" y="78" type="line"/>
-      <point x="138" y="-172" type="line"/>
-      <point x="28" y="-149" type="line"/>
+      <point x="111" y="108" type="line"/>
+      <point x="256" y="73" type="line"/>
+      <point x="53" y="-171" type="line"/>
+      <point x="-59" y="-146" type="line"/>
     </contour>
   </outline>
 </glyph>
