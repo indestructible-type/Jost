@@ -2,7 +2,7 @@
 ========
 ![Jost* Picture](https://indestructible-type.github.io/Jost/0.png)
 Jost* is an original font created by indestructible type*. It is inspired by 
-the designs of Paul Renner. This is version 3.2.
+the designs of Paul Renner. This is version 3.3.
 
 Jost* is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io).
 
@@ -37,7 +37,9 @@ Redesigned and rebuilt to work as an OpenType Variable Font. Added Hairline, Sem
 <b>3.1 </b>
 Fixed metadata and metric issues<br>
 <b>3.2 </b>
-Renamed font from "Renner\*" to "Jost\*" due to international intellectual property rights concerns. Fixed some kerning issues, added capital sharp S, added Polish glyphs. Minor design fixes.
+Renamed font from "Renner\*" to "Jost\*" due to international intellectual property rights concerns. Fixed some kerning issues, added capital sharp S, added Polish glyphs. Minor design fixes.<br>
+<b>3.3 </b>
+Added optical compensation to italics. Added Czech support. Minor tweaks and fixes. 
 
 Web Use
 -------
