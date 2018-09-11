@@ -51,14 +51,16 @@ Building the Variable Font.
 Jost* is licensed under the [SIL open type license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), meaning that it is free to use and modify. However, because of the difficulty 
 associated with creating the OpenType Variable Font features, the compliled, functoning version of this font 
 requires a payment of $10 or more on the website. However, if you'd like to build this font yourself using 
-the source code, the follow the following instructions.
+the source code, please use the following instructions:
 
-Download the complete source code, either by cloning this repository or downloading the .zip file.
+  1. Download the complete source code, either by cloning this repository or downloading the .zip file.
 
-Download and install fontmake which can be found [here](https://github.com/googlei18n/fontmake).
+  2. Download and install fontmake which can be found [here](https://github.com/googlei18n/fontmake).
 
-Navigate to the "Variable Font Files" folder and run `fontmake -o variable -m jost.designspace`. This 
-should build the finished font file. If you have any questions don't look at me, I don't know what I'm doing.
+  3. Navigate to the "Variable Font Files" folder and run `fontmake -o variable -m jost.designspace`. This 
+should build the finished font file.
+
+If you have any questions don't look at me, I don't know what I'm doing.
 
 Contact
 -------
