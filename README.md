@@ -1,6 +1,6 @@
 [Jost*](http://indestructible-type.github.io/Jost.html)
 ========
-![Jost* Picture](https://indestructible-type.github.io/Jost/0.png)
+![Jost* Picture](https://indestructibletype.com/assets/Jost-h.svg)
 Jost* is an original font created by indestructible type*. It is inspired by 
 the designs of Paul Renner. This is version 3.3.
 
@@ -20,7 +20,7 @@ Variable Font technology that allows users to control the exact weight and itali
 Jost* is still being actively developed meaning it will continue to improve and future updates may include 
 features requested by you! [Visit the website for more information!](http://indestructibletype.com/Jost)
 
-![Jost* weights Picture](http://indestructibletype.com/Renner/weight.svg)
+![Jost* weights Picture](https://indestructibletype.com/Jost/weight.svg)
 
 Changelog
 ---------
