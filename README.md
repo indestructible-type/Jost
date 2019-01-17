@@ -43,8 +43,8 @@ Added optical compensation to italics. Added Czech support. Minor tweaks and fix
 
 Web Use
 -------
-To use on your webpage, simply put the following line of code into the `<head>` of the webpage you'd like to display Jost* and use `font-family: 'Jost*';` in your css.<br>
-`<link rel="stylesheet" href="https://indestructibletype-fonthosting.github.io/jost.css" type="text/css" charset="utf-8" />`
+To use on your webpage, simply put the following line of code into the `<head>` of the webpage you'd like to display Jost* and use `font-family: 'Jost';` in your css.<br>
+`<link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />`
 
 Building the Variable Font.
 ---------------------------
