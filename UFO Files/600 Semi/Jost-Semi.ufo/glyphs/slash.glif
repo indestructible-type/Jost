@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="slash" format="1">
-  <advance width="580"/>
+<glyph name="slash" format="2">
+  <advance width="579"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="440" y="700" type="line"/>
-      <point x="566" y="700" type="line"/>
-      <point x="146" y="-150" type="line"/>
+      <point x="439" y="700" type="line"/>
+      <point x="565" y="700" type="line"/>
+      <point x="145" y="-150" type="line"/>
       <point x="15" y="-150" type="line"/>
     </contour>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="1">
-  <advance width="584"/>
+  <advance width="583"/>
   <unicode hex="0114"/>
   <outline>
     <contour>
@@ -18,13 +18,13 @@
     <contour>
       <point x="234" y="285" type="line"/>
       <point x="289" y="441" type="line"/>
-      <point x="609" y="441" type="line"/>
+      <point x="608" y="441" type="line"/>
       <point x="554" y="285" type="line"/>
     </contour>
     <contour>
       <point x="249" y="700" type="line"/>
       <point x="435" y="700" type="line"/>
-      <point x="195" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
       <point x="10" y="0" type="line"/>
     </contour>
     <contour>
@@ -33,14 +33,14 @@
       <point x="500" y="903"/>
       <point x="499" y="878"/>
       <point x="529" y="874" type="curve" smooth="yes"/>
-      <point x="561" y="870"/>
+      <point x="562" y="870"/>
       <point x="587" y="904"/>
       <point x="605" y="926" type="curve"/>
-      <point x="716" y="924" type="line"/>
-      <point x="681" y="841"/>
-      <point x="612" y="780"/>
-      <point x="518" y="779" type="curve" smooth="yes"/>
-      <point x="424" y="778"/>
+      <point x="715" y="924" type="line"/>
+      <point x="680" y="841"/>
+      <point x="612" y="781"/>
+      <point x="518" y="780" type="curve" smooth="yes"/>
+      <point x="424" y="779"/>
       <point x="387" y="841"/>
     </contour>
   </outline>

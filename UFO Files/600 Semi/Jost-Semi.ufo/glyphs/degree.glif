@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="degree" format="1">
-  <advance width="291"/>
+<glyph name="degree" format="2">
+  <advance width="290"/>
   <unicode hex="00B0"/>
   <outline>
     <contour>
@@ -20,9 +20,9 @@
     <contour>
       <point x="82" y="598" type="curve" smooth="yes"/>
       <point x="82" y="559"/>
-      <point x="109" y="533"/>
-      <point x="145" y="533" type="curve" smooth="yes"/>
-      <point x="181" y="533"/>
+      <point x="109" y="532"/>
+      <point x="145" y="532" type="curve" smooth="yes"/>
+      <point x="181" y="532"/>
       <point x="209" y="559"/>
       <point x="209" y="598" type="curve" smooth="yes"/>
       <point x="209" y="637"/>

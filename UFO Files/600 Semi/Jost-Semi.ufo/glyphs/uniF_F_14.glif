@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFF14" format="1">
-  <advance width="615"/>
+<glyph name="uniFF14" format="2">
+  <advance width="614"/>
   <unicode hex="FF14"/>
   <outline>
     <contour>
       <point x="14" y="129" type="line"/>
-      <point x="132" y="237" type="line"/>
+      <point x="131" y="237" type="line"/>
       <point x="417" y="237" type="line" smooth="yes"/>
       <point x="434" y="252" type="line" smooth="yes"/>
-      <point x="593" y="252" type="line"/>
-      <point x="593" y="129" type="line"/>
+      <point x="592" y="252" type="line"/>
+      <point x="592" y="129" type="line"/>
     </contour>
     <contour>
-      <point x="152" y="164" type="line"/>
+      <point x="151" y="164" type="line"/>
       <point x="14" y="129" type="line"/>
       <point x="393" y="700" type="line"/>
-      <point x="492" y="700" type="line"/>
-      <point x="492" y="0" type="line"/>
+      <point x="491" y="700" type="line"/>
+      <point x="491" y="0" type="line"/>
       <point x="343" y="0" type="line"/>
       <point x="343" y="165" type="line" smooth="yes"/>
       <point x="356" y="176" type="line" smooth="yes"/>
-      <point x="356" y="471" type="line"/>
+      <point x="356" y="472" type="line"/>
     </contour>
   </outline>
 </glyph>

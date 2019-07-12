@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equal" format="1">
+<glyph name="equal" format="2">
   <advance width="600"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="52" y="117.5" type="line"/>
-      <point x="68.5" y="215" type="line"/>
+      <point x="52" y="117" type="line"/>
+      <point x="69" y="215" type="line"/>
       <point x="553" y="215" type="line"/>
-      <point x="536" y="117.5" type="line"/>
+      <point x="536" y="117" type="line"/>
     </contour>
     <contour>
-      <point x="81.5" y="290.5" type="line"/>
+      <point x="81" y="290" type="line"/>
       <point x="98" y="388" type="line"/>
-      <point x="582.5" y="388" type="line"/>
+      <point x="583" y="388" type="line"/>
       <point x="566" y="290" type="line"/>
     </contour>
   </outline>

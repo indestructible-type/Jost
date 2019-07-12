@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zdotaccent" format="1">
-  <advance width="526"/>
+<glyph name="zdotaccent" format="2">
+  <advance width="525"/>
   <unicode hex="017C"/>
   <outline>
     <contour>
       <point x="255" y="302" type="line"/>
-      <point x="82" y="302.5" type="line"/>
-      <point x="109.5" y="460" type="line"/>
-      <point x="568" y="459.5" type="line"/>
-      <point x="311" y="158" type="line"/>
-      <point x="479" y="157.5" type="line"/>
+      <point x="82" y="303" type="line"/>
+      <point x="110" y="460" type="line"/>
+      <point x="568" y="460" type="line"/>
+      <point x="310" y="158" type="line"/>
+      <point x="478" y="157" type="line"/>
       <point x="451" y="0" type="line"/>
       <point x="-17" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="268.5" y="628" type="curve" smooth="yes"/>
-      <point x="275.5" y="679.5"/>
-      <point x="325.5" y="716.5"/>
-      <point x="377.5" y="716.5" type="curve" smooth="yes"/>
-      <point x="430" y="716.5"/>
-      <point x="470" y="677.5"/>
-      <point x="463" y="625" type="curve" smooth="yes"/>
-      <point x="456" y="573.5"/>
-      <point x="406.5" y="536"/>
-      <point x="354.5" y="536" type="curve" smooth="yes"/>
-      <point x="302" y="536"/>
-      <point x="261.5" y="575.5"/>
+      <point x="269" y="628" type="curve" smooth="yes"/>
+      <point x="276" y="679"/>
+      <point x="325" y="717"/>
+      <point x="377" y="717" type="curve" smooth="yes"/>
+      <point x="429" y="717"/>
+      <point x="469" y="677"/>
+      <point x="462" y="625" type="curve" smooth="yes"/>
+      <point x="455" y="574"/>
+      <point x="406" y="537"/>
+      <point x="354" y="537" type="curve" smooth="yes"/>
+      <point x="302" y="537"/>
+      <point x="262" y="576"/>
     </contour>
   </outline>
 </glyph>

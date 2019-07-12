@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="pi" format="1">
-  <advance width="602"/>
+<glyph name="pi" format="2">
+  <advance width="601"/>
   <unicode hex="03C0"/>
   <outline>
     <contour>
@@ -24,7 +24,7 @@
       <point x="535" y="108" type="curve"/>
       <point x="535" y="-9" type="line"/>
       <point x="408" y="-9"/>
-      <point x="340" y="0"/>
+      <point x="340" y="-1"/>
       <point x="340" y="121" type="curve" smooth="yes"/>
     </contour>
   </outline>

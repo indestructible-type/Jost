@@ -18,6 +18,7 @@ lookup alta {
     sub \amacron by \amacron.alt ;
     sub \abreve by \abreve.alt ;
     sub \aogonek by \aogonek.alt ;
+    sub \uni0430 by \a.alt ;
 } alta;
 
 lookup TabularNumberslookup {
@@ -65,49 +66,58 @@ feature tnum {
 
 lookup Letsgetourkernon {
   lookupflag 0;
-    @kc2_first_1 = [\slash \seven \V \W ];
+    @kc2_first_1 = [\slash \seven \V \W \Wcircumflex \uni040E \uni0423 ];
     @kc2_first_2 = [\quotedbl \quotesingle \asterisk \grave \dieresis \ordfeminine \macron \degree 
 	\acute \ordmasculine \circumflex \breve \dotaccent \ring \tilde 
 	\quoteleft \quoteright \quotedblleft \quotedblright ];
-    @kc2_first_3 = [\nine \question \F \P ];
+    @kc2_first_3 = [\nine \question \F \P \uni0420 ];
     @kc2_first_4 = [\A \L \backslash \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \Amacron 
-	\Abreve \Aogonek \Lacute \uni013B \Lslash ];
-    @kc2_first_5 = [\three \eight \B \C \germandbls ];
-    @kc2_first_6 = [\K \X \Z ];
+	\Abreve \Aogonek \Lacute \uni013B \Lslash \uni0410 \uni0414 \uni041C ];
+    @kc2_first_5 = [\three \eight \B \C \germandbls \uni0411 \uni0412 \uni0417 \uni0421 ];
+    @kc2_first_6 = [\K \X \Z \uni0416 \uni041A \uni0425 ];
     @kc2_first_7 = [\at \D \G \O \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Dcaron 
-	\Dcroat \Gcircumflex \Gbreve \Gdotaccent \uni0122 \Omacron \Obreve ];
+	\Dcroat \Gcircumflex \Gbreve \Gdotaccent \uni0122 \Omacron \Obreve 
+	\uni041E \uni0424 \uni042D \uni042E ];
     @kc2_first_8 = [\a \h \m \n \s \agrave \aacute \acircumflex \atilde \adieresis \aring \egrave 
 	\eacute \ecircumflex \edieresis \ntilde \amacron \abreve \aogonek 
-	\hcircumflex \nacute \uni0146 \ncaron ];
+	\hcircumflex \nacute \uni0146 \ncaron \uni0430 \uni0432 \uni0434 
+	\uni0437 \uni043C \uni0446 \uni0449 ];
     @kc2_first_9 = [\b \e \o \p \ograve \oacute \ocircumflex \otilde \odieresis \oslash \emacron 
-	\ebreve \edotaccent \eogonek \ecaron \omacron \obreve \oe ];
-    @kc2_first_10 = [\c \u \dotlessi \a.alt \agrave.alt \aacute.alt \acircumflex.alt \atilde.alt 
-	\adieresis.alt \aring.alt \amacron.alt \abreve.alt \aogonek.alt ];
-    @kc2_first_11 = [\k \x \z \uni0137 \kgreenlandic \zcaron ];
-    @kc2_first_12 = [\r \v \w \y \racute \uni0157 \rcaron ];
-    @kc2_first_13 = [\T \Y \Yacute \Ydieresis ];
+	\ebreve \edotaccent \eogonek \ecaron \omacron \obreve \oe \uni042A 
+	\uni042C \uni0435 \uni043E \uni0440 \uni044E \uni0450 \uni0451 ];
+    @kc2_first_10 = [\c \u \dotlessi \uni0438 \uni043B \uni043D \uni043F \uni0441 \uni0447 \uni0448 
+	\uni044B \uni044F \a.alt \agrave.alt \aacute.alt \acircumflex.alt 
+	\atilde.alt \adieresis.alt \aring.alt \amacron.alt \abreve.alt 
+	\aogonek.alt ];
+    @kc2_first_11 = [\k \x \z \uni0137 \kgreenlandic \zcaron \uni0436 \uni043A \uni0445 ];
+    @kc2_first_12 = [\r \v \w \y \racute \uni0157 \rcaron \uni0433 \uni0442 \uni0443 \uni0453 ];
+    @kc2_first_13 = [\T \Y \Yacute \Ydieresis \uni0413 \uni0422 ];
     @kc2_first_14 = [\J \j \jcircumflex ];
     @kc2_first_15 = [\q \g ];
     @kc2_second_1 = [\quotedbl \quotesingle \asterisk \grave \ordfeminine \macron \ordmasculine 
 	\quoteleft \quoteright \quotedblleft \quotedblright ];
-    @kc2_second_2 = [\comma \period \slash \A ];
+    @kc2_second_2 = [\comma \period \slash \A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring 
+	\AE \Amacron \Abreve \Aogonek \uni0410 \uni0414 \uni0434 ];
     @kc2_second_3 = [\at \C \G \O \Q \Ccedilla \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash 
 	\Cacute \Ccircumflex \Cdotaccent \Ccaron \Gcircumflex \Gbreve 
-	\Gdotaccent \uni0122 \Omacron \Obreve ];
-    @kc2_second_4 = [\V \W \backslash ];
-    @kc2_second_5 = [\seven \X \Z ];
-    @kc2_second_6 = [\Y \Ydieresis \T ];
-    @kc2_second_7 = [\a \s ];
+	\Gdotaccent \uni0122 \Omacron \Obreve \OE \uni041E \uni0421 \uni0424 ];
+    @kc2_second_4 = [\V \W \backslash \Wcircumflex ];
+    @kc2_second_5 = [\seven \X \Z \uni040E \uni0416 \uni0423 \uni0425 ];
+    @kc2_second_6 = [\T \Y \Ydieresis \uni0422 ];
+    @kc2_second_7 = [\a \s \uni0430 \uni0437 \uni044F ];
     @kc2_second_8 = [\c \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
 	\ocircumflex \otilde \odieresis \cacute \ccircumflex \cdotaccent 
 	\ccaron \dcaron \emacron \ebreve \edotaccent \eogonek \ecaron 
-	\gcircumflex \gbreve \gdotaccent \omacron \obreve \oe \a.alt 
-	\agrave.alt \aacute.alt \acircumflex.alt \atilde.alt \adieresis.alt 
-	\aring.alt \amacron.alt \abreve.alt \aogonek.alt ];
-    @kc2_second_9 = [\m \n \p \r \ntilde \dotlessi \nacute \uni0146 \ncaron \racute \uni0157 \rcaron ];
+	\gcircumflex \gbreve \gdotaccent \omacron \obreve \oe \uni0435 \uni043E 
+	\uni0441 \uni0444 \uni0450 \uni0451 \a.alt \agrave.alt \aacute.alt 
+	\acircumflex.alt \atilde.alt \adieresis.alt \aring.alt \amacron.alt 
+	\abreve.alt \aogonek.alt ];
+    @kc2_second_9 = [\m \n \p \r \ntilde \dotlessi \nacute \uni0146 \ncaron \racute \uni0157 \rcaron 
+	\uni0432 \uni0433 \uni0438 \uni043A \uni043B \uni043C \uni043D \uni043F 
+	\uni0440 \uni0446 \uni0448 \uni0449 \uni044B \uni044C \uni044D \uni044E ];
     @kc2_second_10 = [\u ];
-    @kc2_second_11 = [\v \w \y \yacute \ydieresis ];
-    @kc2_second_12 = [\x \z \multiply ];
+    @kc2_second_11 = [\v \w \y \yacute \ydieresis \uni0443 \uni045E ];
+    @kc2_second_12 = [\x \z \multiply \uni0436 \uni0445 ];
     @kc2_second_13 = [\j \jcircumflex \J ];
     pos @kc2_first_1 @kc2_second_2 -120;
     pos @kc2_first_1 @kc2_second_3 -15;
@@ -254,7 +264,18 @@ feature kern {
 	\amacron.alt \abreve.alt \aogonek.alt \dagger \daggerdbl \ellipsis \uniFF10 
 	\uniFF11 \uniFF12 \uniFF13 \uniFF14 \uniFF15 \uniFF16 \uniFF17 \uniFF18 \uniFF19 
 	\caron \napostrophe \IJ \ij \uni0237 \Sacute \sacute \Scircumflex \scircumflex 
-	\uni1E9E \Zacute \zacute \Zdotaccent \zdotaccent \Tcaron \tcaron \Uring \uring ];
+	\uni1E9E \Zacute \zacute \Zdotaccent \zdotaccent \Tcaron \tcaron \Uring \uring 
+	\uni0123 \Hbar \hbar \Utilde \utilde \Umacron \umacron \Ubreve \ubreve 
+	\Wcircumflex \wcircumflex \Ycircumflex \ycircumflex \uni0400 \uni0401 \uni0403 
+	\uni040C \uni040D \uni040E \uni0410 \uni0411 \uni0412 \uni0413 \uni0414 \uni0415 
+	\uni0416 \uni0417 \uni0418 \uni0419 \uni041A \uni041B \uni041C \uni041D \uni041E 
+	\uni041F \uni0420 \uni0421 \uni0422 \uni0423 \uni0424 \uni0425 \uni0426 \uni0427 
+	\uni0428 \uni0429 \uni042A \uni042B \uni042C \uni042D \uni042E \uni042F \uni0430 
+	\uni0431 \uni0432 \uni0433 \uni0434 \uni0435 \uni0436 \uni0437 \uni0438 \uni0439 
+	\uni043A \uni043B \uni043C \uni043D \uni043E \uni043F \uni0440 \uni0441 \uni0442 
+	\uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 \uni0449 \uni044A \uni044B 
+	\uni044C \uni044D \uni044E \uni044F \uni0450 \uni0451 \uni0453 \uni045C \uni045D 
+	\uni045E \bullet ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcaron" format="1">
-  <advance width="300"/>
+<glyph name="tcaron" format="2">
+  <advance width="322"/>
   <unicode hex="0165"/>
   <outline>
     <contour>
@@ -16,10 +16,10 @@
       <point x="84" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="269" y="790" type="line"/>
-      <point x="321" y="770" type="line"/>
-      <point x="211" y="520" type="line"/>
-      <point x="174" y="533" type="line"/>
+      <point x="286.6" y="796" type="line"/>
+      <point x="339" y="776" type="line"/>
+      <point x="229" y="526" type="line"/>
+      <point x="191.8" y="539.4" type="line"/>
     </contour>
   </outline>
 </glyph>

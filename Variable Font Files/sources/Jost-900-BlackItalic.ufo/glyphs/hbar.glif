@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="1">
+  <advance width="559"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="298.839" y="779.773" type="line"/>
+      <point x="31.2855" y="0" type="line"/>
+      <point x="-163.523" y="0" type="line"/>
+      <point x="104.032" y="779.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.717" y="280.48" type="line"/>
+      <point x="227.81" y="300.508"/>
+      <point x="240.773" y="335.889"/>
+      <point x="210.14" y="343.544" type="curve" smooth="yes"/>
+      <point x="174.875" y="352.356"/>
+      <point x="144.777" y="304.488"/>
+      <point x="129.161" y="281.499" type="curve"/>
+      <point x="95.8795" y="282.515" type="line"/>
+      <point x="128.96" y="380.868"/>
+      <point x="192.16" y="477.968"/>
+      <point x="307.117" y="480.767" type="curve" smooth="yes"/>
+      <point x="416.31" y="483.425"/>
+      <point x="442.349" y="402.813"/>
+      <point x="416.862" y="309.731" type="curve"/>
+      <point x="313.618" y="0" type="line"/>
+      <point x="118.416" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-8.19691" y="580.308" type="line"/>
+      <point x="49.9456" y="744.716" type="line"/>
+      <point x="384.296" y="744.691" type="line"/>
+      <point x="326.154" y="580.284" type="line"/>
+    </contour>
+  </outline>
+</glyph>

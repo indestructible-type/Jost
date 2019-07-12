@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ccircumflex" format="1">
+<glyph name="ccircumflex" format="2">
   <advance width="469"/>
   <unicode hex="0109"/>
   <outline>
     <contour>
       <point x="150" y="230" type="curve" smooth="yes"/>
-      <point x="137.5" y="153"/>
-      <point x="179.5" y="85.5"/>
+      <point x="138" y="153"/>
+      <point x="179" y="86"/>
       <point x="260" y="84" type="curve" smooth="yes"/>
-      <point x="325.5" y="82.5"/>
-      <point x="385.5" y="118"/>
-      <point x="421.5" y="160" type="curve"/>
-      <point x="403.5" y="41.5" type="line"/>
-      <point x="363.5" y="10"/>
-      <point x="308" y="-9.5"/>
-      <point x="246" y="-9.5" type="curve" smooth="yes"/>
-      <point x="108" y="-9"/>
-      <point x="21" y="97.5"/>
+      <point x="326" y="83"/>
+      <point x="385" y="118"/>
+      <point x="421" y="160" type="curve"/>
+      <point x="404" y="41" type="line"/>
+      <point x="364" y="10"/>
+      <point x="308" y="-10"/>
+      <point x="246" y="-10" type="curve" smooth="yes"/>
+      <point x="107" y="-10"/>
+      <point x="21" y="98"/>
       <point x="40" y="230" type="curve" smooth="yes"/>
-      <point x="60.5" y="367"/>
-      <point x="179.5" y="469"/>
-      <point x="320.5" y="469.5" type="curve" smooth="yes"/>
-      <point x="380" y="469.5"/>
-      <point x="430" y="450.5"/>
-      <point x="465.5" y="418" type="curve"/>
+      <point x="61" y="366"/>
+      <point x="180" y="470"/>
+      <point x="321" y="470" type="curve" smooth="yes"/>
+      <point x="380" y="470"/>
+      <point x="431" y="451"/>
+      <point x="466" y="418" type="curve"/>
       <point x="447" y="299" type="line"/>
       <point x="425" y="346"/>
-      <point x="376.5" y="376.5"/>
+      <point x="376" y="376"/>
       <point x="317" y="376" type="curve" smooth="yes"/>
-      <point x="235" y="375.5"/>
+      <point x="235" y="376"/>
       <point x="164" y="310"/>
     </contour>
     <contour>
       <point x="341" y="621" type="line"/>
-      <point x="225.5" y="530.5" type="line"/>
-      <point x="160.5" y="585" type="line"/>
-      <point x="352.5" y="723" type="line"/>
-      <point x="502" y="581.5" type="line"/>
+      <point x="226" y="531" type="line"/>
+      <point x="160" y="585" type="line"/>
+      <point x="352" y="723" type="line"/>
+      <point x="502" y="582" type="line"/>
       <point x="424" y="530" type="line"/>
     </contour>
   </outline>

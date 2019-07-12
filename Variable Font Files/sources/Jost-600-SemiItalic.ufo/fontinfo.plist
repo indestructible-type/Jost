@@ -3,19 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>Jost* Semi</string>
+    <string>Jost*</string>
     <key>styleName</key>
-    <string>SemiItalic</string>
+    <string>Semi</string>
     <key>styleMapFamilyName</key>
-    <string>Jost* 600 Semi Italic</string>
-    <key>styleMapStyleName</key>
-    <string>italic</string>
+    <string>Jost* 600 Semi</string>
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>200</integer>
+    <integer>300</integer>
     <key>copyright</key>
-    <string>This typeface is licensed under the SIL open font license.</string>
+    <string>Copyright (c) 2018, Owen Earl,,,</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
@@ -27,11 +25,11 @@
     <key>descender</key>
     <integer>-200</integer>
     <key>italicAngle</key>
-    <real>-10</real>
+    <real>0</real>
     <key>note</key>
     <string>2018-6-8: Created with FontForge (http://fontforge.org)</string>
     <key>openTypeHeadCreated</key>
-    <string>2018/06/08 17:52:16</string>
+    <string>2018/06/08 17:44:54</string>
     <key>openTypeHheaAscender</key>
     <integer>1030</integer>
     <key>openTypeHheaDescender</key>
@@ -135,7 +133,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 3.200</string>
+    <string>Version 3.300</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Jost*</string>
     <key>openTypeOS2WidthClass</key>
@@ -162,9 +160,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2WinDescent</key>
     <integer>300</integer>
     <key>postscriptFontName</key>
-    <string>Jost-SemiItalic</string>
+    <string>Jost-Semi</string>
     <key>postscriptFullName</key>
-    <string>Jost* 600 Semi Italic</string>
+    <string>Jost* 600 Semi</string>
     <key>postscriptWeightName</key>
     <string>Semi</string>
     <key>postscriptUnderlineThickness</key>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Emacron" format="1">
+<glyph name="Emacron" format="2">
   <advance width="517"/>
   <unicode hex="0112"/>
   <outline>
     <contour>
-      <point x="82.5" y="0" type="line"/>
-      <point x="91" y="52" type="line"/>
-      <point x="429" y="52" type="line"/>
-      <point x="420.5" y="0" type="line"/>
+      <point x="82.8725" y="0" type="line"/>
+      <point x="91.33" y="52.35" type="line"/>
+      <point x="429.51" y="52.35" type="line"/>
+      <point x="420.75" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="193.5" y="648.5" type="line"/>
-      <point x="202" y="700" type="line"/>
-      <point x="539.5" y="700" type="line"/>
-      <point x="531" y="648" type="line"/>
+      <point x="193.613" y="647.952" type="line"/>
+      <point x="202.07" y="700" type="line"/>
+      <point x="539.75" y="700" type="line"/>
+      <point x="530.99" y="647.65" type="line"/>
     </contour>
     <contour>
-      <point x="143.5" y="357.8" type="line"/>
-      <point x="152.5" y="409.8" type="line"/>
-      <point x="470.5" y="409.8" type="line"/>
-      <point x="462" y="357.8" type="line"/>
+      <point x="143.835" y="357.683" type="line"/>
+      <point x="152.792" y="409.73" type="line"/>
+      <point x="470.973" y="409.73" type="line"/>
+      <point x="462.212" y="357.38" type="line"/>
     </contour>
     <contour>
-      <point x="173" y="699.5" type="line"/>
-      <point x="228.7" y="700" type="line"/>
-      <point x="108.2" y="0" type="line"/>
-      <point x="54.5" y="0" type="line"/>
+      <point x="173.042" y="699.5" type="line"/>
+      <point x="229.115" y="699.803" type="line"/>
+      <point x="108.312" y="0" type="line"/>
+      <point x="54.3575" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="210.5" y="796.5" type="line"/>
+      <point x="210.648" y="795.977" type="line"/>
       <point x="219" y="845" type="line"/>
-      <point x="559.5" y="845" type="line"/>
-      <point x="551.5" y="796" type="line"/>
+      <point x="559.408" y="845" type="line"/>
+      <point x="551.253" y="795.675" type="line"/>
     </contour>
   </outline>
 </glyph>

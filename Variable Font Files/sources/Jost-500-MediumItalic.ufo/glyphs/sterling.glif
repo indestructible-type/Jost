@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sterling" format="1">
-  <advance width="557"/>
+  <advance width="556"/>
   <unicode hex="00A3"/>
   <outline>
     <contour>
@@ -23,22 +23,22 @@
       <point x="303" y="160"/>
       <point x="201" y="87"/>
       <point x="101" y="53" type="curve"/>
-      <point x="138" y="104" type="line"/>
-      <point x="479" y="105" type="line"/>
+      <point x="137" y="104" type="line"/>
+      <point x="479" y="104" type="line"/>
       <point x="442" y="0" type="line"/>
       <point x="1" y="0" type="line"/>
       <point x="84" y="78"/>
-      <point x="192" y="151"/>
-      <point x="228" y="265" type="curve" smooth="yes"/>
-      <point x="256" y="352"/>
+      <point x="192" y="150"/>
+      <point x="228" y="264" type="curve" smooth="yes"/>
+      <point x="256" y="351"/>
       <point x="192" y="433"/>
       <point x="218" y="520" type="curve" smooth="yes"/>
       <point x="251" y="631"/>
       <point x="371" y="710"/>
       <point x="485" y="709" type="curve" smooth="yes"/>
       <point x="600" y="708"/>
-      <point x="646" y="614"/>
-      <point x="633" y="512" type="curve"/>
+      <point x="645" y="614"/>
+      <point x="632" y="512" type="curve"/>
     </contour>
   </outline>
 </glyph>

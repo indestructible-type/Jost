@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi" format="1">
-  <advance width="587"/>
+  <advance width="586"/>
   <unicode hex="03C0"/>
   <outline>
     <contour>
@@ -12,8 +12,8 @@
     <contour>
       <point x="128" y="460" type="line"/>
       <point x="657" y="460" type="line"/>
-      <point x="606" y="317" type="line"/>
-      <point x="78" y="317" type="line"/>
+      <point x="606" y="318" type="line"/>
+      <point x="78" y="318" type="line"/>
     </contour>
     <contour>
       <point x="410" y="430" type="line"/>
@@ -23,8 +23,8 @@
       <point x="476" y="137"/>
       <point x="514" y="122" type="curve"/>
       <point x="473" y="-8" type="line"/>
-      <point x="380" y="-7"/>
-      <point x="275" y="-1"/>
+      <point x="380" y="-8"/>
+      <point x="274" y="0"/>
       <point x="306" y="121" type="curve"/>
     </contour>
   </outline>

@@ -39,7 +39,9 @@ Fixed metadata and metric issues<br>
 <b>3.2 </b>
 Renamed font from "Renner\*" to "Jost\*" due to international intellectual property rights concerns. Fixed some kerning issues, added capital sharp S, added Polish glyphs. Minor design fixes.<br>
 <b>3.3 </b>
-Added optical compensation to italics. Added Czech support. Minor tweaks and fixes. 
+Added optical compensation to italics. Added Czech support. Minor tweaks and fixes.<br>
+<b>3.4 </b>
+Added Cyrillic alphabet (Russian support). Fixed metadata issues and added Romanian support. 
 
 Web Use
 -------

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="AE" format="1">
-  <advance width="1122"/>
+<glyph name="AE" format="2">
+  <advance width="1121"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
     </contour>
     <contour>
       <point x="439" y="700" type="line"/>
-      <point x="630" y="660" type="line"/>
+      <point x="629" y="660" type="line"/>
       <point x="266" y="0" type="line"/>
       <point x="17" y="0" type="line"/>
     </contour>
@@ -35,8 +35,8 @@
     </contour>
     <contour>
       <point x="567" y="700" type="line"/>
-      <point x="778" y="700" type="line"/>
-      <point x="778" y="0" type="line"/>
+      <point x="777" y="700" type="line"/>
+      <point x="777" y="0" type="line"/>
       <point x="567" y="0" type="line"/>
     </contour>
   </outline>

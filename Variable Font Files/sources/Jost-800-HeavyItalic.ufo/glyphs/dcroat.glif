@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="595"/>
+  <advance width="594"/>
   <unicode hex="0111"/>
   <outline>
     <contour>
       <point x="410" y="556" type="line"/>
       <point x="448" y="665" type="line"/>
-      <point x="809" y="665" type="line"/>
+      <point x="808" y="665" type="line"/>
       <point x="770" y="556" type="line"/>
     </contour>
     <contour>
@@ -17,8 +17,8 @@
     </contour>
     <contour>
       <point x="50" y="231" type="curve" smooth="yes"/>
-      <point x="86" y="349"/>
-      <point x="195" y="470"/>
+      <point x="85" y="349"/>
+      <point x="196" y="470"/>
       <point x="327" y="470" type="curve" smooth="yes"/>
       <point x="459" y="470"/>
       <point x="479" y="331"/>
@@ -27,7 +27,7 @@
       <point x="315" y="-9"/>
       <point x="185" y="-9" type="curve" smooth="yes"/>
       <point x="53" y="-9"/>
-      <point x="17" y="123"/>
+      <point x="18" y="124"/>
     </contour>
     <contour>
       <point x="229" y="229" type="curve" smooth="yes"/>

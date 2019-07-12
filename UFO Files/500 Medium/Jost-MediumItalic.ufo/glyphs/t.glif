@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t" format="1">
-  <advance width="263"/>
+<glyph name="t" format="2">
+  <advance width="262"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
       <point x="57" y="460" type="line"/>
-      <point x="312.5" y="460" type="line"/>
-      <point x="295.5" y="364.5" type="line"/>
-      <point x="39.5" y="364.5" type="line"/>
+      <point x="313" y="460" type="line"/>
+      <point x="296" y="364" type="line"/>
+      <point x="39" y="364" type="line"/>
     </contour>
     <contour>
-      <point x="157" y="619.5" type="line"/>
+      <point x="157" y="620" type="line"/>
       <point x="264" y="620" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="52.5" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

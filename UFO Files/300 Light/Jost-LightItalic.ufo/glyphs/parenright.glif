@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenright" format="1">
+<glyph name="parenright" format="2">
   <advance width="273"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="27.5" y="-199" type="curve"/>
-      <point x="-19" y="-199" type="line"/>
-      <point x="71.5" y="-48"/>
-      <point x="129.5" y="117"/>
-      <point x="157" y="290" type="curve" smooth="yes"/>
-      <point x="181.5" y="454.5"/>
-      <point x="177" y="620.5"/>
-      <point x="131.5" y="780.5" type="curve"/>
-      <point x="177" y="780.5" type="line"/>
-      <point x="230.5" y="623"/>
-      <point x="238.5" y="454.5"/>
-      <point x="214.5" y="290" type="curve" smooth="yes"/>
-      <point x="187.5" y="116"/>
-      <point x="126" y="-52"/>
+      <point x="27.85" y="-199.197" type="curve"/>
+      <point x="-19.1975" y="-199.197" type="line"/>
+      <point x="71.2775" y="-48.1175"/>
+      <point x="129.648" y="117.105"/>
+      <point x="156.95" y="290" type="curve" smooth="yes"/>
+      <point x="181.45" y="454.5"/>
+      <point x="176.988" y="620.327"/>
+      <point x="131.395" y="780.303" type="curve"/>
+      <point x="177.535" y="780.303" type="line"/>
+      <point x="231.14" y="622.803"/>
+      <point x="239.14" y="454.5"/>
+      <point x="214.942" y="290" type="curve" smooth="yes"/>
+      <point x="187.942" y="116"/>
+      <point x="126.547" y="-52.1975"/>
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="733"/>
+  <advance width="732"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
@@ -23,11 +23,11 @@
       <point x="186" y="550" type="line"/>
       <point x="186" y="700" type="line"/>
       <point x="324" y="700" type="line" smooth="yes"/>
-      <point x="553" y="700"/>
-      <point x="700" y="566"/>
-      <point x="700" y="350" type="curve" smooth="yes"/>
-      <point x="700" y="134"/>
-      <point x="553" y="0"/>
+      <point x="552" y="700"/>
+      <point x="699" y="565"/>
+      <point x="699" y="350" type="curve" smooth="yes"/>
+      <point x="699" y="135"/>
+      <point x="552" y="0"/>
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="569"/>
+  <advance width="568"/>
   <unicode hex="0116"/>
   <outline>
     <contour>
@@ -10,7 +10,7 @@
       <point x="458" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="312" y="559" type="line"/>
+      <point x="312" y="558" type="line"/>
       <point x="361" y="700" type="line"/>
       <point x="698" y="700" type="line"/>
       <point x="649" y="558" type="line"/>
@@ -30,15 +30,15 @@
     <contour>
       <point x="442" y="862" type="curve" smooth="yes"/>
       <point x="454" y="905"/>
-      <point x="506" y="942"/>
-      <point x="550" y="941" type="curve" smooth="yes"/>
-      <point x="595" y="940"/>
+      <point x="506" y="943"/>
+      <point x="550" y="942" type="curve" smooth="yes"/>
+      <point x="595" y="941"/>
       <point x="626" y="902"/>
       <point x="614" y="857" type="curve" smooth="yes"/>
       <point x="602" y="814"/>
-      <point x="550" y="777"/>
-      <point x="506" y="778" type="curve" smooth="yes"/>
-      <point x="461" y="779"/>
+      <point x="551" y="777"/>
+      <point x="507" y="778" type="curve" smooth="yes"/>
+      <point x="462" y="779"/>
       <point x="430" y="817"/>
     </contour>
   </outline>

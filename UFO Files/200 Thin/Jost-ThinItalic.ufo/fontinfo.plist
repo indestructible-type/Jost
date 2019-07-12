@@ -1,45 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>familyName</key>
-    <string>Jost* Thin</string>
-    <key>styleName</key>
-    <string>ThinItalic</string>
-    <key>styleMapFamilyName</key>
-    <string>Jost* 200 Thin Italic</string>
-    <key>styleMapStyleName</key>
-    <string>italic</string>
-    <key>versionMajor</key>
-    <integer>3</integer>
-    <key>versionMinor</key>
-    <integer>300</integer>
-    <key>copyright</key>
-    <string>This typeface is licensed under the SIL open font license.</string>
-    <key>unitsPerEm</key>
-    <integer>1000</integer>
-    <key>capHeight</key>
-    <integer>700</integer>
-    <key>xHeight</key>
-    <integer>460</integer>
-    <key>ascender</key>
-    <integer>800</integer>
-    <key>descender</key>
-    <integer>-200</integer>
-    <key>italicAngle</key>
-    <real>-10</real>
-    <key>note</key>
-    <string>2018-6-8: Created with FontForge (http://fontforge.org)</string>
-    <key>openTypeHeadCreated</key>
-    <string>2018/06/08 17:52:16</string>
-    <key>openTypeHheaAscender</key>
-    <integer>1030</integer>
-    <key>openTypeHheaDescender</key>
-    <integer>-350</integer>
-    <key>openTypeHheaLineGap</key>
-    <integer>100</integer>
-    <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2018, indestructible type*
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>This typeface is licensed under the SIL open font license.</string>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>Jost* Thin</string>
+	<key>guidelines</key>
+	<array/>
+	<key>italicAngle</key>
+	<real>-10.0</real>
+	<key>note</key>
+	<string>2018-6-8: Created with FontForge (http://fontforge.org)</string>
+	<key>openTypeHeadCreated</key>
+	<string>2018/06/08 17:52:16</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1030</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-350</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>100</integer>
+	<key>openTypeNameDesigner</key>
+	<string></string>
+	<key>openTypeNameDesignerURL</key>
+	<string></string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2018, indestructible type*
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -132,44 +124,76 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>http://scripts.sil.org/OFL</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 3.300</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>Jost*</string>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
-    <key>openTypeOS2WeightClass</key>
-    <integer>200</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
-    <key>openTypeOS2FamilyClass</key>
-    <array>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
-    <key>openTypeOS2Type</key>
-    <array/>
-    <key>openTypeOS2TypoAscender</key>
-    <integer>825</integer>
-    <key>openTypeOS2TypoDescender</key>
-    <integer>-225</integer>
-    <key>openTypeOS2TypoLineGap</key>
-    <integer>100</integer>
-    <key>openTypeOS2WinAscent</key>
-    <integer>900</integer>
-    <key>openTypeOS2WinDescent</key>
-    <integer>300</integer>
-    <key>postscriptFontName</key>
-    <string>Jost-ThinItalic</string>
-    <key>postscriptFullName</key>
-    <string>Jost* 200 Thin Italic</string>
-    <key>postscriptWeightName</key>
-    <string>Thin</string>
-    <key>postscriptUnderlineThickness</key>
-    <integer>50</integer>
-    <key>postscriptUnderlinePosition</key>
-    <integer>-100</integer>
-  </dict>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string></string>
+	<key>openTypeNameManufacturerURL</key>
+	<string></string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Jost*</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 3.400</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array/>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>825</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-225</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>100</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>200</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>900</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>300</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFamilyBlues</key>
+	<array/>
+	<key>postscriptFamilyOtherBlues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Jost-ThinItalic</string>
+	<key>postscriptFullName</key>
+	<string>Jost* 200 Thin Italic</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStemSnapH</key>
+	<array/>
+	<key>postscriptStemSnapV</key>
+	<array/>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptWeightName</key>
+	<string>Thin</string>
+	<key>styleMapFamilyName</key>
+	<string>Jost* 200 Thin</string>
+	<key>styleMapStyleName</key>
+	<string>italic</string>
+	<key>styleName</key>
+	<string>Thin Italic</string>
+	<key>trademark</key>
+	<string></string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>3</integer>
+	<key>versionMinor</key>
+	<integer>400</integer>
+	<key>xHeight</key>
+	<integer>460</integer>
+</dict>
 </plist>
