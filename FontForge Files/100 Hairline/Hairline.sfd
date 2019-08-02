@@ -3,7 +3,7 @@ FontName: Jost-Hairline
 FullName: Jost* 100 Hairline
 FamilyName: Jost* Hairline
 Weight: Hairline
-Copyright: This typeface is licensed under the SIL open font license.
+Copyright: Copyright 2019 indestructible type* (https://github.com/indestructible-type)
 UComments: "2016-6-10: Created with FontForge (http://fontforge.org)"
 Version: 003.400
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1562964982
+ModificationTime: 1563380702
 PfmFamily: 33
 TTFWeight: 100
 TTFWidth: 5
@@ -86,7 +86,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 528 16 4
+WinInfo: 8720 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +107,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65546 473
+BeginChars: 65546 476
 
 StartChar: H
 Encoding: 72 72 0
@@ -1817,11 +1817,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-448 700 m 257
- 460 700 l 257
- 27 -150 l 257
- 15 -150 l 257
- 448 700 l 257
+448 700 m 261
+ 460 700 l 261
+ 27 -150 l 261
+ 15 -150 l 261
+ 448 700 l 261
 EndSplineSet
 EndChar
 
@@ -3569,11 +3569,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-153 80 m 257
- 165 80 l 257
+153 80 m 261
+ 165 80 l 261
  70 -150 l 257
  60 -150 l 257
- 153 80 l 257
+ 153 80 l 261
 EndSplineSet
 EndChar
 
@@ -13658,6 +13658,51 @@ SplineSet
  43 -315 l 257
  37 -313 l 257
  142 -60 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 473
+Width: 300
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 474
+Width: 385
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+153 80 m 257
+ 165 80 l 257
+ 70 -150 l 257
+ 60 -150 l 257
+ 153 80 l 257
+293 80 m 257
+ 305 80 l 257
+ 210 -150 l 257
+ 200 -150 l 257
+ 293 80 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 475
+Width: 475
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+448 700 m 261
+ 460 700 l 261
+ 27 -150 l 261
+ 15 -150 l 261
+ 448 700 l 261
 EndSplineSet
 EndChar
 EndChars

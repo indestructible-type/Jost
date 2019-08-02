@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1562964736
+ModificationTime: 1563288469
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
@@ -86,7 +86,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 528 16 4
+WinInfo: 8208 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +107,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65546 473
+BeginChars: 65546 476
 
 StartChar: H
 Encoding: 72 72 0
@@ -13658,6 +13658,51 @@ SplineSet
  13.728515625 -340 l 257
  -131.271484375 -313 l 257
  39.728515625 -60 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 473
+Width: 301
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 474
+Width: 625
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+614 699 m 257
+ 805 699 l 257
+ 100 -149 l 257
+ -100 -149 l 257
+ 614 699 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 475
+Width: 578
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+72 80 m 261
+ 269 79 l 261
+ 76 -189 l 261
+ -69 -189 l 261
+ 72 80 l 261
+308 80 m 261
+ 504 79 l 261
+ 311 -189 l 261
+ 166 -189 l 261
+ 308 80 l 261
 EndSplineSet
 EndChar
 EndChars

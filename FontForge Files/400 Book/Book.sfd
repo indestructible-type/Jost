@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1562964883
+ModificationTime: 1563287732
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -86,7 +86,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 480 16 4
+WinInfo: 8192 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -107,7 +107,7 @@ Grid
   Named: "Capital Hight"
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65546 473
+BeginChars: 65546 476
 
 StartChar: H
 Encoding: 72 72 0
@@ -1817,11 +1817,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-420 700 m 257
- 500 700 l 257
- 95 -150 l 257
- 15 -150 l 257
- 420 700 l 257
+420 700 m 261
+ 500 700 l 261
+ 95 -150 l 261
+ 15 -150 l 261
+ 420 700 l 261
 EndSplineSet
 EndChar
 
@@ -13662,6 +13662,51 @@ SplineSet
  94 -340 l 257
  36 -319 l 257
  124 -60 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 473
+Width: 300
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 474
+Width: 515
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+420 700 m 261
+ 500 700 l 261
+ 95 -150 l 261
+ 15 -150 l 261
+ 420 700 l 261
+EndSplineSet
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 475
+Width: 475
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+110 80 m 257
+ 205 80 l 257
+ 105 -150 l 257
+ 50 -150 l 257
+ 110 80 l 257
+310 80 m 257
+ 405 80 l 257
+ 305 -150 l 257
+ 250 -150 l 257
+ 310 80 l 257
 EndSplineSet
 EndChar
 EndChars

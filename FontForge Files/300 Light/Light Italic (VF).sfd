@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1528480336
-ModificationTime: 1562964904
+ModificationTime: 1563287693
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -85,11 +85,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 512 16 4
+WinInfo: 8704 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65546 473
+BeginChars: 65546 476
 
 StartChar: H
 Encoding: 72 72 0
@@ -1729,11 +1729,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-588 699 m 1
- 644 699 l 1
- -41 -149 l 1
- -92 -148 l 1
- 588 699 l 1
+588 699 m 5
+ 644 699 l 5
+ -41 -149 l 5
+ -92 -148 l 5
+ 588 699 l 5
 EndSplineSet
 EndChar
 
@@ -13268,6 +13268,51 @@ SplineSet
  -95.3095703125 -326 l 1
  -130.309570312 -313 l 1
  47.6904296875 -60 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 473
+Width: 301
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 474
+Width: 412
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+97 79 m 5
+ 161 79 l 5
+ -13 -148 l 5
+ -51 -148 l 5
+ 97 79 l 5
+263 79 m 5
+ 327 79 l 5
+ 152 -148 l 5
+ 115 -148 l 5
+ 263 79 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 475
+Width: 468
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+588 699 m 5
+ 644 699 l 5
+ -41 -149 l 5
+ -92 -148 l 5
+ 588 699 l 5
 EndSplineSet
 EndChar
 EndChars
