@@ -29,52 +29,12 @@ ttfautohint -n ../fonts/ttf2/600.ttf ../fonts/ttf/Jost-600-Semi.ttf
 ttfautohint -n ../fonts/ttf2/600-italic.ttf ../fonts/ttf/Jost-600-SemiItalic.ttf
 ttfautohint -n ../fonts/ttf2/700.ttf ../fonts/ttf/Jost-700-Bold.ttf
 ttfautohint -n ../fonts/ttf2/700-italic.ttf ../fonts/ttf/Jost-700-BoldItalic.ttf
-ttfautohint -n ../fonts/ttf2/800.ttf ../fonts/ttf/Jost-800-Heavy.ttf
-ttfautohint -n ../fonts/ttf2/800-italic.ttf ../fonts/ttf/Jost-800-HeavyItalic.ttf
+ttfautohint -n ../fonts/ttf2/800.ttf ../fonts/ttf/Jost-800-Hevy.ttf
+ttfautohint -n ../fonts/ttf2/800-italic.ttf ../fonts/ttf/Jost-800-HevyItalic.ttf
 ttfautohint -n ../fonts/ttf2/900.ttf ../fonts/ttf/Jost-900-Black.ttf
 ttfautohint -n ../fonts/ttf2/900-italic.ttf ../fonts/ttf/Jost-900-BlackItalic.ttf
 
-gftools fix-hinting ../fonts/ttf/Jost-100-Hairline.ttf
-gftools fix-hinting ../fonts/ttf/Jost-100-HairlineItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-200-Thin.ttf
-gftools fix-hinting ../fonts/ttf/Jost-200-ThinItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-300-Light.ttf
-gftools fix-hinting ../fonts/ttf/Jost-300-LightItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-400-Book.ttf
-gftools fix-hinting ../fonts/ttf/Jost-400-BookItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-500-Medium.ttf
-gftools fix-hinting ../fonts/ttf/Jost-500-MediumItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-600-Semi.ttf
-gftools fix-hinting ../fonts/ttf/Jost-600-SemiItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-700-Bold.ttf
-gftools fix-hinting ../fonts/ttf/Jost-700-BoldItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-800-Heavy.ttf
-gftools fix-hinting ../fonts/ttf/Jost-800-HeavyItalic.ttf
-gftools fix-hinting ../fonts/ttf/Jost-900-Black.ttf
-gftools fix-hinting ../fonts/ttf/Jost-900-BlackItalic.ttf
-
 echo "Cleaning Directory Up"
-rm ../fonts/ttf/*.ttf
-
-mv ../fonts/ttf/Jost-100-Hairline.ttf.fix ../fonts/ttf/Jost-100-Hairline.ttf
-mv ../fonts/ttf/Jost-100-HairlineItalic.ttf.fix ../fonts/ttf/Jost-100-HairlineItalic.ttf
-mv ../fonts/ttf/Jost-200-Thin.ttf.fix ../fonts/ttf/Jost-200-Thin.ttf
-mv ../fonts/ttf/Jost-200-ThinItalic.ttf.fix ../fonts/ttf/Jost-200-ThinItalic.ttf
-mv ../fonts/ttf/Jost-300-Light.ttf.fix ../fonts/ttf/Jost-300-Light.ttf
-mv ../fonts/ttf/Jost-300-LightItalic.ttf.fix ../fonts/ttf/Jost-300-LightItalic.ttf
-mv ../fonts/ttf/Jost-400-Book.ttf.fix ../fonts/ttf/Jost-400-Book.ttf
-mv ../fonts/ttf/Jost-400-BookItalic.ttf.fix ../fonts/ttf/Jost-400-BookItalic.ttf
-mv ../fonts/ttf/Jost-500-Medium.ttf.fix ../fonts/ttf/Jost-500-Medium.ttf
-mv ../fonts/ttf/Jost-500-MediumItalic.ttf.fix ../fonts/ttf/Jost-500-MediumItalic.ttf
-mv ../fonts/ttf/Jost-600-Semi.ttf.fix ../fonts/ttf/Jost-600-Semi.ttf
-mv ../fonts/ttf/Jost-600-SemiItalic.ttf.fix ../fonts/ttf/Jost-600-SemiItalic.ttf
-mv ../fonts/ttf/Jost-700-Bold.ttf.fix ../fonts/ttf/Jost-700-Bold.ttf
-mv ../fonts/ttf/Jost-700-BoldItalic.ttf.fix ../fonts/ttf/Jost-700-BoldItalic.ttf
-mv ../fonts/ttf/Jost-800-Heavy.ttf.fix ../fonts/ttf/Jost-800-Heavy.ttf
-mv ../fonts/ttf/Jost-800-HeavyItalic.ttf.fix ../fonts/ttf/Jost-800-HeavyItalic.ttf
-mv ../fonts/ttf/Jost-900-Black.ttf.fix ../fonts/ttf/Jost-900-Black.ttf
-mv ../fonts/ttf/Jost-900-BlackItalic.ttf.fix ../fonts/ttf/Jost-900-BlackItalic.ttf
-
 rm ../fonts/ttf2/*.ttf
 rmdir ../fonts/ttf2
 
