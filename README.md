@@ -2,7 +2,7 @@
 ========
 ![Jost* Picture](https://indestructibletype.com/assets/Jost-h.svg)
 Jost* is an original font created by indestructible type*. It is inspired by 
-the designs of Paul Renner. This is version 3.3.
+the designs of Paul Renner. This is version 3.4.
 
 Jost* is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io).
 
