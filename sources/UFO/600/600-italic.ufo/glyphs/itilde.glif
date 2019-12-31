@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="262"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="119.5" y="460" type="line"/>
+      <point x="246" y="460" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="22.5" y="589.5" type="line"/>
+      <point x="43" y="635"/>
+      <point x="88.5" y="679.5"/>
+      <point x="146.5" y="678" type="curve" smooth="yes"/>
+      <point x="200.5" y="677"/>
+      <point x="217" y="627"/>
+      <point x="266" y="628.5" type="curve" smooth="yes"/>
+      <point x="293" y="629.5"/>
+      <point x="316.5" y="654"/>
+      <point x="337.5" y="679.5" type="curve"/>
+      <point x="391" y="612.5" type="line"/>
+      <point x="366" y="576"/>
+      <point x="314" y="531"/>
+      <point x="258" y="533" type="curve" smooth="yes"/>
+      <point x="210" y="535"/>
+      <point x="182" y="586"/>
+      <point x="137" y="583.5" type="curve" smooth="yes"/>
+      <point x="102.5" y="581.5"/>
+      <point x="89" y="551.5"/>
+      <point x="80.5" y="533.5" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

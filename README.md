@@ -2,17 +2,18 @@
 ========
 ![Jost* Picture](https://indestructibletype.com/assets/Jost-h.svg)
 Jost* is an original font created by indestructible type*. It is inspired by 
-the designs of Paul Renner. This is version 3.4.
+the 1920s German sans-serifs. This is version 3.5.
 
 Jost* is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io).
 
 About
 -----
-Jost* is a font for the digital age. It's based off of the work of Paul Renner, the designer of Futura. 
-Jost* is an origonal font that aims to keep the attitude of Futura rather than the exact design. Futura 
-was designed to be functional in its day and in that spirit, Jost* aims to be as functional as possible 
-in the digital era. For that reason it deviates from the exact designs of Paul Renner, favoring, for example, 
-a larger x-height. It also includes features, many of which would not be possible in the era of Paul Renner.
+During the 1920s there was a radical shift in German sans serif letterforms. A marriage between the
+precise geometry of earlier German sans serifs with the clean legibility of the humanists coming out of
+England, yielded a geometric sans serif that is so iconic that it still looks as futuristic and forward-
+thinking as it did almost 100 years ago. Jost* is an ode to this era of type design. Instead of trying to
+recreate it precisely, Jost* aims to capture the spirit, using the technologies of today. 
+
 Jost* has 9 weights, ranging from Hairline to Black. It can support many languages, includes stylistic 
 alternatives, and both tabular and proportional numbers. Using Jost* on the web is as easy as copying a 
 line of code into your webpage and includes automatic updates. As of version 3.0, Jost* supports OpenType 
@@ -41,7 +42,9 @@ Renamed font from "Renner\*" to "Jost\*" due to international intellectual prope
 <b>3.3 </b>
 Added optical compensation to italics. Added Czech support. Minor tweaks and fixes.<br>
 <b>3.4 </b>
-Added Cyrillic alphabet (Russian support). Fixed metadata issues and added Romanian support. 
+Added Cyrillic alphabet (Russian support). Fixed metadata issues and added Romanian support.<br>
+<b>3.5 </b>
+Added some math symbols. Improved letterforms. Improved GitHub repo. Added automated build.sh script.
 
 Web Use
 -------
@@ -55,12 +58,14 @@ associated with creating the OpenType Variable Font features, the compliled, fun
 requires a payment of $10 or more on the website. However, if you'd like to build this font yourself using 
 the source code, the follow the following instructions.
 
-Download the complete source code, either by cloning this repository or downloading the .zip file.
+1. Download the complete source code, either by cloning this repository or downloading the .zip file.
 
-Download and install fontmake which can be found [here](https://github.com/googlei18n/fontmake).
+2. Download and install:
+**fontmake** which can be found [here](https://github.com/googlei18n/fontmake)
+**gftools** which can be found [here](https://github.com/googlefonts/gftools)
+**ttfautohint** which can be found [here](https://www.freetype.org/ttfautohint/)
 
-Navigate to the "Variable Font Files" folder and run `fontmake -o variable -m jost.designspace`. This 
-should build the finished font file. If you have any questions don't look at me, I don't know what I'm doing.
+3. Run the build.sh script located in the "scripts" folder. This should make both the variable and non-variable versions of the font.
 
 Contact
 -------

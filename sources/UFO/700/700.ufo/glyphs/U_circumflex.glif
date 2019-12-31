@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucircumflex" format="2">
+  <advance width="701"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <contour>
+      <point x="69" y="700" type="line"/>
+      <point x="238" y="700" type="line"/>
+      <point x="238" y="242" type="line" smooth="yes"/>
+      <point x="238" y="171"/>
+      <point x="275" y="123"/>
+      <point x="350" y="123" type="curve" smooth="yes"/>
+      <point x="425" y="123"/>
+      <point x="463" y="171"/>
+      <point x="463" y="242" type="curve" smooth="yes"/>
+      <point x="463" y="700" type="line"/>
+      <point x="632" y="700" type="line"/>
+      <point x="632" y="230" type="line" smooth="yes"/>
+      <point x="632" y="54"/>
+      <point x="508" y="-29"/>
+      <point x="350" y="-29" type="curve" smooth="yes"/>
+      <point x="192" y="-29"/>
+      <point x="69" y="54"/>
+      <point x="69" y="230" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="350" y="862" type="line"/>
+      <point x="259" y="776" type="line"/>
+      <point x="153" y="848" type="line"/>
+      <point x="350" y="988" type="line"/>
+      <point x="548" y="848" type="line"/>
+      <point x="442" y="776" type="line"/>
+    </contour>
+  </outline>
+</glyph>

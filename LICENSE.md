@@ -23,7 +23,6 @@ DEFINITIONS
 Holder(s) under this license and clearly marked as such. This may
 include source files, build scripts and documentation.
 
-
 "Original Version" refers to the collection of Font Software components as
 distributed by the Copyright Holder(s).
 
@@ -50,7 +49,6 @@ contains the above copyright notice and this license. These can be
 included either as stand-alone text files, human-readable headers or
 in the appropriate machine-readable metadata fields within text or
 binary files as long as those fields can be easily viewed by the user.
-
 
 3) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
 Software shall not be used to promote, endorse or advertise any

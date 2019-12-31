@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex" format="2">
+  <advance width="490"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <contour>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="460" type="line"/>
+      <point x="408" y="460" type="line"/>
+      <point x="408" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="159" type="line" smooth="yes"/>
+      <point x="113" y="73"/>
+      <point x="146" y="20"/>
+      <point x="228" y="20" type="curve" smooth="yes"/>
+      <point x="312" y="20"/>
+      <point x="377" y="94"/>
+      <point x="377" y="180" type="curve"/>
+      <point x="392" y="180" type="line"/>
+      <point x="392" y="71"/>
+      <point x="317" y="-10"/>
+      <point x="222" y="-10" type="curve" smooth="yes"/>
+      <point x="127" y="-10"/>
+      <point x="82" y="51"/>
+      <point x="82" y="156" type="curve" smooth="yes"/>
+      <point x="82" y="460" type="line"/>
+      <point x="113" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="666" type="line"/>
+      <point x="104" y="543" type="line"/>
+      <point x="85" y="560" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="405" y="560" type="line"/>
+      <point x="384" y="543" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve" format="2">
+  <advance width="616"/>
+  <unicode hex="0114"/>
+  <outline>
+    <contour>
+      <point x="186" y="0" type="line"/>
+      <point x="217" y="175" type="line"/>
+      <point x="563" y="175" type="line"/>
+      <point x="532" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="525" type="line"/>
+      <point x="306" y="700" type="line"/>
+      <point x="652" y="700" type="line"/>
+      <point x="622" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="275" type="line"/>
+      <point x="263" y="445" type="line"/>
+      <point x="590" y="445" type="line"/>
+      <point x="560" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="700" type="line"/>
+      <point x="366" y="700" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="930" type="curve"/>
+      <point x="390" y="930" type="line"/>
+      <point x="391" y="899"/>
+      <point x="406" y="882"/>
+      <point x="430" y="880" type="curve" smooth="yes"/>
+      <point x="454" y="878"/>
+      <point x="482" y="900"/>
+      <point x="490" y="930" type="curve"/>
+      <point x="607" y="928" type="line"/>
+      <point x="589" y="842"/>
+      <point x="524" y="780"/>
+      <point x="424" y="780" type="curve" smooth="yes"/>
+      <point x="324" y="780"/>
+      <point x="272" y="842"/>
+    </contour>
+  </outline>
+</glyph>
