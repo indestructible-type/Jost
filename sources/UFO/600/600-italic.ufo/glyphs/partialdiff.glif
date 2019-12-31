@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="partialdiff" format="2">
+  <advance width="602"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="281" y="-14" type="curve" smooth="yes"/>
+      <point x="145" y="-14"/>
+      <point x="48" y="74.5"/>
+      <point x="48" y="211.5" type="curve" smooth="yes"/>
+      <point x="48" y="358.5"/>
+      <point x="165" y="468"/>
+      <point x="295.5" y="468" type="curve" smooth="yes"/>
+      <point x="371.5" y="468"/>
+      <point x="430.5" y="430"/>
+      <point x="490" y="356" type="curve"/>
+      <point x="448.5" y="358" type="line"/>
+      <point x="400.5" y="491.5"/>
+      <point x="327.5" y="581"/>
+      <point x="197.5" y="680" type="curve"/>
+      <point x="291" y="750" type="line"/>
+      <point x="496" y="565"/>
+      <point x="573" y="428.5"/>
+      <point x="573" y="277.5" type="curve" smooth="yes"/>
+      <point x="573" y="122.5"/>
+      <point x="455" y="-14"/>
+    </contour>
+    <contour>
+      <point x="289.5" y="104" type="curve" smooth="yes"/>
+      <point x="374.5" y="104"/>
+      <point x="432.5" y="177"/>
+      <point x="432.5" y="251" type="curve" smooth="yes"/>
+      <point x="432.5" y="319.5"/>
+      <point x="390.5" y="362.5"/>
+      <point x="328.5" y="362.5" type="curve" smooth="yes"/>
+      <point x="254" y="362.5"/>
+      <point x="183.5" y="295"/>
+      <point x="183.5" y="214" type="curve" smooth="yes"/>
+      <point x="183.5" y="150"/>
+      <point x="226" y="104"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<designspace format="3">
+
+  <axes>
+      <axis minimum="100" maximum="900" default="400" name="Weight" tag="wght">
+      </axis>
+      <axis minimum="0" maximum="2" default="0" name="Italic" tag="ital">
+      </axis>
+  </axes>
+
+  <sources>
+    <source familyname="Jost" filename="UFO/400/400.ufo" name="400">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/400/400-italicVF.ufo" name="400i">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="2"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/100/100.ufo" name="100">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/100/100-italicVF.ufo" name="100i">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="2"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/900/900.ufo" name="900">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/900/900-italicVF.ufo" name="900i">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="2"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/200/200.ufo" name="200">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/300/300.ufo" name="300">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/500/500.ufo" name="500">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/600/600.ufo" name="600">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/700/700.ufo" name="700">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Jost" filename="UFO/800/800.ufo" name="800">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

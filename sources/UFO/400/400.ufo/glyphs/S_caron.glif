@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron" format="2">
+  <advance width="548"/>
+  <unicode hex="0160"/>
+  <outline>
+    <contour>
+      <point x="112" y="226" type="line"/>
+      <point x="154" y="130"/>
+      <point x="208" y="70"/>
+      <point x="295" y="70" type="curve" smooth="yes"/>
+      <point x="375" y="70"/>
+      <point x="415" y="113"/>
+      <point x="415" y="183" type="curve" smooth="yes"/>
+      <point x="415" y="273"/>
+      <point x="331" y="309"/>
+      <point x="251" y="338" type="curve" smooth="yes"/>
+      <point x="181" y="363"/>
+      <point x="75" y="416"/>
+      <point x="75" y="535" type="curve" smooth="yes"/>
+      <point x="75" y="641"/>
+      <point x="164" y="710"/>
+      <point x="278" y="710" type="curve" smooth="yes"/>
+      <point x="391" y="710"/>
+      <point x="466" y="631"/>
+      <point x="494" y="560" type="curve"/>
+      <point x="425" y="514" type="line"/>
+      <point x="395" y="572"/>
+      <point x="356" y="629"/>
+      <point x="279" y="629" type="curve" smooth="yes"/>
+      <point x="209" y="629"/>
+      <point x="164" y="590"/>
+      <point x="164" y="529" type="curve" smooth="yes"/>
+      <point x="164" y="461"/>
+      <point x="241" y="428"/>
+      <point x="326" y="396" type="curve" smooth="yes"/>
+      <point x="399" y="369"/>
+      <point x="503" y="317"/>
+      <point x="503" y="190" type="curve" smooth="yes"/>
+      <point x="503" y="71"/>
+      <point x="429" y="-10"/>
+      <point x="290" y="-10" type="curve" smooth="yes"/>
+      <point x="175" y="-10"/>
+      <point x="84" y="68"/>
+      <point x="40" y="183" type="curve"/>
+    </contour>
+    <contour>
+      <point x="278" y="855" type="line"/>
+      <point x="388" y="950" type="line"/>
+      <point x="438" y="910" type="line"/>
+      <point x="278" y="770" type="line"/>
+      <point x="118" y="910" type="line"/>
+      <point x="168" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="728"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="123" y="350" type="curve" smooth="yes"/>
+      <point x="70" y="194"/>
+      <point x="117" y="4"/>
+      <point x="310" y="3" type="curve" smooth="yes"/>
+      <point x="507" y="2"/>
+      <point x="676" y="174"/>
+      <point x="736" y="350" type="curve" smooth="yes"/>
+      <point x="789" y="506"/>
+      <point x="742" y="696"/>
+      <point x="549" y="697" type="curve" smooth="yes"/>
+      <point x="352" y="698"/>
+      <point x="183" y="526"/>
+    </contour>
+    <contour>
+      <point x="112" y="350" type="curve" smooth="yes"/>
+      <point x="173" y="532"/>
+      <point x="348" y="709"/>
+      <point x="550" y="708" type="curve" smooth="yes"/>
+      <point x="748" y="707"/>
+      <point x="801" y="512"/>
+      <point x="747" y="350" type="curve" smooth="yes"/>
+      <point x="686" y="168"/>
+      <point x="511" y="-9"/>
+      <point x="309" y="-8" type="curve" smooth="yes"/>
+      <point x="111" y="-7"/>
+      <point x="58" y="188"/>
+    </contour>
+    <contour>
+      <point x="498" y="925" type="line"/>
+      <point x="508" y="932" type="line"/>
+      <point x="615" y="773" type="line"/>
+      <point x="608" y="769" type="line"/>
+    </contour>
+  </outline>
+</glyph>
