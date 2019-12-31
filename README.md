@@ -60,10 +60,10 @@ the source code, the follow the following instructions.
 
 1. Download the complete source code, either by cloning this repository or downloading the .zip file.
 
-2. Download and install:
-**fontmake** which can be found [here](https://github.com/googlei18n/fontmake)
-**gftools** which can be found [here](https://github.com/googlefonts/gftools)
-**ttfautohint** which can be found [here](https://www.freetype.org/ttfautohint/)
+2. Download and install:<br>
+**fontmake** which can be found [here](https://github.com/googlei18n/fontmake)<br>
+**gftools** which can be found [here](https://github.com/googlefonts/gftools)<br>
+**ttfautohint** which can be found [here](https://www.freetype.org/ttfautohint/)<br>
 
 3. Run the build.sh script located in the "scripts" folder. This should make both the variable and non-variable versions of the font.
 
