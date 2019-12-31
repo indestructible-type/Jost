@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacron" format="2">
+  <advance width="575"/>
+  <unicode hex="016B"/>
+  <outline>
+    <contour>
+      <point x="364" y="0" type="line"/>
+      <point x="364" y="460" type="line"/>
+      <point x="516" y="460" type="line"/>
+      <point x="516" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="180" type="line" smooth="yes"/>
+      <point x="218" y="126"/>
+      <point x="235" y="96"/>
+      <point x="284" y="96" type="curve" smooth="yes"/>
+      <point x="332" y="96"/>
+      <point x="364" y="126"/>
+      <point x="364" y="180" type="curve"/>
+      <point x="390" y="186" type="line"/>
+      <point x="390" y="77"/>
+      <point x="338" y="-11"/>
+      <point x="224" y="-11" type="curve" smooth="yes"/>
+      <point x="110" y="-11"/>
+      <point x="59" y="51"/>
+      <point x="59" y="164" type="curve" smooth="yes"/>
+      <point x="59" y="460" type="line"/>
+      <point x="218" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="531" type="line"/>
+      <point x="102" y="662" type="line"/>
+      <point x="474" y="662" type="line"/>
+      <point x="474" y="531" type="line"/>
+    </contour>
+  </outline>
+</glyph>

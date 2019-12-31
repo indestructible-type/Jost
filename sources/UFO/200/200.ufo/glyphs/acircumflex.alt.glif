@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex.alt" format="2">
+  <advance width="549"/>
+  <outline>
+    <contour>
+      <point x="443" y="460" type="line"/>
+      <point x="472" y="460" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="230" type="curve" smooth="yes"/>
+      <point x="42" y="378"/>
+      <point x="138" y="470"/>
+      <point x="260" y="470" type="curve" smooth="yes"/>
+      <point x="380" y="470"/>
+      <point x="456" y="358"/>
+      <point x="456" y="230" type="curve" smooth="yes"/>
+      <point x="456" y="102"/>
+      <point x="380" y="-10"/>
+      <point x="260" y="-10" type="curve" smooth="yes"/>
+      <point x="138" y="-10"/>
+      <point x="42" y="82"/>
+    </contour>
+    <contour>
+      <point x="74" y="230" type="curve" smooth="yes"/>
+      <point x="74" y="100"/>
+      <point x="158" y="20"/>
+      <point x="264" y="20" type="curve" smooth="yes"/>
+      <point x="362" y="20"/>
+      <point x="442" y="117"/>
+      <point x="442" y="230" type="curve" smooth="yes"/>
+      <point x="442" y="343"/>
+      <point x="362" y="440"/>
+      <point x="264" y="440" type="curve" smooth="yes"/>
+      <point x="158" y="440"/>
+      <point x="74" y="360"/>
+    </contour>
+    <contour>
+      <point x="266" y="667" type="line"/>
+      <point x="126" y="544" type="line"/>
+      <point x="106" y="561" type="line"/>
+      <point x="266" y="701" type="line"/>
+      <point x="426" y="561" type="line"/>
+      <point x="406" y="544" type="line"/>
+    </contour>
+  </outline>
+</glyph>

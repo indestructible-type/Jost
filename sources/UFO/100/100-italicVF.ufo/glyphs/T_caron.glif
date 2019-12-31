@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="405"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="200" y="689" type="line"/>
+      <point x="203" y="700" type="line"/>
+      <point x="572" y="700" type="line"/>
+      <point x="568" y="689" type="line"/>
+      <point x="389" y="689" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="378" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="781" type="line"/>
+      <point x="605" y="914" type="line"/>
+      <point x="610" y="906" type="line"/>
+      <point x="411" y="769" type="line"/>
+      <point x="307" y="908" type="line"/>
+      <point x="317" y="916" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>689</integer>
+            <key>width</key>
+            <integer>11</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
