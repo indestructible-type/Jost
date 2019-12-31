@@ -21,11 +21,15 @@
     <key>openTypeHeadCreated</key>
     <string>2016/06/11 02:01:29</string>
     <key>openTypeHheaAscender</key>
-    <integer>1030</integer>
+    <integer>1070</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-350</integer>
+    <integer>-375</integer>
     <key>openTypeHheaLineGap</key>
     <integer>100</integer>
+    <key>openTypeNameDesigner</key>
+    <string></string>
+    <key>openTypeNameDesignerURL</key>
+    <string></string>
     <key>openTypeNameLicense</key>
     <string>Copyright (c) 2016, indestructible-type.github.io,
 with Reserved Font Name Renner*.
@@ -123,6 +127,10 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string></string>
+    <key>openTypeNameManufacturerURL</key>
+    <string></string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Jost*</string>
     <key>openTypeNameVersion</key>
@@ -135,11 +143,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>825</integer>
+    <integer>3070</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-225</integer>
+    <integer>-375</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>100</integer>
+    <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>PfEd</string>
     <key>openTypeOS2WeightClass</key>
@@ -147,9 +155,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>900</integer>
+    <integer>3070</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>300</integer>
+    <integer>375</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
@@ -172,10 +180,10 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <integer>50</integer>
     <key>postscriptWeightName</key>
     <string>Hairline</string>
-    <key>styleMapFamilyName</key>
-    <string>Jost* 100 Hairline</string>
     <key>styleName</key>
     <string>Hairline</string>
+    <key>trademark</key>
+    <string></string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
