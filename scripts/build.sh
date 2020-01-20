@@ -96,7 +96,7 @@ mv ../fonts/otf/600.otf ../fonts/otf/Jost-600-Semi.otf
 mv ../fonts/otf/600-italic.otf ../fonts/otf/Jost-600-SemiItalic.otf
 mv ../fonts/otf/700.otf ../fonts/otf/Jost-700-Bold.otf
 mv ../fonts/otf/700-italic.otf ../fonts/otf/Jost-700-BoldItalic.otf
-mv ../fonts/otf/800.otf ../fonts/otf/Jost-800-Hevy.otf
-mv ../fonts/otf/800-italic.otf ../fonts/otf/Jost-800-HevyItalic.otf
+mv ../fonts/otf/800.otf ../fonts/otf/Jost-800-Heavy.otf
+mv ../fonts/otf/800-italic.otf ../fonts/otf/Jost-800-HeavyItalic.otf
 mv ../fonts/otf/900.otf ../fonts/otf/Jost-900-Black.otf
 mv ../fonts/otf/900-italic.otf ../fonts/otf/Jost-900-BlackItalic.otf
