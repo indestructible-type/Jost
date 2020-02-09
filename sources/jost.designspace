@@ -10,7 +10,7 @@
   </axes>
 
   <sources>
-    <source familyname="Jost" filename="UFO/400/400.ufo" name="400">
+    <source familyname="Jost*" filename="UFO/400/400.ufo" name="400" stylename="Book">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -19,7 +19,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/400/400-italicVF.ufo" name="400i">
+    <source familyname="Jost*" filename="UFO/400/400-italicVF.ufo" stylename="Book Italic">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -28,7 +28,7 @@
         <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/100/100.ufo" name="100">
+    <source familyname="Jost*" filename="UFO/100/100.ufo" name="100" stylename="Hairline">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -37,7 +37,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/100/100-italicVF.ufo" name="100i">
+    <source familyname="Jost*" filename="UFO/100/100-italicVF.ufo" name="100i" stylename="Hairline Italic">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -46,7 +46,7 @@
         <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/900/900.ufo" name="900">
+    <source familyname="Jost*" filename="UFO/900/900.ufo" name="900" stylename="Black">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -55,7 +55,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/900/900-italicVF.ufo" name="900i">
+    <source familyname="Jost*" filename="UFO/900/900-italicVF.ufo" name="900i" stylename="Black Italic">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -64,7 +64,7 @@
         <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/200/200.ufo" name="200">
+    <source familyname="Jost*" filename="UFO/200/200.ufo" name="200" stylename="Thin">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -73,7 +73,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/300/300.ufo" name="300">
+    <source familyname="Jost*" filename="UFO/300/300.ufo" name="300" stylename="Light">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -82,7 +82,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/500/500.ufo" name="500">
+    <source familyname="Jost*" filename="UFO/500/500.ufo" name="500" stylename="Medium">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -91,7 +91,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/600/600.ufo" name="600">
+    <source familyname="Jost*" filename="UFO/600/600.ufo" name="600" stylename="Semi">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -100,7 +100,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/700/700.ufo" name="700">
+    <source familyname="Jost*" filename="UFO/700/700.ufo" name="700" stylename="Bold">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -109,7 +109,7 @@
         <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost" filename="UFO/800/800.ufo" name="800">
+    <source familyname="Jost*" filename="UFO/800/800.ufo" name="800" stylename="Heavy">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -119,4 +119,150 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance stylename="Hairline" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Hairline Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Thin" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Thin Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Light" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Light Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Book" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Book Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Medium" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Medium Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Semi" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Semi Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Bold" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Bold Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Heavy" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Heavy Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Black" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Black Italic" familyname="Jost*">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
 </designspace>
