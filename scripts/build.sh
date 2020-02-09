@@ -7,6 +7,20 @@ set -e
 echo "Generating Variable Font"
 fontmake -o variable -m ../sources/jost.designspace --output-path ../fonts/Jost-VF.ttf
 
+echo "vf cleaning"
+
+vfs=$(ls ../fonts/*.ttf)
+for vf in $vfs
+do
+gftools fix-dsig -f $vf;
+gftools fix-nonhinting $vf "$vf.fix";
+mv "$vf.fix" $vf;
+done
+
+rm ../fonts/*backup*.ttf
+
+echo "end vf cleaning"
+
 echo "Generating TrueType Fonts"
 fontmake  -o ttf --output-dir ../fonts/ttf2/ -u ../sources/UFO/100/100.ufo ../sources/UFO/100/100-italic.ufo ../sources/UFO/200/200.ufo ../sources/UFO/200/200-italic.ufo ../sources/UFO/300/300.ufo ../sources/UFO/300/300-italic.ufo ../sources/UFO/400/400.ufo ../sources/UFO/400/400-italic.ufo ../sources/UFO/500/500.ufo ../sources/UFO/500/500-italic.ufo ../sources/UFO/600/600.ufo ../sources/UFO/600/600-italic.ufo ../sources/UFO/700/700.ufo ../sources/UFO/700/700-italic.ufo ../sources/UFO/800/800.ufo ../sources/UFO/800/800-italic.ufo ../sources/UFO/900/900.ufo ../sources/UFO/900/900-italic.ufo
 
