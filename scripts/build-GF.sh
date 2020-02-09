@@ -88,7 +88,7 @@ sed -i 's/Jost 900 Black/Jost Black/g' ../sources-GF/UFO/900/900-italic.ufo/font
 
 
 echo "Generating Variable Font"
-fontmake -o variable -m ../sources-GF/jost.designspace --output-path ../fonts/Jost-VF.ttf
+fontmake -o variable -m ../sources-GF/jost.designspace --output-path ../fonts/Jost[ital,wght].ttf
 
 echo "Generating TrueType Fonts"
 fontmake  -o ttf --output-dir ../fonts/ttf2/ -u ../sources-GF/UFO/100/100.ufo ../sources-GF/UFO/100/100-italic.ufo ../sources-GF/UFO/200/200.ufo ../sources-GF/UFO/200/200-italic.ufo ../sources-GF/UFO/300/300.ufo ../sources-GF/UFO/300/300-italic.ufo ../sources-GF/UFO/400/400.ufo ../sources-GF/UFO/400/400-italic.ufo ../sources-GF/UFO/500/500.ufo ../sources-GF/UFO/500/500-italic.ufo ../sources-GF/UFO/600/600.ufo ../sources-GF/UFO/600/600-italic.ufo ../sources-GF/UFO/700/700.ufo ../sources-GF/UFO/700/700-italic.ufo ../sources-GF/UFO/800/800.ufo ../sources-GF/UFO/800/800-italic.ufo ../sources-GF/UFO/900/900.ufo ../sources-GF/UFO/900/900-italic.ufo
