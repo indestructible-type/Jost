@@ -17,6 +17,9 @@ sed -i 's/Book/Regular/g' ../sources-GF/jost.designspace
 sed -i 's/Regular Italic/Italic/g' ../sources-GF/jost.designspace
 sed -i 's/Semi/SemiBold/g' ../sources-GF/jost.designspace
 sed -i 's/Heavy/ExtraBold/g' ../sources-GF/jost.designspace
+sed -i 's/maximum="2" default="0" name="Italic" tag="ital">/maximum="1" default="0" name="Italic" tag="ital">/g' ../sources-GF/jost.designspace
+sed -i 's/dimension name="Italic" xvalue="2"/dimension name="Italic" xvalue="1"/g' ../sources-GF/jost.designspace
+sed -i 's/italicVF.ufo/italicGF.ufo/g' ../sources-GF/jost.designspace
 
 
 #100
@@ -184,29 +187,6 @@ mv ../fonts/static/Jost-BlackItalic.ttf.fix ../fonts/static/Jost-BlackItalic.ttf
 
 rm ../fonts/ttf2/*.ttf
 rmdir ../fonts/ttf2
-
-echo "Generating OpenType Fonts"
-fontmake  -o otf --output-dir ../fonts/static/ -u ../sources-GF/UFO/100/100.ufo ../sources-GF/UFO/100/100-italic.ufo ../sources-GF/UFO/200/200.ufo ../sources-GF/UFO/200/200-italic.ufo ../sources-GF/UFO/300/300.ufo ../sources-GF/UFO/300/300-italic.ufo ../sources-GF/UFO/400/400.ufo ../sources-GF/UFO/400/400-italic.ufo ../sources-GF/UFO/500/500.ufo ../sources-GF/UFO/500/500-italic.ufo ../sources-GF/UFO/600/600.ufo ../sources-GF/UFO/600/600-italic.ufo ../sources-GF/UFO/700/700.ufo ../sources-GF/UFO/700/700-italic.ufo ../sources-GF/UFO/800/800.ufo ../sources-GF/UFO/800/800-italic.ufo ../sources-GF/UFO/900/900.ufo ../sources-GF/UFO/900/900-italic.ufo
-
-echo "Hot Fixes"
-mv ../fonts/static/100.otf ../fonts/static/Jost-Thin.otf
-mv ../fonts/static/100-italic.otf ../fonts/static/Jost-ThinItalic.otf
-mv ../fonts/static/200.otf ../fonts/static/Jost-ExtraLight.otf
-mv ../fonts/static/200-italic.otf ../fonts/static/Jost-ExtraLightItalic.otf
-mv ../fonts/static/300.otf ../fonts/static/Jost-Light.otf
-mv ../fonts/static/300-italic.otf ../fonts/static/Jost-LightItalic.otf
-mv ../fonts/static/400.otf ../fonts/static/Jost-Regular.otf
-mv ../fonts/static/400-italic.otf ../fonts/static/Jost-RegularItalic.otf
-mv ../fonts/static/500.otf ../fonts/static/Jost-Medium.otf
-mv ../fonts/static/500-italic.otf ../fonts/static/Jost-MediumItalic.otf
-mv ../fonts/static/600.otf ../fonts/static/Jost-SemiBold.otf
-mv ../fonts/static/600-italic.otf ../fonts/static/Jost-SemiBoldItalic.otf
-mv ../fonts/static/700.otf ../fonts/static/Jost-Bold.otf
-mv ../fonts/static/700-italic.otf ../fonts/static/Jost-BoldItalic.otf
-mv ../fonts/static/800.otf ../fonts/static/Jost-ExtraBold.otf
-mv ../fonts/static/800-italic.otf ../fonts/static/Jost-ExtraBoldItalic.otf
-mv ../fonts/static/900.otf ../fonts/static/Jost-Black.otf
-mv ../fonts/static/900-italic.otf ../fonts/static/Jost-BlackItalic.otf
 
 echo "Cleaning Up"
 rm -rf ../sources-GF

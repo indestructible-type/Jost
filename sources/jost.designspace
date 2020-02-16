@@ -120,7 +120,7 @@
     </source>
   </sources>
   <instances>
-    <instance stylename="Hairline" familyname="Jost*">
+    <instance stylename="Hairline" familyname="Jost*" name="100">
       <location>
         <dimension name="Weight" xvalue="100"/>
         <dimension name="Italic" xvalue="0"/>
@@ -128,7 +128,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Hairline Italic" familyname="Jost*">
+    <instance stylename="Hairline Italic" familyname="Jost*" name="200">
       <location>
         <dimension name="Weight" xvalue="100"/>
         <dimension name="Italic" xvalue="1"/>
@@ -136,7 +136,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Thin" familyname="Jost*">
+    <instance stylename="Thin" familyname="Jost*" name="300">
       <location>
         <dimension name="Weight" xvalue="200"/>
         <dimension name="Italic" xvalue="0"/>
@@ -144,7 +144,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Thin Italic" familyname="Jost*">
+    <instance stylename="Thin Italic" familyname="Jost*" name="400">
       <location>
         <dimension name="Weight" xvalue="200"/>
         <dimension name="Italic" xvalue="1"/>
@@ -152,7 +152,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Light" familyname="Jost*">
+    <instance stylename="Light" familyname="Jost*" name="500">
       <location>
         <dimension name="Weight" xvalue="300"/>
         <dimension name="Italic" xvalue="0"/>
@@ -160,7 +160,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Light Italic" familyname="Jost*">
+    <instance stylename="Light Italic" familyname="Jost*" name="600">
       <location>
         <dimension name="Weight" xvalue="300"/>
         <dimension name="Italic" xvalue="1"/>
@@ -168,7 +168,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Book" familyname="Jost*">
+    <instance stylename="Book" familyname="Jost*" name="800">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Italic" xvalue="0"/>
@@ -176,7 +176,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Book Italic" familyname="Jost*">
+    <instance stylename="Book Italic" familyname="Jost*" name="700">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Italic" xvalue="1"/>
@@ -184,7 +184,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Medium" familyname="Jost*">
+    <instance stylename="Medium" familyname="Jost*" name="900">
       <location>
         <dimension name="Weight" xvalue="500"/>
         <dimension name="Italic" xvalue="0"/>
@@ -192,7 +192,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Medium Italic" familyname="Jost*">
+    <instance stylename="Medium Italic" familyname="Jost*" name="110">
       <location>
         <dimension name="Weight" xvalue="500"/>
         <dimension name="Italic" xvalue="1"/>
@@ -200,7 +200,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Semi" familyname="Jost*">
+    <instance stylename="Semi" familyname="Jost*" name="120">
       <location>
         <dimension name="Weight" xvalue="600"/>
         <dimension name="Italic" xvalue="0"/>
@@ -208,7 +208,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Semi Italic" familyname="Jost*">
+    <instance stylename="Semi Italic" familyname="Jost*" name="130">
       <location>
         <dimension name="Weight" xvalue="600"/>
         <dimension name="Italic" xvalue="1"/>
@@ -216,7 +216,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Bold" familyname="Jost*">
+    <instance stylename="Bold" familyname="Jost*" name="140">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Italic" xvalue="0"/>
@@ -224,7 +224,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Bold Italic" familyname="Jost*">
+    <instance stylename="Bold Italic" familyname="Jost*" name="150">
       <location>
         <dimension name="Weight" xvalue="700"/>
         <dimension name="Italic" xvalue="1"/>
@@ -232,7 +232,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Heavy" familyname="Jost*">
+    <instance stylename="Heavy" familyname="Jost*" name="160">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Italic" xvalue="0"/>
@@ -240,7 +240,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Heavy Italic" familyname="Jost*">
+    <instance stylename="Heavy Italic" familyname="Jost*" name="170">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Italic" xvalue="1"/>
@@ -248,7 +248,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Black" familyname="Jost*">
+    <instance stylename="Black" familyname="Jost*" name="180">
       <location>
         <dimension name="Weight" xvalue="900"/>
         <dimension name="Italic" xvalue="0"/>
@@ -256,7 +256,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance stylename="Black Italic" familyname="Jost*">
+    <instance stylename="Black Italic" familyname="Jost*" name="190">
       <location>
         <dimension name="Weight" xvalue="900"/>
         <dimension name="Italic" xvalue="1"/>
