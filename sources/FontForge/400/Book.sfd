@@ -22,28 +22,28 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1587206386
+ModificationTime: 1577655331
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 0
+LineGap: 100
 VLineGap: 0
-OS2TypoAscent: 880
+OS2TypoAscent: 825
 OS2TypoAOffset: 0
-OS2TypoDescent: -120
+OS2TypoDescent: -225
 OS2TypoDOffset: 0
-OS2TypoLinegap: 0
-OS2WinAscent: 1160
+OS2TypoLinegap: 100
+OS2WinAscent: 900
 OS2WinAOffset: 0
-OS2WinDescent: 288
+OS2WinDescent: 300
 OS2WinDOffset: 0
-HheadAscent: 1160
+HheadAscent: 1030
 HheadAOffset: 0
-HheadDescent: -228
+HheadDescent: -350
 HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
-OS2Vendor: 'it* '
+OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "alt a" { "alt a"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "Tabular Numbers lookup" { "Tabular Numbers lookup"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Lets get our kern on" { "kernin like nobodys business" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
