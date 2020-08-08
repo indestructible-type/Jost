@@ -44,7 +44,9 @@ Added optical compensation to italics. Added Czech support. Minor tweaks and fix
 <b>3.4 </b>
 Added Cyrillic alphabet (Russian support). Fixed metadata issues and added Romanian support.<br>
 <b>3.5 </b>
-Added some math symbols. Improved letterforms. Improved GitHub repo. Added automated build.sh script.
+Added some math symbols. Improved letterforms. Improved GitHub repo. Added automated build.sh script.<br>
+<b>3.51 </b>
+Fixed up scripting, improved variable font. Now supports italic a and uses less source info.
 
 Web Use
 -------
