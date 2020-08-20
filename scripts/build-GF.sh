@@ -22,6 +22,13 @@ mv ../sources-GF/instances/900i.ufo ../sources-GF/UFO/900i.ufo
 echo "Fixing Naming Conventions"
 
 #Variable
+sed -i 's/Jost\*/Jost/g' ../sources-GF/UFO/400.ufo/fontinfo.plist
+sed -i 's/Book/Regular/g' ../sources-GF/UFO/400.ufo/fontinfo.plist
+sed -i 's/Jost\*/Jost/g' ../sources-GF/UFO/400i.ufo/fontinfo.plist
+sed -i 's/Book/Regular/g' ../sources-GF/UFO/400i.ufo/fontinfo.plist
+sed -i 's/Regular Italic/Italic/g' ../sources-GF/UFO/400i.ufo/fontinfo.plist
+sed -i 's/RegularItalic/Italic/g' ../sources-GF/UFO/400i.ufo/fontinfo.plist
+
 sed -i 's/Jost\*/Jost/g' ../sources-GF/designspace/jost.designspace
 sed -i 's/Thin/ExtraLight/g' ../sources-GF/designspace/jost.designspace
 sed -i 's/Hairline/Thin/g' ../sources-GF/designspace/jost.designspace
@@ -32,23 +39,6 @@ sed -i 's/Semi/SemiBold/g' ../sources-GF/designspace/jost.designspace
 sed -i 's/Heavy/ExtraBold/g' ../sources-GF/designspace/jost.designspace
 sed -i 's/maximum="2" default="0" name="Italic" tag="ital">/maximum="1" default="0" name="Italic" tag="ital">/g' ../sources-GF/designspace/jost.designspace
 sed -i 's/dimension name="Italic" xvalue="2"/dimension name="Italic" xvalue="1"/g' ../sources-GF/designspace/jost.designspace
-
-echo "Generating Variable Font"
-fontmake -o variable -m ../sources-GF/designspace/jost.designspace --output-path ../fonts/Jost[ital,wght].ttf
-
-echo "vf cleaning"
-
-vfs=$(ls ../fonts/*.ttf)
-for vf in $vfs
-do
-gftools fix-dsig -f $vf;
-gftools fix-nonhinting $vf "$vf.fix";
-mv "$vf.fix" $vf;
-done
-
-rm ../fonts/*backup*.ttf
-
-echo "end vf cleaning"
 
 echo "generating source files"
 
@@ -141,6 +131,34 @@ mv ../fonts/static/Jost-900-BlackItalic.ttf.fix ../fonts/static/Jost-BlackItalic
 
 rm ../fonts/ttf2/*.ttf
 rmdir ../fonts/ttf2
+
+fontmake -o ufo -i "100i" -m ../sources-GF/designspace/jost.designspace
+fontmake -o ufo -i "400i" -m ../sources-GF/designspace/jost.designspace
+fontmake -o ufo -i "900i" -m ../sources-GF/designspace/jost.designspace
+rm -rf ../sources-GF/UFO/100i.ufo
+rm -rf ../sources-GF/UFO/400i.ufo
+rm -rf ../sources-GF/UFO/900i.ufo
+mv ../sources-GF/instances/100i.ufo ../sources-GF/UFO/100i.ufo
+mv ../sources-GF/instances/400i.ufo ../sources-GF/UFO/400i.ufo
+mv ../sources-GF/instances/900i.ufo ../sources-GF/UFO/900i.ufo
+
+echo "Generating Variable Font"
+fontmake -o variable -m ../sources-GF/designspace/jostGF.designspace --output-path ../fonts/Jost[wght].ttf
+fontmake -o variable -m ../sources-GF/designspace/jostGF-Italic.designspace --output-path ../fonts/Jost-Italic[wght].ttf
+
+echo "vf cleaning"
+
+vfs=$(ls ../fonts/*.ttf)
+for vf in $vfs
+do
+gftools fix-dsig -f $vf;
+gftools fix-nonhinting $vf "$vf.fix";
+mv "$vf.fix" $vf;
+done
+
+rm ../fonts/*backup*.ttf
+
+echo "end vf cleaning"
 
 echo "Cleaning Up"
 rm -rf ../sources-GF
