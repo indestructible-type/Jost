@@ -154,6 +154,8 @@ do
 gftools fix-dsig -f $vf;
 gftools fix-nonhinting $vf "$vf.fix";
 mv "$vf.fix" $vf;
+gftools fix-vf-meta $vf;
+mv "$vf.fix" $vf;
 done
 
 rm ../fonts/*backup*.ttf
