@@ -14,91 +14,39 @@
         <map input="800" output="198" />
         <map input="900" output="225" />
       </axis>
-      <axis minimum="0" maximum="2" default="0" name="Italic" tag="ital">
-      </axis>
   </axes>
 
-  <rules>
-    <rule name="Suba">
-      <conditionset>
-        <condition maximum="225" minimum="10" name="Weight" />
-        <condition maximum="2" minimum="0.5" name="Italic" />
-      </conditionset>
-      <sub name="a" with="a.alt" />
-      <sub name="agrave" with="agrave.alt" />
-      <sub name="aacute" with="aacute.alt" />
-      <sub name="acircumflex" with="acircumflex.alt" />
-      <sub name="atilde" with="atilde.alt" />
-      <sub name="adieresis" with="adieresis.alt" />
-      <sub name="aring" with="aring.alt" />
-      <sub name="amacron" with="amacron.alt" />
-      <sub name="abreve" with="abreve.alt" />
-      <sub name="aogonek" with="aogonek.alt" />
-    </rule>
-  </rules>
-
   <sources>
-    <source familyname="Jost*" filename="../UFO/400.ufo" name="400" stylename="Book">
+    <source familyname="Jost" filename="../UFO/400.ufo" name="400" stylename="Regular">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
       <location>
         <dimension name="Weight" xvalue="85"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost*" filename="../UFO/400i.ufo" name="400i" stylename="Book Italic">
-      <lib copy="1"/>
-      <info copy="1"/>
-      <kerning copy="1"/>
-      <location>
-        <dimension name="Weight" xvalue="85"/>
-        <dimension name="Italic" xvalue="2"/>
-      </location>
-    </source>
-    <source familyname="Jost*" filename="../UFO/100.ufo" name="100" stylename="Hairline">
+    <source familyname="Jost" filename="../UFO/100.ufo" name="100" stylename="Thin">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
       <location>
         <dimension name="Weight" xvalue="10"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Jost*" filename="../UFO/100i.ufo" name="100i" stylename="Hairline Italic">
-      <lib copy="1"/>
-      <info copy="1"/>
-      <kerning copy="1"/>
-      <location>
-        <dimension name="Weight" xvalue="10"/>
-        <dimension name="Italic" xvalue="2"/>
-      </location>
-    </source>
-    <source familyname="Jost*" filename="../UFO/900.ufo" name="900" stylename="Black">
+    <source familyname="Jost" filename="../UFO/900.ufo" name="900" stylename="Black">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
       <location>
         <dimension name="Weight" xvalue="225"/>
-        <dimension name="Italic" xvalue="0"/>
-      </location>
-    </source>
-    <source familyname="Jost*" filename="../UFO/900i.ufo" name="900i" stylename="Black Italic">
-      <lib copy="1"/>
-      <info copy="1"/>
-      <kerning copy="1"/>
-      <location>
-        <dimension name="Weight" xvalue="225"/>
-        <dimension name="Italic" xvalue="2"/>
       </location>
     </source>
   </sources>
 
   <instances>
-    <instance stylename="Hairline" familyname="Jost*" name="100" filename="../instances/100.ufo" postscriptfontname="Jost-Hairline" stylemapfamilyname="Jost* Hairline" stylemapstylename="regular">
+    <instance stylename="Thin" familyname="Jost" name="100" filename="../instances/Jost-Thin.ufo" postscriptfontname="Jost-Thin" stylemapfamilyname="Jost Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="10"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -108,15 +56,15 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Hairline</string>
+              <string>Jost Thin</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
-              <string>Hairline</string>
+              <string>Thin</string>
             </array>
             <array>
               <string>openTypeOS2WeightClass</string>
@@ -126,10 +74,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Thin" familyname="Jost*" name="200" filename="../instances/200.ufo" postscriptfontname="Jost-Thin" stylemapfamilyname="Jost* Thin" stylemapstylename="regular">
+    <instance stylename="ExtraLight" familyname="Jost" name="200" filename="../instances/Jost-ExtraLight.ufo" postscriptfontname="Jost-ExtraLight" stylemapfamilyname="Jost ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="32"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -139,15 +86,15 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Thin</string>
+              <string>Jost ExtraLight</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
-              <string>Thin</string>
+              <string>ExtraLight</string>
             </array>
             <array>
               <string>openTypeOS2WeightClass</string>
@@ -157,10 +104,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Light" familyname="Jost*" name="300" filename="../instances/300.ufo" postscriptfontname="Jost-Light" stylemapfamilyname="Jost* Light" stylemapstylename="regular">
+    <instance stylename="Light" familyname="Jost" name="300" filename="../instances/Jost-Light.ufo" postscriptfontname="Jost-Light" stylemapfamilyname="Jost Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="55"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -170,11 +116,11 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Light</string>
+              <string>Jost Light</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
@@ -188,10 +134,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Book" familyname="Jost*" name="400" filename="../instances/400.ufo" postscriptfontname="Jost-Book" stylemapfamilyname="Jost*" stylemapstylename="regular">
+    <instance stylename="Regular" familyname="Jost" name="400" filename="../instances/Jost-Regular.ufo" postscriptfontname="Jost-Regular" stylemapfamilyname="Jost" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="85"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -201,15 +146,15 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Book</string>
+              <string>Jost Regular</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
-              <string>Book</string>
+              <string>Regular</string>
             </array>
             <array>
               <string>openTypeOS2WeightClass</string>
@@ -219,10 +164,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Medium" familyname="Jost*" name="500" filename="../instances/500.ufo" postscriptfontname="Jost-Medium" stylemapfamilyname="Jost* Medium" stylemapstylename="regular">
+    <instance stylename="Medium" familyname="Jost" name="500" filename="../instances/Jost-Medium.ufo" postscriptfontname="Jost-Medium" stylemapfamilyname="Jost Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="120"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -232,11 +176,11 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Medium</string>
+              <string>Jost Medium</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
@@ -250,10 +194,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Semi" familyname="Jost*" name="600" filename="../instances/600.ufo" postscriptfontname="Jost-Semi" stylemapfamilyname="Jost* Semi" stylemapstylename="regular">
+    <instance stylename="SemiBold" familyname="Jost" name="600" filename="../instances/Jost-SemiBold.ufo" postscriptfontname="Jost-SemiBold" stylemapfamilyname="Jost SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="145"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -263,15 +206,15 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Semi</string>
+              <string>Jost SemiBold</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
-              <string>Semi</string>
+              <string>SemiBold</string>
             </array>
             <array>
               <string>openTypeOS2WeightClass</string>
@@ -281,10 +224,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Bold" familyname="Jost*" name="700" filename="../instances/700.ufo" postscriptfontname="Jost-Bold" stylemapfamilyname="Jost*" stylemapstylename="bold">
+    <instance stylename="Bold" familyname="Jost" name="700" filename="../instances/Jost-Bold.ufo" postscriptfontname="Jost-Bold" stylemapfamilyname="Jost" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="172"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -294,11 +236,11 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Bold</string>
+              <string>Jost Bold</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
@@ -312,10 +254,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Heavy" familyname="Jost*" name="800" filename="../instances/800.ufo" postscriptfontname="Jost-Heavy" stylemapfamilyname="Jost* Heavy" stylemapstylename="regular">
+    <instance stylename="ExtraBold" familyname="Jost" name="800" filename="../instances/Jost-ExtraBold.ufo" postscriptfontname="Jost-ExtraBold" stylemapfamilyname="Jost ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="198"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -325,15 +266,15 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Heavy</string>
+              <string>Jost ExtraBold</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
-              <string>Heavy</string>
+              <string>ExtraBold</string>
             </array>
             <array>
               <string>openTypeOS2WeightClass</string>
@@ -343,10 +284,9 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Black" familyname="Jost*" name="900" filename="../instances/900.ufo" postscriptfontname="Jost-Black" stylemapfamilyname="Jost* Black" stylemapstylename="regular">
+    <instance stylename="Black" familyname="Jost" name="900" filename="../instances/Jost-Black.ufo" postscriptfontname="Jost-Black" stylemapfamilyname="Jost Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="225"/>
-        <dimension name="Italic" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -356,295 +296,11 @@
           <array>
             <array>
               <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
+              <string>Jost</string>
             </array>
             <array>
               <string>postscriptFullName</string>
-              <string>Jost* Black</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Black</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>900</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-
-    <instance stylename="Hairline Italic" familyname="Jost*" name="100i" filename="../instances/100i.ufo" postscriptfontname="Jost-HairlineItalic" stylemapfamilyname="Jost* Hairline" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="10"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>italicAngle</string>
-              <integer>-13</integer>
-            </array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Hairline Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Hairline</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>100</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Thin Italic" familyname="Jost*" name="200i" filename="../instances/200i.ufo" postscriptfontname="Jost-ThinItalic" stylemapfamilyname="Jost* Thin" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="32"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Thin Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Thin</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>200</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Light Italic" familyname="Jost*" name="300i" filename="../instances/300i.ufo" postscriptfontname="Jost-LightItalic" stylemapfamilyname="Jost* Light" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="55"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Light Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Light</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>300</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Book Italic" familyname="Jost*" name="400i" filename="../instances/400i.ufo" postscriptfontname="Jost-BookItalic" stylemapfamilyname="Jost*" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="85"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Book Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Book</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>400</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Medium Italic" familyname="Jost*" name="500i" filename="../instances/500i.ufo" postscriptfontname="Jost-MediumItalic" stylemapfamilyname="Jost* Medium" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="120"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Medium Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Medium</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>500</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Semi Italic" familyname="Jost*" name="600i" filename="../instances/600i.ufo" postscriptfontname="Jost-SemiItalic" stylemapfamilyname="Jost* Semi" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="145"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Semi Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Semi</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>600</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Bold Italic" familyname="Jost*" name="700i" filename="../instances/700i.ufo" postscriptfontname="Jost-BoldItalic" stylemapfamilyname="Jost*" stylemapstylename="bold italic">
-      <location>
-        <dimension name="Weight" xvalue="172"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Bold Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Bold</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>700</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Heavy Italic" familyname="Jost*" name="800i" filename="../instances/800i.ufo" postscriptfontname="Jost-HeavyItalic" stylemapfamilyname="Jost* Heavy" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="198"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Heavy Italic</string>
-            </array>
-            <array>
-              <string>postscriptWeightName</string>
-              <string>Heavy</string>
-            </array>
-            <array>
-              <string>openTypeOS2WeightClass</string>
-              <integer>800</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance stylename="Black Italic" familyname="Jost*" name="900i" filename="../instances/900i.ufo" postscriptfontname="Jost-BlackItalic" stylemapfamilyname="Jost* Black" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="225"/>
-        <dimension name="Italic" xvalue="1"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>openTypeNamePreferredFamilyName</string>
-              <string>Jost*</string>
-            </array>
-            <array>
-              <string>postscriptFullName</string>
-              <string>Jost* Black Italic</string>
+              <string>Jost Black</string>
             </array>
             <array>
               <string>postscriptWeightName</string>
