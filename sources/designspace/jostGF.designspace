@@ -17,7 +17,7 @@
   </axes>
 
   <sources>
-    <source familyname="Jost" filename="../UFO/400.ufo" name="400" stylename="Regular">
+    <source familyname="Jost" filename="../instances/Jost-Book.ufo" name="400" stylename="Regular">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -25,7 +25,7 @@
         <dimension name="Weight" xvalue="85"/>
       </location>
     </source>
-    <source familyname="Jost" filename="../UFO/100.ufo" name="100" stylename="Thin">
+    <source familyname="Jost" filename="../instances/Jost-Hairline.ufo" name="100" stylename="Thin">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -33,7 +33,7 @@
         <dimension name="Weight" xvalue="10"/>
       </location>
     </source>
-    <source familyname="Jost" filename="../UFO/900.ufo" name="900" stylename="Black">
+    <source familyname="Jost" filename="../instances/Jost-Black.ufo" name="900" stylename="Black">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
@@ -44,7 +44,7 @@
   </sources>
 
   <instances>
-    <instance stylename="Thin" familyname="Jost" name="100" filename="../instances/100.ufo" postscriptfontname="Jost-Thin" stylemapfamilyname="Jost Thin" stylemapstylename="regular">
+    <instance stylename="Thin" familyname="Jost" name="100" filename="../instances/Jost-Thin.ufo" postscriptfontname="Jost-Thin" stylemapfamilyname="Jost Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="10"/>
       </location>
@@ -74,7 +74,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="ExtraLight" familyname="Jost" name="200" filename="../instances/200.ufo" postscriptfontname="Jost-ExtraLight" stylemapfamilyname="Jost ExtraLight" stylemapstylename="regular">
+    <instance stylename="ExtraLight" familyname="Jost" name="200" filename="../instances/Jost-ExtraLight.ufo" postscriptfontname="Jost-ExtraLight" stylemapfamilyname="Jost ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="32"/>
       </location>
@@ -104,7 +104,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Light" familyname="Jost" name="300" filename="../instances/300.ufo" postscriptfontname="Jost-Light" stylemapfamilyname="Jost Light" stylemapstylename="regular">
+    <instance stylename="Light" familyname="Jost" name="300" filename="../instances/Jost-Light.ufo" postscriptfontname="Jost-Light" stylemapfamilyname="Jost Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="55"/>
       </location>
@@ -134,7 +134,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Regular" familyname="Jost" name="400" filename="../instances/400.ufo" postscriptfontname="Jost-Regular" stylemapfamilyname="Jost" stylemapstylename="regular">
+    <instance stylename="Regular" familyname="Jost" name="400" filename="../instances/Jost-Regular.ufo" postscriptfontname="Jost-Regular" stylemapfamilyname="Jost" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="85"/>
       </location>
@@ -164,7 +164,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Medium" familyname="Jost" name="500" filename="../instances/500.ufo" postscriptfontname="Jost-Medium" stylemapfamilyname="Jost Medium" stylemapstylename="regular">
+    <instance stylename="Medium" familyname="Jost" name="500" filename="../instances/Jost-Medium.ufo" postscriptfontname="Jost-Medium" stylemapfamilyname="Jost Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
@@ -194,7 +194,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="SemiBold" familyname="Jost" name="600" filename="../instances/600.ufo" postscriptfontname="Jost-SemiBold" stylemapfamilyname="Jost SemiBold" stylemapstylename="regular">
+    <instance stylename="SemiBold" familyname="Jost" name="600" filename="../instances/Jost-SemiBold.ufo" postscriptfontname="Jost-SemiBold" stylemapfamilyname="Jost SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="145"/>
       </location>
@@ -224,7 +224,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Bold" familyname="Jost" name="700" filename="../instances/700.ufo" postscriptfontname="Jost-Bold" stylemapfamilyname="Jost" stylemapstylename="bold">
+    <instance stylename="Bold" familyname="Jost" name="700" filename="../instances/Jost-Bold.ufo" postscriptfontname="Jost-Bold" stylemapfamilyname="Jost" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="172"/>
       </location>
@@ -254,7 +254,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="ExtraBold" familyname="Jost" name="800" filename="../instances/800.ufo" postscriptfontname="Jost-ExtraBold" stylemapfamilyname="Jost ExtraBold" stylemapstylename="regular">
+    <instance stylename="ExtraBold" familyname="Jost" name="800" filename="../instances/Jost-ExtraBold.ufo" postscriptfontname="Jost-ExtraBold" stylemapfamilyname="Jost ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="198"/>
       </location>
@@ -284,7 +284,7 @@
         </dict>
       </lib>
     </instance>
-    <instance stylename="Black" familyname="Jost" name="900" filename="../instances/900.ufo" postscriptfontname="Jost-Black" stylemapfamilyname="Jost Black" stylemapstylename="regular">
+    <instance stylename="Black" familyname="Jost" name="900" filename="../instances/Jost-Black.ufo" postscriptfontname="Jost-Black" stylemapfamilyname="Jost Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="225"/>
       </location>
