@@ -1,12 +1,12 @@
 sources:
-  - designspace/JostGF.designspace
-  - designspace/JostGF-Italic.designspace
+  - designspace/jostGF.designspace
+  - designspace/jostGF-Italic.designspace
 axisOrder:
   - wght
 familyName: Jost
 buildStatic: False
 stat:
-  JostGF[wght].ttf:
+  jostGF[wght].ttf:
   - name: Weight
     tag: wght
     values:
@@ -37,7 +37,7 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-  JostGF-Italic[wght].ttf:
+  jostGF-Italic[wght].ttf:
   - name: Weight
     tag: wght
     values:
