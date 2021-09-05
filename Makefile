@@ -17,6 +17,8 @@ venv: venv/touchfile
 
 build.stamp: venv
 	. venv/bin/activate; python3 sources/preprocessing.py; gftools builder sources/config.yaml && touch build.stamp
+	mv fonts/variable/jostGF[wght].ttf fonts/variable/Jost[wght].ttf
+	mv fonts/variable/jostGF-Italic[wght].ttf fonts/variable/Jost-Italic[wght].ttf
 	
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
