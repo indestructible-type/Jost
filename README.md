@@ -55,21 +55,29 @@ Web Use
 To use on your webpage, simply put the following line of code into the `<head>` of the webpage you'd like to display Jost* and use `font-family: 'Jost';` in your css.<br>
 `<link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />`
 
-Building the Variable Font.
----------------------------
-Jost* is licensed under the [SIL open type license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), meaning that it is free to use and modify. However, because of the difficulty
-associated with creating the OpenType Variable Font features, the compliled, functoning version of this font
-requires a payment of $10 or more on the website. However, if you'd like to build this font yourself using
-the source code, the follow the following instructions.
+## Building
 
-1. Download the complete source code, either by cloning this repository or downloading the .zip file.
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
-2. Download and install:<br>
-**fontmake** which can be found [here](https://github.com/googlei18n/fontmake)<br>
-**gftools** which can be found [here](https://github.com/googlefonts/gftools)<br>
-**ttfautohint** which can be found [here](https://www.freetype.org/ttfautohint/)<br>
+If you particularly want to build fonts manually on your own computer, you will need to install the [`yq` utility](https://github.com/mikefarah/yq). On OS X with Homebrew, type `brew install yq`; on Linux, try `snap install yq`; if all else fails, try the instructions on the linked page.
 
-3. Run the build.sh script located in the "scripts" folder. This should make both the variable and non-variable versions of the font.
+Then:
+
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
+
+** Note to future Google onboarder** - I've tried to keep this version as similar to the original as possible to avoid difficulties in updating this font in the future. You should just need to merge the updated `sources/UFO` files over (and maybe the `jost.designspace` file if that has changed for some reason. The build script automatically converts from the `Jost* format` to the `GF Jost` format.)
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at
+http://scripts.sil.org/OFL
+
+## Repository Layout
+
+This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
 
 Contact
 -------
