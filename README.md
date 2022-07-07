@@ -58,8 +58,8 @@ To use on your webpage, simply put the following line of code into the `<head>` 
 Building the Variable Font.
 ---------------------------
 Jost* is licensed under the [SIL open type license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), meaning that it is free to use and modify. However, because of the difficulty
-associated with creating the OpenType Variable Font features, the compliled, functoning version of this font
-requires a payment of $10 or more on the website. However, if you'd like to build this font yourself using
+associated with creating the OpenType Variable Font features, the compiled, functioning version of this font
+requires a payment of $10 or more on the website. On the other hand, if you'd like to build this font yourself using
 the source code, the follow the following instructions.
 
 1. Download the complete source code, either by cloning this repository or downloading the .zip file.
