@@ -66,7 +66,7 @@ the source code, the follow the following instructions.
 
 2. Download and install:<br>
 **fontmake** which can be found [here](https://github.com/googlei18n/fontmake)<br>
-**gftools** which can be found [here](https://github.com/googlefonts/gftools)<br>
+**gftools** which can be found [here](https://github.com/googlefonts/gftools) (at least 0.9.26)<br>
 **ttfautohint** which can be found [here](https://www.freetype.org/ttfautohint/)<br>
 
 3. Run the build.sh script located in the "scripts" folder. This should make both the variable and non-variable versions of the font.
