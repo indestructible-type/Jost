@@ -12,7 +12,6 @@ echo "vf cleaning"
 vfs=$(ls ../fonts/*.ttf)
 for vf in $vfs
 do
-gftools fix-dsig -f $vf;
 gftools fix-nonhinting $vf "$vf.fix";
 mv "$vf.fix" $vf;
 done
@@ -43,9 +42,6 @@ fontmake -o ufo -i "900i" -m ../sources/designspace/jost.designspace
 
 echo "Generating TrueType Fonts"
 fontmake  -o ttf --output-dir ../fonts/ttf2/ -u ../sources/instances/100.ufo ../sources/instances/100i.ufo ../sources/instances/200.ufo ../sources/instances/200i.ufo ../sources/instances/300.ufo ../sources/instances/300i.ufo ../sources/instances/400.ufo ../sources/instances/400i.ufo ../sources/instances/500.ufo ../sources/instances/500i.ufo ../sources/instances/600.ufo ../sources/instances/600i.ufo ../sources/instances/700.ufo ../sources/instances/700i.ufo ../sources/instances/800.ufo ../sources/instances/800i.ufo ../sources/instances/900.ufo ../sources/instances/900i.ufo
-
-echo "Hot Fixes"
-gftools fix-dsig -f ../fonts/ttf2/*.ttf
 
 mkdir -p ../fonts/ttf
 
